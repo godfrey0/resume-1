@@ -13,7 +13,7 @@ http://iro-iro.iroirojpnrest.repl.co
 
 https://github.com/godfrey0
 
-https://github.com/godfrey0/resume.git
+https://github.com/godfreyong/resume.git
 
 https://godfrey0.github.io/IroIroJapaneseRestaurant
 
