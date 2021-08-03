@@ -30,15 +30,12 @@ EXPERIENCE
 SUCCESS FOREVER CONSTRUCTION 2018~2020
 - Project Manager
 - Performed structural repair work for HDB and Town Council
-
-
+-
 ETANA RESOURCES 2017~2018
 - Senior Engineer
 - Maintenance Equipment for SAF
-
-
+-
 TRADISITICS 2000~2017
-
 - CTO
 - (notable programmes) AHA Extended Warranty
 Doctor Digital,
@@ -59,7 +56,7 @@ BOOKWORM COUNSULTANTS,
 NEC COMPUTERS INTERNATIONAL,
 PACKARD BELL,
 GIGABYTE COMPUTERS,
-
+-
 MINUS 10 2000~2000
 - CIO
 - eCommerce
@@ -94,27 +91,27 @@ Professional Certificate Fintech Senior Developer 2021
 - DevOps: Build, Deploy and Monitor 2021
 - Making Smart Contract with Blockchain 2021
 - Algo-Trading: Theory and Practice 2021
-
+-
 Professional Certificate Fintech Developer 2021
 - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend
 - Developers Toolkit Part 2: Middleware to Backend
 - APIs and RPA: Automation, Bots and Future
-
+-
 Professional Certificate Fintech Associate 2021
 - courses completed:
 - FinTech: Concepts, Cases and Technology
 - Design Thinking: Creative and Strategic Business Solutions
 - Beyond Disruptions: Digitalising Financial Services
 - Delight Customers and Protect Privacy with AI and Blockchain
-
+-
 Professional Certificate Business Analytics & AI for Finance, Retail and Supply Chain 2021
 - courses completed:
 - Making Fast Decisions with Business Analytics
 - Optimising Customers’ Experience with Fintech Strategy
 - Using Business Analytics to Answer Business Questions
 - Fundamental of Investing Leveraging Technology
-
+-
 National University of Singapore The Faculty of Arts and Social Sciences
 
 Professional Certificate Human and Automated Managerial Skills 2021
@@ -125,14 +122,14 @@ Professional Certificate Human and Automated Managerial Skills 2021
 - How to Critically reason with Data on Microsoft Excel
 - The Fundamentals of Algorithm Design and the Politics of Algorithms
 - 5 courses aimed at enriching both the learner’s mind and heart
-
+-
 edX
 - courses completed:
 - University Cote d’ Azur, W3Cx, JavaScript Introduction 2021
 - Harvard University, CS50’s Computer Science for Business Professionals 2021
 - University of Michigan, Programming for Everybody Getting Started with Python 2021
 - Imperial College London, Creative Thinking: Techniques and Tools 2021
-
+-
 National University of Singapore School of Computing
 - courses completed:
 - APIs and RPA: Automation, Bots and Future 2021
@@ -146,7 +143,7 @@ National University of Singapore School of Computing
 - Using Business Analytics to Answer Business Questions 2021
 - Optimizing Customers’ Experience with FinTech Technology 2021
 - Making Fast Decisions with Business Analytics 2021
-
+-
 Singapore Business Federation Business Institute
 - courses completed:
 - Vetting and Securing a Joint venture Agreement 2019
@@ -163,7 +160,7 @@ Singapore Business Federation Business Institute
 - Negotiation & Business Decision Making in Southeast Asia 2018
 - Introduction to Business Culture Protocol & Communications with SEA Market 2018
 - Steps to Build A Cyber-Security Strategy for the International Market 2018
-
+-
 
 Other Qualification:
 - MBA., University of Adelaide 2001
@@ -183,11 +180,11 @@ Other Qualification:
 - MOH, ART Self-Swab, HMI, 2021
 - MOH, SRS-ESSS, HPB, 2021
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
-
+-
 
 Awards:
 - Spirit Of Enterprise Awards nominee 2012
 - Singapore Quality Class Awards nominee 2011
 - SAF Good Service Medal 1977
-
+-
 End of Statement
