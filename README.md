@@ -12,16 +12,16 @@ https://github.com/godfrey0
 https://github.com/godfrey0/resume.git
 https://godfrey0.github.io/IroIroJapaneseRestaurant
 https://v2.credential.net/profile/ongserthong325210/wallet
-
 https://courses.edx.org/certificates/9a3374812c2a44d8ae33397dd724234a
 https://courses.edx.org/certificates/2154a7fab781457f90d9939e3bfdd170
 https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
 https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
 
 EXPERIENCE
-- SUCCESS FOREVER CONSTRUCTION 2018~2020
-Project Manager
-Performed structural repair work for HDB and Town Council
+
+SUCCESS FOREVER CONSTRUCTION 2018~2020
+- Project Manager
+- Performed structural repair work for HDB and Town Council
 
 ETANA RESOURCES 2017~2018
 . Senior Engineer
