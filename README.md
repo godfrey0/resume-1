@@ -63,29 +63,29 @@ GIGABYTE COMPUTERS,
 MINUS 10 2000~2000
 - CIO
 - eCommerce
-
+-
 SANOFI RHONE POULENC PHARMA 1993~2001
 - Medical Executive
 - Consumable Drugs / Vaccines
-
+-
 ELTEAN AGENCIES 1990~1993
 - Products Executive
 - Skin Care Products
- 
+- 
 BETHESDA HALL AMK 1989~1990
 - Chief Instructor
 - Queensland Mailbox Bible Correspondence Course
-
+-
 SILAT II PRIMARY SCHOOL 1983~1983
 - Relief Teacher
-
+-
 SAF OETI, School of Docrtrine 1973~1983
 - Lead Invigilator
 - Ordnance Engineering Training Institute
-
+-
 
 EDUCATION
-- National University of Singapore 2001 - Present
+National University of Singapore 2001 - Present
 
 National University of Singapore School of Computing
 
