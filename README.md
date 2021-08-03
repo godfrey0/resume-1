@@ -4,6 +4,7 @@ Ong Ser Thong, Adelaide MBA. +65 81813136
 
 t0921234@u.nus.edu / serthongong@gmail.com
 
+
 URLs
 
 www.linkedin.com/in/godfrey0-b13a49208
@@ -22,6 +23,7 @@ https://courses.edx.org/certificates/9a3374812c2a44d8ae33397dd724234a
 https://courses.edx.org/certificates/2154a7fab781457f90d9939e3bfdd170
 https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
 https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
+
 
 EXPERIENCE
 
@@ -82,6 +84,7 @@ SILAT II PRIMARY SCHOOL 1983~1983
 SAF OETI, School of Docrtrine 1973~1983
 - Lead Invigilator
 - Ordnance Engineering Training Institute
+
 
 EDUCATION
 - National University of Singapore 2001 - Present
@@ -163,24 +166,26 @@ Singapore Business Federation Business Institute
 - Introduction to Business Culture Protocol & Communications with SEA Market 2018
 - Steps to Build A Cyber-Security Strategy for the International Market 2018
 
+
 Other Qualification:
-MBA., University of Adelaide 2001
-B. Min., Theological Centre for Asia 1996
-Dip. Th., Singapore Bible College 1987
-SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2017
-QMR., SAPI, Singapore Pharmaceutical Industries 1994
-BCA, Trained Installer Air-Conditioning Structure, 2014
-MOM, Certified Biz Safe Level 1,2 & 3 Risk Management 2016
-GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
-Certificate of Achievment, Dirad 2020
-Dip., LTI, CEF Missouri 1984
-Unarmed Combat Instructor, SAFTI School of PTI, 1980
-Gun Fitter Class 1, SAF OETI Ordnance Engineering Training Institute, 1981
-Armourer to Gun fitter Conversion Course, SAF OETI, 1977
-Armourer Class 1, SAF WOB, 1974
-MOH, ART Self-Swab, HMI, 2021
-MOH, SRS-ESSS, HPB, 2021
-Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
+- MBA., University of Adelaide 2001
+- B. Min., Theological Centre for Asia 1996
+- Dip. Th., Singapore Bible College 1987
+- SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2017
+- QMR., SAPI, Singapore Pharmaceutical Industries 1994
+- BCA, Trained Installer Air-Conditioning Structure, 2014
+- MOM, Certified Biz Safe Level 1,2 & 3 Risk Management 2016
+- GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
+- Certificate of Achievment, Dirad 2020
+- Dip., LTI, CEF Missouri 1984
+- Unarmed Combat Instructor, SAFTI School of PTI, 1980
+- Gun Fitter Class 1, SAF OETI Ordnance Engineering Training Institute, 1981
+- Armourer to Gun fitter Conversion Course, SAF OETI, 1977
+- Armourer Class 1, SAF WOB, 1974
+- MOH, ART Self-Swab, HMI, 2021
+- MOH, SRS-ESSS, HPB, 2021
+- Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
+
 
 Awards:
 - Spirit Of Enterprise Awards nominee 2012
