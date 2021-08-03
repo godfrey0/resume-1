@@ -1,7 +1,8 @@
 RESUME
 
 Ong Ser Thong, Adelaide MBA. +65 81813136
-- t0921234@u.nus.edu / serthongong@gmail.com
+
+t0921234@u.nus.edu / serthongong@gmail.com
 
 URLs
 
