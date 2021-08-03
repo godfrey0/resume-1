@@ -7,10 +7,15 @@ t0921234@u.nus.edu / serthongong@gmail.com
 URLs
 
 www.linkedin.com/in/godfrey0-b13a49208
+
 http://iro-iro.iroirojpnrest.repl.co
+
 https://github.com/godfrey0
+
 https://github.com/godfrey0/resume.git
+
 https://godfrey0.github.io/IroIroJapaneseRestaurant
+
 https://v2.credential.net/profile/ongserthong325210/wallet
 
 https://courses.edx.org/certificates/9a3374812c2a44d8ae33397dd724234a
@@ -26,22 +31,23 @@ SUCCESS FOREVER CONSTRUCTION 2018~2020
 
 
 ETANA RESOURCES 2017~2018
-. Senior Engineer
-. Maintenance Equipment for SAF
+- Senior Engineer
+- Maintenance Equipment for SAF
 
 
 TRADISITICS 2000~2017
 
-.CTO
-(notable programmes)
-AHA Extended Warranty
+- CTO
+- (notable programmes)
+- AHA Extended Warranty
 Doctor Digital
 Data Recovery
 IDA NEU PC
 Safety 5
 U-Save
-. (notable partners)
-GAIN CITY ENGINEERING
+
+- (notable partners)
+- GAIN CITY ENGINEERING
 NOJIMA COURTS SUPERSTORE
 BEST DENKI
 HARVEY NORMAN
@@ -52,41 +58,41 @@ IDA, Infocomm Media Authority of Singapore
 BOOKWORM COUNSULTANTS
 NEC COMPUTERS INTERNATIONAL
 PACKARD BELL
+
 MINUS 10 2000~2000
+- CIO
+- eCommerce
 
-CIO
-eCommerce
 SANOFI RHONE POULENC PHARMA 1993~2001
+- Medical Executive
+- Consumable Drugs / Vaccines
 
-Medical Executive
-Consumable Drugs / Vaccines
 ELTEAN AGENCIES 1990~1993
-
-Products Executive
-Skin Care Products
+- Products Executive
+- Skin Care Products
+ 
 BETHESDA HALL AMK 1989~1990
+- Chief Instructor
+- Queensland Mailbox Bible Correspondence Course
 
-Chief Instructor
-Queensland Mailbox Bible Correspondence Course
 SILAT II PRIMARY SCHOOL 1983~1983
+- Relief Teacher
 
-Relief Teacher
 SAF OETI, School of Docrtrine 1973~1983
+- Lead Invigilator
+- Ordnance Engineering Training Institute
 
-Lead Invigilator
-Ordnance Engineering Training Institute
 EDUCATION
-National University of Singapore 2001 - Present
+- National University of Singapore 2001 - Present
 
 National University of Singapore School of Computing
 
 Professional Certificate Fintech Senior Developer 2021
-
-courses completed:
-DevOps: Build, Deploy and Monitor 2021
-Making Smart Contract with Blockchain 2021
-Algo-Trading: Theory and Practice 2021
-Professional Certificate Fintech Developer 2021
+- courses completed:
+- DevOps: Build, Deploy and Monitor 2021
+-Making Smart Contract with Blockchain 2021
+- Algo-Trading: Theory and Practice 2021
+- Professional Certificate Fintech Developer 2021
 
 courses completed:
 Developers Toolkit Part 1: Connecting the Frontend
