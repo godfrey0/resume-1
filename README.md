@@ -87,8 +87,8 @@ National University of Singapore 2021~Present
 
 National University of Singapore
 - School of Computing
-Professional Certificate 2021
-- Fintech Senior Developer Level 3
+- Professional Certificate 2021
+- FINTECH SENIOR DEVELOPER Level 3
 - courses completed:
 - DevOps: Build, Deploy and Monitor 2021
 - Making Smart Contract with Blockchain 2021
@@ -96,8 +96,8 @@ Professional Certificate 2021
 -
 National University of Singapore
 - School of Computing
-Professional Certificate 2021
-- Fintech Developer Level 2
+- Professional Certificate 2021
+- FINTECH DEVELOPER Level 2
 - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend
 - Developers Toolkit Part 2: Middleware to Backend
@@ -106,7 +106,7 @@ Professional Certificate 2021
 National University of Singapore
 - School of Computing
 - Professional Certificate 2021
-Fintech Associate Level 1
+- FINTECH ASSOCIATE LeveL 1
 - courses completed:
 - FinTech: Concepts, Cases and Technology
 - Design Thinking: Creative and Strategic Business Solutions
@@ -116,16 +116,17 @@ Fintech Associate Level 1
 National University of Singapore
 - School of Computing
 - Professional Certificate 2021
-Business Analytics and AI for Finance, Retail and Supply Chain
+- BUSINESS ANALYTICS and AI for FINANCE, RETAIL and SUPPLY CHAIN
 - courses completed:
 - Making Fast Decisions with Business Analytics
 - Optimising Customers’ Experience with Fintech Strategy
 - Using Business Analytics to Answer Business Questions
 - Fundamental of Investing Leveraging Technology
 -
-National University of Singapore The Faculty of Arts and Social Sciences
-
-Professional Certificate Human and Automated Managerial Skills 2021
+National University of Singapore 
+- The Faculty of Arts and Social Sciences
+- Professional Certificate 2021
+- HUMAN and AUTOMATED MANAGERIAL SKILLS
 - courses completed:
 - Meaning to Mindsets
 - Positivity and Wellbeing
@@ -141,7 +142,7 @@ edX
 - University of Michigan, Programming for Everybody Getting Started with Python 2021
 - Imperial College London, Creative Thinking: Techniques and Tools 2021
 -
-National University of Singapore School of Computing
+National University of Singapore FINTECH LAB
 - courses completed:
 - APIs and RPA: Automation, Bots and Future 2021
 - Developers Toolkit Part 2: Middleware to Backend 2021
@@ -154,6 +155,11 @@ National University of Singapore School of Computing
 - Using Business Analytics to Answer Business Questions 2021
 - Optimizing Customers’ Experience with FinTech Technology 2021
 - Making Fast Decisions with Business Analytics 2021
+- Meaning to Mindsets
+- Positivity and Wellbeing
+- Support and Service
+- How to Critically reason with Data on Microsoft Excel
+- The Fundamentals of Algorithm Design and the Politics of Algorithms
 -
 Singapore Business Federation Business Institute
 - courses completed:
@@ -179,17 +185,19 @@ Other Qualification:
 - Dip. Th., Singapore Bible College 1987
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2017
 - QMR., SAPI, Singapore Pharmaceutical Industries 1994
-- BCA, Trained Installer Air-Conditioning Structure, 2014
+- BCA, Certified Installer Air-Conditioning Structure, 2014
 - MOM, Certified Biz Safe Level 1,2 & 3 Risk Management 2016
 - GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
 - Certificate of Achievment, Dirad 2020
-- Dip., LTI, CEF Missouri 1984
+- Dip. LTI., CEF Missouri 1984
 - Unarmed Combat Instructor, SAFTI School of PTI, 1980
-- Gun Fitter Class 1, SAF OETI Ordnance Engineering Training Institute, 1981
+- Gun Fitter Class 1, Ordnance Engineering Training Institute, 1981
 - Armourer to Gun fitter Conversion Course, SAF OETI, 1977
-- Armourer Class 1, SAF WOB, 1974
-- MOH, ART Self-Swab, HMI, 2021
-- MOH, SRS-ESSS, HPB, 2021
+- Armourer Cl 1, SAF WOB, 1976
+- Armourer Cl 2, SAF WOB, 1974
+- MOH, Certified ART Self-Swab, Health Management International 2021
+- MOH, Trained SRS-ESSS, HPB, Health Promotion Board 2021
+- IC11 Basic Food Hygiene Course, 2021 
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
 
