@@ -57,16 +57,16 @@ NEC Computers International, Japan;
 Packard Bell Computers, France;
 Gigabyte Computers, Taiwan.
 -
-MINUS 10 2000~2000
+MINUS 10 2000~2001
 - CIO
 - eCommerce
 -
 SANOFI RHONE POULENC PHARMA 1993~2001
-- Medical Executive
+- Executive
 - Consumable Drugs / Vaccines
 -
 ELTEAN AGENCIES 1990~1993
-- Products Executive
+- Executive
 - Skin Products
 - 
 BETHESDA HALL AMK 1989~1990
