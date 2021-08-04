@@ -195,9 +195,9 @@ Other Qualification:
 - Armourer to Gun fitter Conversion Course, SAF OETI, 1977
 - Armourer Cl 1, SAF WOB, 1976
 - Armourer Cl 2, SAF WOB, 1974
-- MOH, Certified ART Self-Swab, Health Management International 2021
-- MOH, Trained SRS-ESSS, HPB, Health Promotion Board 2021
-- IC11 Basic Food Hygiene Course, 2021 
+- MOH, ART Self-Swab, Health Management International 2021
+- MOH, SRS-ESSS, HPB, Health Promotion Board 2021
+- SFA, IC11 Basic Food Hygiene Course, 2021 
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
 
