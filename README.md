@@ -1,6 +1,6 @@
 RESUME
 
-Ong Ser Thong, Adelaide MBA. +65 81813136
+Ong Ser Thong Godfrey, Adelaide MBA. +65 81813136
 
 t0921234@u.nus.edu / serthongong@gmail.com
 
@@ -33,7 +33,7 @@ SUCCESS FOREVER CONSTRUCTION 2018~2020
 -
 ETANA RESOURCES 2017~2018
 - Senior Engineer
-- Maintenance Equipment for SAF
+- Maintenance of Heavy Equipment
 -
 TRADISITICS 2000~2017
 - CTO
@@ -44,18 +44,18 @@ IDA NEU PC,
 Safety 5,
 U-Save, 
 
-- (notable partners) GAIN CITY ENGINEERING, 
-NOJIMA COURTS SUPERSTORE, 
-BEST DENKI, 
-HARVEY NORMAN, 
-IC FRITH, 
-NTUC FAIRPRICE,
-OFFICE 1,
+- (notable partners) Gain City Engineering,
+NOJIMA Courts Superstore, 
+Best Denki, 
+Harvey Norman, Australia;
+IC FRITH, New Zealand;
+NTUC Fairprice,
+Office 1,
 IDA Infocomm Media Authority of Singapore, 
-BOOKWORM COUNSULTANTS, 
-NEC COMPUTERS INTERNATIONAL,
-PACKARD BELL,
-GIGABYTE COMPUTERS,
+Bookworm Consultants, 
+NEC Computers International, Japan;
+Packard Bell Computers, France;
+Gigabyte Computers, Taiwan.
 -
 MINUS 10 2000~2000
 - CIO
@@ -67,7 +67,7 @@ SANOFI RHONE POULENC PHARMA 1993~2001
 -
 ELTEAN AGENCIES 1990~1993
 - Products Executive
-- Skin Care Products
+- Skin Products
 - 
 BETHESDA HALL AMK 1989~1990
 - Chief Instructor
@@ -76,36 +76,47 @@ BETHESDA HALL AMK 1989~1990
 SILAT II PRIMARY SCHOOL 1983~1983
 - Relief Teacher
 -
-SAF OETI, School of Docrtrine 1973~1983
+SAF OETI, School of Doctrine 1973~1983
 - Lead Invigilator
 - Ordnance Engineering Training Institute
 -
 
 EDUCATION
-National University of Singapore 2001 - Present
+National University of Singapore 2021~Present
 
-National University of Singapore School of Computing
 
-Professional Certificate Fintech Senior Developer 2021
+National University of Singapore
+- School of Computing
+Professional Certificate 2021
+- Fintech Senior Developer Level 3
 - courses completed:
 - DevOps: Build, Deploy and Monitor 2021
 - Making Smart Contract with Blockchain 2021
 - Algo-Trading: Theory and Practice 2021
 -
-Professional Certificate Fintech Developer 2021
+National University of Singapore
+- School of Computing
+Professional Certificate 2021
+- Fintech Developer Level 2
 - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend
 - Developers Toolkit Part 2: Middleware to Backend
 - APIs and RPA: Automation, Bots and Future
 -
-Professional Certificate Fintech Associate 2021
+National University of Singapore
+- School of Computing
+- Professional Certificate 2021
+Fintech Associate Level 1
 - courses completed:
 - FinTech: Concepts, Cases and Technology
 - Design Thinking: Creative and Strategic Business Solutions
 - Beyond Disruptions: Digitalising Financial Services
 - Delight Customers and Protect Privacy with AI and Blockchain
 -
-Professional Certificate Business Analytics & AI for Finance, Retail and Supply Chain 2021
+National University of Singapore
+- School of Computing
+- Professional Certificate 2021
+Business Analytics and AI for Finance, Retail and Supply Chain
 - courses completed:
 - Making Fast Decisions with Business Analytics
 - Optimising Customers’ Experience with Fintech Strategy
