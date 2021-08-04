@@ -131,9 +131,9 @@ National University of Singapore
 - Meaning to Mindsets
 - Positivity and Wellbeing
 - Support and Service
-- How to Critically reason with Data on Microsoft Excel
+- How to Critically Reason with Data on Microsoft Excel
 - The Fundamentals of Algorithm Design and the Politics of Algorithms
-- 5 courses aimed at enriching both the learner’s mind and heart
+- 5 Courses aimed at enriching both the learner’s mind and heart
 -
 edX
 - courses completed:
@@ -158,7 +158,7 @@ National University of Singapore FINTECH LAB
 - Meaning to Mindsets
 - Positivity and Wellbeing
 - Support and Service
-- How to Critically reason with Data on Microsoft Excel
+- How to Critically Reason with Data on Microsoft Excel
 - The Fundamentals of Algorithm Design and the Politics of Algorithms
 -
 Singapore Business Federation Business Institute
