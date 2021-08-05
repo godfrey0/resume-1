@@ -7,11 +7,11 @@ t0921234@u.nus.edu / serthongong@gmail.com
 
 URLs
 
+https://github.com/godfrey0
+
 www.linkedin.com/in/godfrey0-b13a49208
 
 http://iro-iro.iroirojpnrest.repl.co
-
-https://github.com/godfrey0
 
 https://github.com/godfreyong/resume.git
 
