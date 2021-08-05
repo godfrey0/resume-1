@@ -29,7 +29,7 @@ EXPERIENCE
 
 SUCCESS FOREVER CONSTRUCTION 2018~2020
 - Project Manager
-- Performed structural repair work for HDB and Town Council
+- Structural repair work for HDB and Town Council
 -
 ETANA RESOURCES 2017~2018
 - Senior Engineer
@@ -37,7 +37,7 @@ ETANA RESOURCES 2017~2018
 -
 TRADISITICS 2000~2017
 - CTO
-- (notable programmes) AHA Extended Warranty
+- (notable programmes) AHA Extended Warranty,
 Doctor Digital,
 Data Recovery, 
 IDA NEU PC, 
@@ -82,6 +82,7 @@ SAF OETI, School of Doctrine 1973~1983
 -
 
 EDUCATION
+
 National University of Singapore 2021~Present
 
 
@@ -106,7 +107,7 @@ National University of Singapore
 National University of Singapore
 - School of Computing
 - Professional Certificate 2021
-- FINTECH ASSOCIATE LeveL 1
+- FINTECH ASSOCIATE Level 1
 - courses completed:
 - FinTech: Concepts, Cases and Technology
 - Design Thinking: Creative and Strategic Business Solutions
@@ -141,6 +142,7 @@ edX
 - Harvard University, CS50’s Computer Science for Business Professionals 2021
 - University of Michigan, Programming for Everybody Getting Started with Python 2021
 - Imperial College London, Creative Thinking: Techniques and Tools 2021
+- University of Maryland, Applied Scrum for Agile Project Management 2021
 -
 National University of Singapore FINTECH LAB
 - courses completed:
