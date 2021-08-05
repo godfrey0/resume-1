@@ -1,6 +1,6 @@
 RESUME
 
-Ong Ser Thong Godfrey, Adelaide MBA. +65 81813136
+Ong Ser Thong Godfrey, Adelaide MBA, +65 81813136
 
 t0921234@u.nus.edu / serthongong@gmail.com
 
@@ -182,7 +182,7 @@ Singapore Business Federation Business Institute
 -
 
 Other Qualification:
-- MBA., University of Adelaide 2001
+- MBA, University of Adelaide 2001
 - B. Min., Theological Centre for Asia 1996
 - Dip. Th., Singapore Bible College 1987
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2017
