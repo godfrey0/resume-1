@@ -1,40 +1,30 @@
 RESUME
+- Ong Ser Thong Godfrey 
+- MBA, Adelaide Business School (Ranked #1 in South Australia and #2 in Australia)
+- FinTech Senior Developer, NUS Crystal Centre (Cryptocurrency, Strategy, Technigues and Algorithims)
+- +65 81813136
+- t0921234@u.nus.edu 
+- serthongong@gmail.com
 
-Ong Ser Thong Godfrey, Adelaide MBA, +65 81813136
 
-t0921234@u.nus.edu / serthongong@gmail.com
+PERSONAL PROJECT
+- Individual Project 2021~Present
+- QuantConnect and SubmittingAlpha under Prof Anand Bhojan as Instructor and PHD candidate Dixtant Mittal as mentor.
+- Develop PowerBI basic course for beginner work in collaboration with Nogawa Sentosa.
 
-
-URLs
-
-https://github.com/godfrey0
-
-www.linkedin.com/in/godfrey0-b13a49208
-
-http://iro-iro.iroirojpnrest.repl.co
-
-https://github.com/godfreyong/resume.git
-
-https://godfrey0.github.io/IroIroJapaneseRestaurant
-
-https://v2.credential.net/profile/ongserthong325210/wallet
-
-https://courses.edx.org/certificates/9a3374812c2a44d8ae33397dd724234a
-https://courses.edx.org/certificates/2154a7fab781457f90d9939e3bfdd170
-https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
-https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
-https://courses.edx.org/certificates/357f61567b4147dbaf360e325734f7db
-
+ 
 EXPERIENCE
 
 SUCCESS FOREVER CONSTRUCTION 2018~2020
 - Project Manager
 - Structural repair work for HDB and Town Council
 -
+
 ETANA RESOURCES 2017~2018
 - Senior Engineer
 - Maintenance of Heavy Equipment
 -
+
 TRADISITICS 2000~2017
 - CTO
 - (notable programmes) AHA Extended Warranty,
@@ -51,40 +41,48 @@ Harvey Norman, Australia;
 IC FRITH, New Zealand;
 NTUC Fairprice,
 Office 1,
-IDA Infocomm Media Authority of Singapore, 
-Bookworm Consultants, 
+IDA Infocomm Media Authority of Singapore,  
 NEC Computers International, Japan;
 Packard Bell Computers, France;
 Gigabyte Computers, Taiwan.
 -
+
 MINUS 10 2000~2001
 - CIO
 - eCommerce
 -
+
 SANOFI RHONE POULENC PHARMA 1993~2001
 - Executive
 - Consumable Drugs / Vaccines
 -
+
 ELTEAN AGENCIES 1990~1993
 - Executive
-- Skin Products
+- Watsons Pharmacy, Guardian Pharmacy, Apex Pharmacy, Unity Pharmacy
 - 
+
 BETHESDA HALL AMK 1989~1990
 - Chief Instructor
 - Queensland Mailbox Bible Correspondence Course
 -
+
+BOOKWORMS CONSULTANTS 1983~1984
+- Media Manager
+- Primary Schools
+-
+
 SILAT II PRIMARY SCHOOL 1983~1983
 - Relief Teacher
 -
+
 SAF OETI, School of Doctrine 1973~1983
 - Lead Invigilator
 - Ordnance Engineering Training Institute
 -
 
 EDUCATION
-
-National University of Singapore 2021~Present
-
+- National University of Singapore 2021~Present
 
 National University of Singapore
 - School of Computing
@@ -95,6 +93,7 @@ National University of Singapore
 - Making Smart Contract with Blockchain 2021
 - Algo-Trading: Theory and Practice 2021
 -
+
 National University of Singapore
 - School of Computing
 - Professional Certificate 2021
@@ -104,6 +103,7 @@ National University of Singapore
 - Developers Toolkit Part 2: Middleware to Backend
 - APIs and RPA: Automation, Bots and Future
 -
+
 National University of Singapore
 - School of Computing
 - Professional Certificate 2021
@@ -114,6 +114,7 @@ National University of Singapore
 - Beyond Disruptions: Digitalising Financial Services
 - Delight Customers and Protect Privacy with AI and Blockchain
 -
+
 National University of Singapore
 - School of Computing
 - Professional Certificate 2021
@@ -124,6 +125,7 @@ National University of Singapore
 - Using Business Analytics to Answer Business Questions
 - Fundamental of Investing Leveraging Technology
 -
+
 National University of Singapore 
 - The Faculty of Arts and Social Sciences
 - Professional Certificate 2021
@@ -136,6 +138,7 @@ National University of Singapore
 - The Fundamentals of Algorithm Design and the Politics of Algorithms
 - 5 Courses aimed at enriching both the learner’s mind and heart
 -
+
 edX
 - courses completed:
 - University Cote d’ Azur, W3Cx, JavaScript Introduction 2021
@@ -144,6 +147,7 @@ edX
 - Imperial College London, Creative Thinking: Techniques and Tools 2021
 - University of Maryland, Applied Scrum for Agile Project Management 2021
 -
+
 National University of Singapore FINTECH LAB
 - courses completed:
 - APIs and RPA: Automation, Bots and Future 2021
@@ -208,4 +212,26 @@ Awards:
 - Singapore Quality Class Awards nominee 2011
 - SAF Good Service Medal 1977
 -
+
+
+URLs
+
+https://github.com/godfrey0
+
+www.linkedin.com/in/godfrey0-b13a49208
+
+http://iro-iro.iroirojpnrest.repl.co
+
+https://github.com/godfreyong/resume.git
+
+https://godfrey0.github.io/IroIroJapaneseRestaurant
+
+https://v2.credential.net/profile/ongserthong325210/wallet
+
+https://courses.edx.org/certificates/9a3374812c2a44d8ae33397dd724234a
+https://courses.edx.org/certificates/2154a7fab781457f90d9939e3bfdd170
+https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
+https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
+https://courses.edx.org/certificates/357f61567b4147dbaf360e325734f7db
+
 End of Statement
