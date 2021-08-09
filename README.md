@@ -104,6 +104,16 @@ EDUCATION
 National University of Singapore
 - School of Computing
 - Professional Certificate 2021
+- FinTech SENIOR DEVELOPER Level 3
+- courses completed:
+- DevOps: Build, Deploy and Monitor 2021
+- Making Smart Contract and Blockchain 2021
+- Algotrading: Theory and practice 2021
+- 
+
+National University of Singapore
+- School of computing
+- Professional Certificate 2021
 - FinTech DEVELOPER Level 2
 - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend
