@@ -1,17 +1,21 @@
 RESUME
 - Ong Ser Thong Godfrey 
-- MBA, Adelaide Business School (Ranked #1 in South Australia and #2 in Australia)
-- FinTech Senior Developer, NUS Crystal Centre (Cryptocurrency, Strategy, Technigues and Algorithims)
-- +65 81813136
-- t0921234@u.nus.edu 
+- MBA, Adelaide Business School, (Ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020
+- NUS FinTech Senior Developer, Crystal Centre (Cryptocurrency, Strategy, Techniques and Algorithims) 2021
 - serthongong@gmail.com
+- t0921234@u.nus.edu 
+- +65 81813136
+- 
+
+MOTTO
+- I read Hermeneutics advised by Professor Bernard L Ramm and he taught me life begins at 72!
 
 
 PERSONAL PROJECT
 - Individual Project 2021~Present
-- QuantConnect and SubmittingAlpha under Prof Anand Bhojan as Instructor and PHD candidate Dixtant Mittal as mentor.
-- Develop PowerBI basic course for beginner work in collaboration with Nogawa Sentosa.
-
+- QuantConnect and SubmittingAlpha instruct by Professor Anand Bhojan and mentor by PhD candidate Dixtant Mittal.
+- Introduction to PowerBI course for begineer work in collaboration with Nogawa Sentosa.
+-
  
 EXPERIENCE
 
@@ -74,7 +78,8 @@ BOOKWORMS CONSULTANTS 1983~1984
 
 SILAT II PRIMARY SCHOOL 1983~1983
 - Relief Teacher
--
+- Mathematics
+- 
 
 SAF OETI, School of Doctrine 1973~1983
 - Lead Invigilator
@@ -83,8 +88,9 @@ SAF OETI, School of Doctrine 1973~1983
 
 EDUCATION
 - National University of Singapore 2021~Present
+School of Computing, Crystal Centre (Cryptocurrency, Strategy, Techniques and Algorithims)
 
-National University of Singapore
+- National University of Singapore
 - School of Computing
 - Professional Certificate 2021
 - FINTECH SENIOR DEVELOPER Level 3
@@ -203,7 +209,7 @@ Other Qualification:
 - Armourer Cl 2, SAF WOB, 1974
 - MOH, ART Self-Swab, Health Management International 2021
 - MOH, SRS-ESSS, HPB, Health Promotion Board 2021
-- SFA, IC11 Basic Food Hygiene Course, 2021 
+- SFA, IC11 Basic Food Hygiene Course, under suoervision of Chef Henry Lin JinQian, 2021 
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
 
@@ -233,5 +239,6 @@ https://courses.edx.org/certificates/2154a7fab781457f90d9939e3bfdd170
 https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
 https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
 https://courses.edx.org/certificates/357f61567b4147dbaf360e325734f7db
+
 
 End of Statement
