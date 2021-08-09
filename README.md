@@ -209,7 +209,7 @@ Other Qualification:
 - Armourer Cl 2, SAF WOB, 1974
 - MOH, ART Self-Swab, Health Management International 2021
 - MOH, SRS-ESSS, HPB, Health Promotion Board 2021
-- SFA, IC11 Basic Food Hygiene Course, under suoervision of Chef Henry Lin JinQian, 2021 
+- SFA, IC11 Basic Food Hygiene Course, under supervision of Chef Henry Lin JinQian, 2021 
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
 
