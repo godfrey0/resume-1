@@ -8,7 +8,7 @@ RESUME
 - 
 
 MOTTO
-- I read Hermeneutics and advised by Professor Bernard L Ramm. Over a bottle of coke, he shared in private that life begins at 72!
+- I read Hermeneutics with Professor Bernard L Ramm. While over a bottle of coke, he shared in private that life begins at 72!
 - 
 
 PERSONAL PROJECT
