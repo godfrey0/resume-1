@@ -88,12 +88,12 @@ SAF OETI, School of Doctrine 1973~1983
 
 EDUCATION
 - National University of Singapore 2021~Present
-School of Computing, Crystal Centre (Cryptocurrency, Strategy, Techniques and Algorithims)
+- School of Computing, Crystal Centre (Cryptocurrency, Strategy, Techniques and Algorithims)
 
 - National University of Singapore
 - School of Computing
 - Professional Certificate 2021
-- FINTECH SENIOR DEVELOPER Level 3
+- FinTech SENIOR DEVELOPER Level 3
 - courses completed:
 - DevOps: Build, Deploy and Monitor 2021
 - Making Smart Contract with Blockchain 2021
@@ -103,7 +103,7 @@ School of Computing, Crystal Centre (Cryptocurrency, Strategy, Techniques and Al
 National University of Singapore
 - School of Computing
 - Professional Certificate 2021
-- FINTECH DEVELOPER Level 2
+- FinTech DEVELOPER Level 2
 - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend
 - Developers Toolkit Part 2: Middleware to Backend
@@ -113,7 +113,7 @@ National University of Singapore
 National University of Singapore
 - School of Computing
 - Professional Certificate 2021
-- FINTECH ASSOCIATE Level 1
+- FinTech ASSOCIATE Level 1
 - courses completed:
 - FinTech: Concepts, Cases and Technology
 - Design Thinking: Creative and Strategic Business Solutions
