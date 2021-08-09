@@ -91,14 +91,6 @@ EDUCATION
 - School of Computing, Crystal Centre (Cryptocurrency, Strategy, Techniques and Algorithims)
 -
 
-- National University of Singapore
-- School of Computing
-- Professional Certificate 2021
-- FinTech SENIOR DEVELOPER Level 3
-- courses completed:
-- DevOps: Build, Deploy and Monitor 2021
-- Making Smart Contract with Blockchain 2021
-- Algo-Trading: Theory and Practice 2021
 -
 
 National University of Singapore
