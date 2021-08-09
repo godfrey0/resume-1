@@ -8,8 +8,8 @@ RESUME
 - 
 
 MOTTO
-- I read Hermeneutics advised by Professor Bernard L Ramm and he taught me life begins at 72!
-
+- I read Hermeneutics, Professor Bernard L Ramm advised me and he taught that life begins at 72!
+-
 
 PERSONAL PROJECT
 - Individual Project 2021~Present
