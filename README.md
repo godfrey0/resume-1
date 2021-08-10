@@ -210,14 +210,14 @@ Other Qualification:
 - GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
 - Certificate of Achievment, Dirad 2020
 - Dip. LTI., CEF Missouri 1984
-- Unarmed Combat Instructor, SAFTI School of PTI, 1980
+- Unarmed Combat Instructor, SAFTI Sch of Physical Training Institute, 1980
 - Gun Fitter Class 1, Ordnance Engineering Training Institute, 1981
 - Armourer to Gun fitter Conversion Course, SAF OETI, 1977
-- Armourer Cl 1, SAF WOB, 1976
-- Armourer Cl 2, SAF WOB, 1974
+- Armourer Cl 1, SAF Weapon Optical Base, 1976
+- Armourer Cl 2, SAF Weapon Optical Base, 1974
 - MOH, ART Self-Swab, Health Management International 2021
 - MOH, SRS-ESSS, HPB, Health Promotion Board 2021
-- SFA, Food Hygiene Course, supervision by Chef Henry Lin JinQian (MBS & Fullerton) 2021 
+- SFA, Food Hygiene Course, supervised by Chef Henry Lin JinQian (MBS & Fullerton) 2021 
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
 
