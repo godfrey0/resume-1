@@ -163,11 +163,11 @@ edX
 
 National University of Singapore FINTECH LAB
 - courses completed:
--- APIs and RPA: Automation, Bots and Future 2021
---Developers Toolkit Part 2: Middleware to Backend 2021
---Developers Toolkit Part 1: Connecting the Frontend 2021
---Fintech: Concepts, Cases and Technology 2021
---Delight Customers and Protect Privacy with AI and Blockchain 2021
+- - APIs and RPA: Automation, Bots and Future 2021
+- - Developers Toolkit Part 2: Middleware to Backend 2021
+- - Developers Toolkit Part 1: Connecting the Frontend 2021
+- - Fintech: Concepts, Cases and Technology 2021
+- - Delight Customers and Protect Privacy with AI and Blockchain 2021
 - - Beyond Disruptions: Digitalising Financial Services 2021
 - - Design Thinking: Creative and Strategic Business Solutions 2021
 - - Fundamentals of Investing Leveraging Technology 2021
@@ -182,20 +182,20 @@ National University of Singapore FINTECH LAB
 -
 Singapore Business Federation Business Institute
 - courses completed:
-- Vetting and Securing a Joint venture Agreement 2019
-- Avoiding Fraud in Trade Finance in An International Climate 2019
-- Understanding Transfer Pricing 2019
-- Effective Foreign Currency Management 2019
-- International Business Social Media Strategies & Market Research 2019
-- Introduction to Business Practices in the ASEAN Economic Community 2018
-- Introduction to Marketing and Advertising for Consumer & B2B Products 2018
-- Cross-Cultural Business Negotiation 2018
-- Managing Procurement Agreements & Practical Tips 2018
-- INCO Terms 2010 ICC Academy Accredited 2018
-- Practical Approach Vetting / Drafting Sale of Purchase & Service Level Agreement 2018
-- Negotiation & Business Decision Making in Southeast Asia 2018
-- Introduction to Business Culture Protocol & Communications with SEA Market 2018
-- Steps to Build A Cyber-Security Strategy for the International Market 2018
+- - Vetting and Securing a Joint venture Agreement 2019
+- - Avoiding Fraud in Trade Finance in An International Climate 2019
+- - Understanding Transfer Pricing 2019
+- - Effective Foreign Currency Management 2019
+- - International Business Social Media Strategies & Market Research 2019
+- - Introduction to Business Practices in the ASEAN Economic Community 2018
+- - Introduction to Marketing and Advertising for Consumer & B2B Products 2018
+- - Cross-Cultural Business Negotiation 2018
+- - Managing Procurement Agreements & Practical Tips 2018
+- - INCO Terms 2010 ICC Academy Accredited 2018
+- - Practical Approach Vetting / Drafting Sale of Purchase & Service Level Agreement 2018
+- - Negotiation & Business Decision Making in Southeast Asia 2018
+- - Introduction to Business Culture Protocol & Communications with SEA Market 2018
+- - Steps to Build A Cyber-Security Strategy for the International Market 2018
 -
 
 Other Qualification:
