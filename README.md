@@ -199,6 +199,7 @@ Singapore Business Federation Business Institute
 
 Other Qualification:
 - MBA; Adelaide Business School, University of Adelaide 2001
+- - Economic was taught by a nobel prize nominee)
 - B.Min.; (Minor: Chrsitian Education) Theological Centre for Asia 1996
 - Dip. Th., Singapore Bible College 1987
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2017
