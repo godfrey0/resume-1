@@ -35,14 +35,14 @@ ETANA RESOURCES 2017~2018
 
 TRADISITICS 2000~2017
 - CTO
-- (notable programmes) AHA Extended Warranty,
+- -(notable programmes) AHA Extended Warranty,
 Doctor Digital,
 Data Recovery, 
 IDA NEU PC, 
 Safety 5,
 U-Save, 
 
-- (notable partners) Gain City Engineering,
+- - (notable partners) Gain City Engineering,
 NOJIMA Courts Superstore, 
 Best Denki, 
 Harvey Norman, Australia;
