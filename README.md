@@ -65,7 +65,7 @@ SANOFI RHONE POULENC PHARMA 1993~2001
 
 ELTEAN AGENCIES 1990~1993
 - Executive
-- Watsons Pharmacy, Guardian Pharmacy, Apex Pharmacy, Unity Pharmacy
+- Watsons Pharmacy, Guardian Pharmacy, Apex Pharmacy, Unity Pharmacy.
 - 
 
 BETHESDA HALL AMK 1989~1990
