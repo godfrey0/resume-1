@@ -1,8 +1,8 @@
 RESUME
 - Ong Ser Thong Godfrey 
 - MBA., Adelaide Business School, (ranked #1 in South Australia and #2 in Australia) Australian Financial Review BOSS 2020
-- FinTech Senior Developer, NUS Sch of Computing, Crystal Centre (Cryptocurrency, Strategy, Techniques & Algorithims) 2021
-- B.Min., Theological Centre for Asia, (Minor: Christian Eduction)
+- FinTech Senior Developer, NUS Sch of Computing, CRYSTAL Centre (Cryptocurrency, Strategy, Techniques & Algorithims) 2021
+- B.Min., TCA (Minor: Christian Eduction) Theological Centre for Asia 1996
 - SDFEM., Specialist Diploma Franchise Enterprise Management, Ngee Ann Polytechnic 2017
 - serthongong@gmail.com
 - t0921234@u.nus.edu 
@@ -13,9 +13,11 @@ MOTTO
 - I read Hermeneutics with Professor Bernard L Ramm. Bernard shared in private that life begins at 72; Telos!
 - 
 
-PERSONAL PROJECT
-- Individual Project 2021~Present
+CURRENT PROJECT
+- Individual Project (Patents & Copyrights belonging to NUS, CRYSTAL Centre) 2021~Present
 - QuantConnect and SubmittingAlpha instruct by Professor Anand Bhojan and mentor by PhD candidate Dixtant Mittal.
+- 
+- Personal Project (Patents & Copyrights belonging to Nogawa Sentosa) 2021~Present
 - Introduction to PowerBI course for begineer work in collaboration with Nogawa Sentosa.
 -
  
