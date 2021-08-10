@@ -199,9 +199,10 @@ Singapore Business Federation Business Institute
 
 Other Qualification:
 - MBA; Adelaide Business School, University of Adelaide 2001
-- - Economic was taught by a nobel prize nominee)
+- - Economic by nobel prize nominee
 - B.Min.; (Minor: Chrsitian Education) Theological Centre for Asia 1996
 - Dip. Th., Singapore Bible College 1987
+- - Hermeneutics by Prof Bernard L. Ramm
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2017
 - QMR., SAPI, Singapore Pharmaceutical Industries 1994
 - BCA, Certified Installer Air-Conditioning Structure, 2014
