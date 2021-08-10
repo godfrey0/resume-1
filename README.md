@@ -6,6 +6,8 @@ RESUME
 - FinTech Senior Developer, NUS School of Computing 2021
 - - - CRYSTAL Centre (Cryptocurrency, Strategy, Techniques & Algorithims)
 - B.Min., TCA (Minor: Christian Eduction) Theological Centre for Asia 1996
+-  Dip. Th., Singapore Bible College 1987
+- - Read Hermeneutics under Professor Bernard L. Ramm 
 - SDFEM., Specialist Diploma Franchise Enterprise Management, Ngee Ann Polytechnic 2017
 - serthongong@gmail.com
 - t0921234@u.nus.edu 
@@ -206,7 +208,7 @@ Other Qualification:
 - - Read Economic under Professor Richard Promfret (nobel prize nominee)
 - B.Min.; (Minor: Chrsitian Education) Theological Centre for Asia 1996
 - Dip. Th., Singapore Bible College 1987
-- - Read Hermeneutics under Prof Bernard L. Ramm (father of hermeneutics)
+- - Read Hermeneutics under Prof Bernard L. Ramm
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2017
 - QMR., SAPI, Singapore Pharmaceutical Industries 1994
 - BCA, Certified Installer Air-Conditioning Structure, 2014
