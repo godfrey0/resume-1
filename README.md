@@ -11,8 +11,7 @@ RESUME
 
 MOTTO
 - I read Hermeneutics with Professor Bernard L Ramm. 
-- - Prof shared in private that life begins at 72; Telos!
-- 
+- - Professor Bernard shared his life begins at 72!
 
 CURRENT PROJECT
 - Individual Project (Patents & Copyrights belonging to NUS, CRYSTAL Centre) 2021~Present
