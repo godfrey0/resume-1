@@ -10,7 +10,8 @@ RESUME
 - 
 
 MOTTO
-- I read Hermeneutics with Professor Bernard L Ramm. Bernard shared in private that life begins at 72; Telos!
+- I read Hermeneutics with Professor Bernard L Ramm. 
+- - Prof shared in private that life begins at 72; Telos!
 - 
 
 CURRENT PROJECT
