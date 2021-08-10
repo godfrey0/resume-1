@@ -15,10 +15,10 @@ MOTTO
 
 CURRENT PROJECT
 - Individual Project (Patents & Copyrights belonging to NUS, CRYSTAL Centre) 2021~Present
-- QuantConnect and SubmittingAlpha instruct by Professor Anand Bhojan and mentor by PhD candidate Dixtant Mittal.
+- - QuantConnect and SubmittingAlpha instruct by Professor Anand Bhojan and mentor by PhD candidate Dixtant Mittal.
 - 
 - Personal Project (Patents & Copyrights belonging to Nogawa Sentosa) 2021~Present
-- Introduction to PowerBI course for begineer work in collaboration with Nogawa Sentosa.
+- - Introduction to PowerBI course for begineer work in collaboration with Nogawa Sentosa.
 -
  
 EXPERIENCE
