@@ -101,7 +101,7 @@ National University of Singapore
 - School of Computing
 - Professional Certificate 2021
 - FinTech SENIOR DEVELOPER Level 3
-- - courses completed:
+- courses completed:
 - - DevOps: Build, Deploy and Monitor 2021
 - - Making Smart Contract and Blockchain 2021
 - - Algotrading: Theory and Practice 2021
@@ -111,7 +111,7 @@ National University of Singapore
 - School of computing
 - Professional Certificate 2021
 - FinTech DEVELOPER Level 2
-- - courses completed:
+- courses completed:
 - - Developers Toolkit Part 1: Connecting the Frontend
 - - Developers Toolkit Part 2: Middleware to Backend
 - - APIs and RPA: Automation, Bots and Future
@@ -121,7 +121,7 @@ National University of Singapore
 - School of Computing
 - Professional Certificate 2021
 - FinTech ASSOCIATE Level 1
-- - courses completed:
+- courses completed:
 - - FinTech: Concepts, Cases and Technology
 - - Design Thinking: Creative and Strategic Business Solutions
 - - Beyond Disruptions: Digitalising Financial Services
@@ -132,7 +132,7 @@ National University of Singapore
 - School of Computing
 - Professional Certificate 2021
 - BUSINESS ANALYTICS and AI for FINANCE, RETAIL and SUPPLY CHAIN
-- - courses completed:
+- courses completed:
 - - Making Fast Decisions with Business Analytics
 - - Optimising Customers’ Experience with Fintech Strategy
 - - Using Business Analytics to Answer Business Questions
@@ -143,7 +143,7 @@ National University of Singapore
 - The Faculty of Arts and Social Sciences
 - Professional Certificate 2021
 - HUMAN and AUTOMATED MANAGERIAL SKILLS
-- - courses completed:
+- courses completed:
 - - Meaning to Mindsets
 - - Positivity and Wellbeing
 - - Support and Service
@@ -154,31 +154,31 @@ National University of Singapore
 
 edX
 - courses completed:
-- University Cote d’ Azur, W3Cx, JavaScript Introduction 2021
-- Harvard University, CS50’s Computer Science for Business Professionals 2021
-- University of Michigan, Programming for Everybody Getting Started with Python 2021
-- Imperial College London, Creative Thinking: Techniques and Tools 2021
-- University of Maryland, Applied Scrum for Agile Project Management 2021
+- - University Cote d’ Azur, W3Cx, JavaScript Introduction 2021
+- - Harvard University, CS50’s Computer Science for Business Professionals 2021
+- - University of Michigan, Programming for Everybody Getting Started with Python 2021
+- - Imperial College London, Creative Thinking: Techniques and Tools 2021
+- - University of Maryland, Applied Scrum for Agile Project Management 2021
 -
 
 National University of Singapore FINTECH LAB
 - courses completed:
-- APIs and RPA: Automation, Bots and Future 2021
-- Developers Toolkit Part 2: Middleware to Backend 2021
-- Developers Toolkit Part 1: Connecting the Frontend 2021
-- Fintech: Concepts, Cases and Technology 2021
-- Delight Customers and Protect Privacy with AI and Blockchain 2021
-- Beyond Disruptions: Digitalising Financial Services 2021
-- Design Thinking: Creative and Strategic Business Solutions 2021
-- Fundamentals of Investing Leveraging Technology 2021
-- Using Business Analytics to Answer Business Questions 2021
-- Optimizing Customers’ Experience with FinTech Technology 2021
-- Making Fast Decisions with Business Analytics 2021
-- Meaning to Mindsets
-- Positivity and Wellbeing
-- Support and Service
-- How to Critically Reason with Data on Microsoft Excel
-- The Fundamentals of Algorithm Design and the Politics of Algorithms
+-- APIs and RPA: Automation, Bots and Future 2021
+--Developers Toolkit Part 2: Middleware to Backend 2021
+--Developers Toolkit Part 1: Connecting the Frontend 2021
+--Fintech: Concepts, Cases and Technology 2021
+--Delight Customers and Protect Privacy with AI and Blockchain 2021
+- - Beyond Disruptions: Digitalising Financial Services 2021
+- - Design Thinking: Creative and Strategic Business Solutions 2021
+- - Fundamentals of Investing Leveraging Technology 2021
+- - Using Business Analytics to Answer Business Questions 2021
+- - Optimizing Customers’ Experience with FinTech Technology 2021
+- - Making Fast Decisions with Business Analytics 2021
+- - Meaning to Mindsets
+- - Positivity and Wellbeing
+- - Support and Service
+- - How to Critically Reason with Data on Microsoft Excel
+- - The Fundamentals of Algorithm Design and the Politics of Algorithms
 -
 Singapore Business Federation Business Institute
 - courses completed:
