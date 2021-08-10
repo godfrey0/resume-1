@@ -26,12 +26,12 @@ EXPERIENCE
 
 SUCCESS FOREVER CONSTRUCTION 2018~2020
 - Project Manager
-- Structural repair work for HDB and Town Council
+- - Structural repair work for HDB and Town Council
 -
 
 ETANA RESOURCES 2017~2018
 - Senior Engineer
-- Maintenance of Heavy Equipment
+- - Maintenance of Heavy Equipment
 -
 
 TRADISITICS 2000~2017
@@ -58,98 +58,98 @@ Gigabyte Computers, Taiwan.
 
 MINUS 10 2000~2001
 - CIO
-- eCommerce
+- - eCommerce
 -
 
 SANOFI RHONE POULENC PHARMA 1993~2001
 - Executive
-- Consumable Drugs / Vaccines
+- - Consumable Drugs / Vaccines
 -
 
 ELTEAN AGENCIES 1990~1993
 - Executive
-- Watsons Pharmacy, Guardian Pharmacy, Apex Pharmacy, Unity Pharmacy.
+- - Watsons Pharmacy, Guardian Pharmacy, Apex Pharmacy, Unity Pharmacy.
 - 
 
 BETHESDA HALL AMK 1989~1990
 - Chief Instructor
-- Queensland Mailbox Bible Correspondence Course
+- - Queensland Mailbox Bible Correspondence Course
 -
 
 BOOKWORMS CONSULTANTS 1983~1984
 - Media Manager
-- Primary Schools
+- - Primary Schools
 -
 
 SILAT II PRIMARY SCHOOL 1983~1983
 - Relief Teacher
-- Mathematics
+- - Mathematics
 - 
 
 SAF OETI, School of Doctrine 1973~1983
 - Lead Invigilator
-- Ordnance Engineering Training Institute
+- - Ordnance Engineering Training Institute
 -
 
 EDUCATION
 - National University of Singapore 2021~Present
 - School of Computing, 
-- Crystal Centre (Cryptocurrency, Strategy, Techniques and Algorithims)
+- - CRYSTAL Centre (Cryptocurrency, Strategy, Techniques and Algorithims)
 -
 
 National University of Singapore
 - School of Computing
 - Professional Certificate 2021
 - FinTech SENIOR DEVELOPER Level 3
-- courses completed:
-- DevOps: Build, Deploy and Monitor 2021
-- Making Smart Contract and Blockchain 2021
-- Algotrading: Theory and Practice 2021
+- - courses completed:
+- - DevOps: Build, Deploy and Monitor 2021
+- - Making Smart Contract and Blockchain 2021
+- - Algotrading: Theory and Practice 2021
 - 
 
 National University of Singapore
 - School of computing
 - Professional Certificate 2021
 - FinTech DEVELOPER Level 2
-- courses completed:
-- Developers Toolkit Part 1: Connecting the Frontend
-- Developers Toolkit Part 2: Middleware to Backend
-- APIs and RPA: Automation, Bots and Future
+- - courses completed:
+- - Developers Toolkit Part 1: Connecting the Frontend
+- - Developers Toolkit Part 2: Middleware to Backend
+- - APIs and RPA: Automation, Bots and Future
 -
 
 National University of Singapore
 - School of Computing
 - Professional Certificate 2021
 - FinTech ASSOCIATE Level 1
-- courses completed:
-- FinTech: Concepts, Cases and Technology
-- Design Thinking: Creative and Strategic Business Solutions
-- Beyond Disruptions: Digitalising Financial Services
-- Delight Customers and Protect Privacy with AI and Blockchain
+- - courses completed:
+- - FinTech: Concepts, Cases and Technology
+- - Design Thinking: Creative and Strategic Business Solutions
+- - Beyond Disruptions: Digitalising Financial Services
+- - Delight Customers and Protect Privacy with AI and Blockchain
 -
 
 National University of Singapore
 - School of Computing
 - Professional Certificate 2021
 - BUSINESS ANALYTICS and AI for FINANCE, RETAIL and SUPPLY CHAIN
-- courses completed:
-- Making Fast Decisions with Business Analytics
-- Optimising Customers’ Experience with Fintech Strategy
-- Using Business Analytics to Answer Business Questions
-- Fundamental of Investing Leveraging Technology
+- - courses completed:
+- - Making Fast Decisions with Business Analytics
+- - Optimising Customers’ Experience with Fintech Strategy
+- - Using Business Analytics to Answer Business Questions
+- - Fundamental of Investing Leveraging Technology
 -
 
 National University of Singapore 
 - The Faculty of Arts and Social Sciences
 - Professional Certificate 2021
 - HUMAN and AUTOMATED MANAGERIAL SKILLS
-- courses completed:
-- Meaning to Mindsets
-- Positivity and Wellbeing
-- Support and Service
-- How to Critically Reason with Data on Microsoft Excel
-- The Fundamentals of Algorithm Design and the Politics of Algorithms
-- 5 Courses aimed at enriching both the learner’s mind and heart
+- - courses completed:
+- - Meaning to Mindsets
+- - Positivity and Wellbeing
+- - Support and Service
+- - How to Critically Reason with Data on Microsoft Excel
+- - The Fundamentals of Algorithm Design and the Politics of Algorithms
+- - The 5 Courses aimed at enriching both the learner’s mind and heart
 -
 
 edX
