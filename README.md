@@ -1,14 +1,16 @@
 RESUME
 - Ong Ser Thong Godfrey 
-- MBA, Adelaide Business School, (Ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020
-- NUS FinTech Senior Developer, Crystal Centre (Cryptocurrency, Strategy, Techniques and Algorithims) 2021
+- MBA., Adelaide Business School, (ranked #1 in South Australia and #2 in Australia) Australian Financial Review BOSS 2020
+- FinTech Senior Developer, NUS Sch of Computing, Crystal Centre (Cryptocurrency, Strategy, Techniques & Algorithims) 2021
+- B.Min., Theological Centre for Asia, (Minor: Christian Eduction)
+- SDFEM., Specialist Diploma Franchise Enterprise Management, Ngee Ann Polytechnic 2017
 - serthongong@gmail.com
 - t0921234@u.nus.edu 
 - +65 81813136
 - 
 
 MOTTO
-- I read Hermeneutics with Professor Bernard L Ramm. While over a bottle of coke, he shared in private that life begins at 72!
+- I read Hermeneutics with Professor Bernard L Ramm. Bernard shared in private that life begins at 72; Telos!
 - 
 
 PERSONAL PROJECT
@@ -99,7 +101,7 @@ National University of Singapore
 - courses completed:
 - DevOps: Build, Deploy and Monitor 2021
 - Making Smart Contract and Blockchain 2021
-- Algotrading: Theory and practice 2021
+- Algotrading: Theory and Practice 2021
 - 
 
 National University of Singapore
@@ -194,8 +196,8 @@ Singapore Business Federation Business Institute
 -
 
 Other Qualification:
-- MBA, University of Adelaide 2001
-- B. Min., Theological Centre for Asia 1996
+- MBA; Adelaide Business School, University of Adelaide 2001
+- B.Min.; (Minor: Chrsitian Education) Theological Centre for Asia 1996
 - Dip. Th., Singapore Bible College 1987
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2017
 - QMR., SAPI, Singapore Pharmaceutical Industries 1994
@@ -211,7 +213,7 @@ Other Qualification:
 - Armourer Cl 2, SAF WOB, 1974
 - MOH, ART Self-Swab, Health Management International 2021
 - MOH, SRS-ESSS, HPB, Health Promotion Board 2021
-- SFA, IC11 Basic Food Hygiene Course, under supervision of Chef Henry Lin JinQian, 2021 
+- SFA, Food Hygiene Course, supervision by Chef Henry Lin JinQian (MBS & Fullerton) 2021 
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
 
