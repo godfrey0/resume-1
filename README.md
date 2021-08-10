@@ -1,7 +1,10 @@
 RESUME
 - Ong Ser Thong Godfrey 
-- MBA., Adelaide Business School, (ranked #1 in South Australia and #2 in Australia) Australian Financial Review BOSS 2020
-- FinTech Senior Developer, NUS Sch of Computing, CRYSTAL Centre (Cryptocurrency, Strategy, Techniques & Algorithims) 2021
+- Adelaide MBA, Adelaide Business School, University of Adelaide 2001
+- - Read Economic under Professor Richard Pomfret (noble prize nominee) 
+- - - (ranked #1 in South Australia and #2 in Australia) Australian Financial Review BOSS 2020
+- FinTech Senior Developer, NUS School of Computing 2021
+- - - CRYSTAL Centre (Cryptocurrency, Strategy, Techniques & Algorithims)
 - B.Min., TCA (Minor: Christian Eduction) Theological Centre for Asia 1996
 - SDFEM., Specialist Diploma Franchise Enterprise Management, Ngee Ann Polytechnic 2017
 - serthongong@gmail.com
@@ -10,12 +13,13 @@ RESUME
 - 
 
 MOTTO
-- I read Hermeneutics with Professor Bernard L Ramm. 
+- I read Hermeneutics and studied under Professor Bernard L Ramm. 
 - - Professor Bernard shared his life begins at 72!
+- 
 
 CURRENT PROJECT
 - Individual Project (Patents & Copyrights belonging to NUS, CRYSTAL Centre) 2021~Present
-- - QuantConnect and SubmittingAlpha instruct by Professor Anand Bhojan and mentor by PhD candidate Dixtant Mittal.
+- - QuantConnect and SubmittingAlpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal.
 - 
 - Personal Project (Patents & Copyrights belonging to Nogawa Sentosa) 2021~Present
 - - Introduction to PowerBI course for begineer work in collaboration with Nogawa Sentosa.
@@ -198,11 +202,11 @@ Singapore Business Federation Business Institute
 -
 
 Other Qualification:
-- MBA; Adelaide Business School, University of Adelaide 2001
-- - Economic by nobel prize nominee
+- MBA, Adelaide Business School, University of Adelaide 2001
+- - Read Economic under Professor Richard Promfret (nobel prize nominee)
 - B.Min.; (Minor: Chrsitian Education) Theological Centre for Asia 1996
 - Dip. Th., Singapore Bible College 1987
-- - Hermeneutics by Prof Bernard L. Ramm
+- - Read Hermeneutics under Prof Bernard L. Ramm (father of hermeneutics)
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2017
 - QMR., SAPI, Singapore Pharmaceutical Industries 1994
 - BCA, Certified Installer Air-Conditioning Structure, 2014
