@@ -35,7 +35,7 @@ ETANA RESOURCES 2017~2018
 
 TRADISITICS 2000~2017
 - CTO
-- -(notable programmes) AHA Extended Warranty,
+- - (notable programmes) AHA Extended Warranty,
 Doctor Digital,
 Data Recovery, 
 IDA NEU PC, 
