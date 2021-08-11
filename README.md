@@ -3,6 +3,7 @@ RESUME
 - Adelaide MBA, Adelaide Business School, University of Adelaide 2001
 - - Read Economic under Professor Clifford Walsh (a noble prize nominee) 
 - - - (ranked #1 in South Australia and #2 in Australia) Australian Financial Review BOSS 2020
+- 
 - FinTech Senior Developer, CRYSTAL Centre 2021
 - - Individual Project
 - - QuantConnect and SubmittingAlpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal
@@ -11,11 +12,14 @@ RESUME
 - 
 - B.Min., (Minor: Christian Eduction) TCA 1996
 - - Theological Centre for Asia 1996
+- 
 -  Dip. Th., Singapore Bible College 1987
 - - Read Hermeneutics under Professor Bernard L. Ramm 
 - - Read Cirrculum under Professor Ng Bee Chen
+- 
 - SDFEM., Ngee Ann Polytechnic 2015
 - - Specialist Diploma Franchise Enterprise Management
+- 
 - serthongong@gmail.com
 - t0921234@u.nus.edu 
 - +65 81813136
