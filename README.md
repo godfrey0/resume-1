@@ -9,8 +9,8 @@ RESUME
 - - QuantConnect and SubmittingAlpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal
 - - - National University of Singapore, School of Computing 
 - 
-- B.Min., (Minor: Christian Eduction) TCA 1996
-- - Theological Centre for Asia 1996
+- B.Min., (Minor: Christian Eduction) TCA College 1996
+- - Theological Centre for Asia College 1996
 - 
 -  Dip. Th., Singapore Bible College 1987
 - - Read Hermeneutics under Professor Bernard L. Ramm 
@@ -223,7 +223,7 @@ Singapore Business Federation Business Institute
 Other Qualification:
 - MBA, Adelaide Business School, University of Adelaide 2001
 - - Read Economic under Professor Richard Promfret (nobel prize nominee)
-- B.Min.; (Minor: Christian Education) Theological Centre for Asia 1996
+- B.Min.; (Minor: Christian Education) Theological Centre for Asia College 1996
 - Dip. Th., Singapore Bible College 1987
 - - Read Hermeneutics under Prof Bernard L. Ramm
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2015
