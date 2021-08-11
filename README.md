@@ -222,7 +222,7 @@ Singapore Business Federation Business Institute
 
 Other Qualification:
 - MBA, Adelaide Business School, University of Adelaide 2001
-- - Read Economic under Professor Richard Promfret (nobel prize nominee)
+- - Read Economic under Professor Clifford Walsh (a nobel prize nominee)
 - B.Min.; (Minor: Christian Education) Theological Centre for Asia College 1996
 - Dip. Th., Singapore Bible College 1987
 - - Read Hermeneutics under Prof Bernard L. Ramm
