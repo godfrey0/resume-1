@@ -99,7 +99,7 @@ SILAT II PRIMARY SCHOOL 1983~1983
 - 
 
 IDF
-- Live fire test program on the Sinai Desert 1976
+- Live fire test weapon system program on the Sinai Desert 1976
 -
 
 SAF OETI, School of Doctrine 1973~1983
@@ -242,6 +242,8 @@ Awards:
 - Spirit Of Enterprise Awards nominee 2012
 - Singapore Quality Class Awards nominee 2011
 - SAF Good Service Medal 1977
+- SAF Logistics Small Arms Competition 1975
+- - Gold for Falling Plates Championship Match
 -
 
 
