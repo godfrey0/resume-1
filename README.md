@@ -246,8 +246,8 @@ Other Qualification:
 -
 BOND
 - An award granted by the Government of the Republic of Singapore
-- - for Course of Study granted to the Goverment by Tel Aviv, Israel 
-- - - 6-years scholarship bond 
+- - for Course of Study granted to the Government by Tel Aviv, Israel 
+- - - with 6-years scholarship bond 
 - 
 
 AWARDS
