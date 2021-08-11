@@ -241,8 +241,13 @@ Other Qualification:
 - SFA, Food Hygiene Course, supervised by Chef Henry Lin JinQian (MBS & Fullerton) 2021 
 - Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
 -
+BOND
+- An award granted by the Government of the Republic of Singapore
+- - Course of study 
+- - - 6-years overseas scholarship bond 
+- 
 
-Awards:
+AWARDS
 - Spirit Of Enterprise Awards nominee 2012
 - Singapore Quality Class Awards nominee 2011
 - SAF Good Service Medal 1977
