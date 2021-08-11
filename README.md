@@ -1,14 +1,21 @@
 RESUME
 - Ong Ser Thong Godfrey 
 - Adelaide MBA, Adelaide Business School, University of Adelaide 2001
-- - Read Economic under Professor Richard Pomfret (noble prize nominee) 
+- - Read Economic under Professor Clifford Walsh (a noble prize nominee) 
 - - - (ranked #1 in South Australia and #2 in Australia) Australian Financial Review BOSS 2020
-- FinTech Senior Developer, NUS School of Computing 2021
+- FinTech Senior Developer, CRYSTAL Centre 2021
+- - Individual Project
+- - QuantConnect and SubmittingAlpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal
+- - - National University of Singapore, School of Computing 
 - - - CRYSTAL Centre (Cryptocurrency, Strategy, Techniques & Algorithims)
-- B.Min., TCA (Minor: Christian Eduction) Theological Centre for Asia 1996
+- 
+- B.Min., (Minor: Christian Eduction) TCA 1996
+- - Theological Centre for Asia 1996
 -  Dip. Th., Singapore Bible College 1987
 - - Read Hermeneutics under Professor Bernard L. Ramm 
-- SDFEM., Specialist Diploma Franchise Enterprise Management, Ngee Ann Polytechnic 2017
+- - Read Cirrculum under Professor Ng Bee Chen
+- SDFEM., Ngee Ann Polytechnic 2015
+- - Specialist Diploma Franchise Enterprise Management
 - serthongong@gmail.com
 - t0921234@u.nus.edu 
 - +65 81813136
@@ -90,6 +97,10 @@ SILAT II PRIMARY SCHOOL 1983~1983
 - Relief Teacher
 - - Mathematics
 - 
+
+IDF
+- Live firing on the Sinai Desert 1976
+-
 
 SAF OETI, School of Doctrine 1973~1983
 - Lead Invigilator
@@ -209,7 +220,7 @@ Other Qualification:
 - B.Min.; (Minor: Chrsitian Education) Theological Centre for Asia 1996
 - Dip. Th., Singapore Bible College 1987
 - - Read Hermeneutics under Prof Bernard L. Ramm
-- SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2017
+- SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2015
 - QMR., SAPI, Singapore Pharmaceutical Industries 1994
 - BCA, Certified Installer Air-Conditioning Structure, 2014
 - MOM, Certified Biz Safe Level 1,2 & 3 Risk Management 2016
