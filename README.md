@@ -15,7 +15,7 @@ RESUME
 - 
 -  Dip. Th., Singapore Bible College 1987
 - - Read Hermeneutics under Professor Bernard L. Ramm 
-- - Read Cirrculum under Professor Ng Bee Chen
+- - Read Cirrculum under Professor Ng Peh Cheng
 - 
 - SDFEM., Ngee Ann Polytechnic 2015
 - - Specialist Diploma Franchise Enterprise Management
