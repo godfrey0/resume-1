@@ -25,7 +25,7 @@ RESUME
 - 
 
 MOTTO
-- Read Hermeneutics and studied under Professor Bernard L Ramm. 
+- Read Hermeneutics and studied under Professor Bernard L. Ramm 
 - - Professor Bernard shared his life begins at 72!
 - 
 
