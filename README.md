@@ -14,7 +14,7 @@ RESUME
 - 
 -  Dip. Th., Singapore Bible College 1987
 - - Read Hermeneutics under Professor Bernard L. Ramm 
-- - Read Cirrculum under Professor Ng Peh Cheng
+- - Read Curriculum under Professor Ng Peh Cheng
 - 
 - SDFEM., Ngee Ann Polytechnic 2015
 - - Specialist Diploma Franchise Enterprise Management
@@ -36,8 +36,8 @@ CURRENT PROJECT
 - - - - Mentor by PhD candidate Dixtant Mittal.
 - 
 - Personal Project 2021~Present
-- - Introduction to PowerBI course for begineer work 
-- - -in collaboration with Nogawa Sentosa.
+- - Introduction to PowerBI for account executive
+- - - in collaboration with Nogawa Sentosa.
 -
  
 EXPERIENCE
@@ -226,6 +226,7 @@ Other Qualification:
 - B.Min.; (Minor: Christian Education) Theological Centre for Asia College 1996
 - Dip. Th., Singapore Bible College 1987
 - - Read Hermeneutics under Prof Bernard L. Ramm
+- - Read Curriculum under Professor Ng Peh Cheng 
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2015
 - QMR., SAPI, Singapore Pharmaceutical Industries 1994
 - BCA, Certified Installer Air-Conditioning Structure, 2014
@@ -245,7 +246,7 @@ Other Qualification:
 -
 BOND
 - An award granted by the Government of the Republic of Singapore
-- - Course of Study granted to the Goverment by Tel Aviv, Israel 
+- - for Course of Study granted to the Goverment by Tel Aviv, Israel 
 - - - 6-years scholarship bond 
 - 
 
