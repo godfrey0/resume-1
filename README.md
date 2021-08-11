@@ -4,11 +4,10 @@ RESUME
 - - Read Economic under Professor Clifford Walsh (a noble prize nominee) 
 - - - (ranked #1 in South Australia and #2 in Australia) Australian Financial Review BOSS 2020
 - 
-- FinTech Senior Developer, CRYSTAL Centre 2021
+- NUS FinTech Senior Developer,  2021
 - - Individual Project
 - - QuantConnect and SubmittingAlpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal
 - - - National University of Singapore, School of Computing 
-- - - CRYSTAL Centre (Cryptocurrency, Strategy, Techniques & Algorithims)
 - 
 - B.Min., (Minor: Christian Eduction) TCA 1996
 - - Theological Centre for Asia 1996
@@ -31,11 +30,14 @@ MOTTO
 - 
 
 CURRENT PROJECT
-- Individual Project (Patents & Copyrights belonging to NUS, CRYSTAL Centre) 2021~Present
-- - QuantConnect and SubmittingAlpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal.
+- Individual Project 2021~Present
+- - QuantConnect and SubmittingAlpha with 
+- - - Professor Anand Bhojan as Instructor and 
+- - - - Mentor by PhD candidate Dixtant Mittal.
 - 
-- Personal Project (Patents & Copyrights belonging to Nogawa Sentosa) 2021~Present
-- - Introduction to PowerBI course for begineer work in collaboration with Nogawa Sentosa.
+- Personal Project 2021~Present
+- - Introduction to PowerBI course for begineer work 
+- - -in collaboration with Nogawa Sentosa.
 -
  
 EXPERIENCE
@@ -181,7 +183,7 @@ edX
 - - University of Maryland, Applied Scrum for Agile Project Management 2021
 -
 
-National University of Singapore FINTECH LAB
+National University of Singapore, School Of Computing, FinTech
 - courses completed:
 - - APIs and RPA: Automation, Bots and Future 2021
 - - Developers Toolkit Part 2: Middleware to Backend 2021
@@ -221,7 +223,7 @@ Singapore Business Federation Business Institute
 Other Qualification:
 - MBA, Adelaide Business School, University of Adelaide 2001
 - - Read Economic under Professor Richard Promfret (nobel prize nominee)
-- B.Min.; (Minor: Chrsitian Education) Theological Centre for Asia 1996
+- B.Min.; (Minor: Christian Education) Theological Centre for Asia 1996
 - Dip. Th., Singapore Bible College 1987
 - - Read Hermeneutics under Prof Bernard L. Ramm
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2015
@@ -243,7 +245,7 @@ Other Qualification:
 -
 BOND
 - An award granted by the Government of the Republic of Singapore
-- - Course of study 
+- - Course of Study granted to the Goverment by Tel Aviv, Israel 
 - - - 6-years overseas scholarship bond 
 - 
 
