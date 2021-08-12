@@ -9,7 +9,7 @@ RESUME
 - - QuantConnect and SubmittingAlpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal
 - - - National University of Singapore, School of Computing 
 - 
-- B.Min., (Minor: Christian Eduction) TCA College 1996
+- B.Min., (Minor in Christian Eduction) TCA College 1996
 - - Theological Centre for Asia College 1996
 - 
 -  Dip. Th., Singapore Bible College 1987
@@ -223,7 +223,7 @@ Singapore Business Federation Business Institute
 Other Qualification:
 - MBA, Adelaide Business School, University of Adelaide 2001
 - - Read Economic under Professor Clifford Walsh (a nobel prize nominee)
-- B.Min.; (Minor: Christian Education) Theological Centre for Asia College 1996
+- B.Min.; (Minor in Christian Education) Theological Centre for Asia College 1996
 - Dip. Th., Singapore Bible College 1987
 - - Read Hermeneutics under Prof Bernard L. Ramm
 - - Read Curriculum under Professor Ng Peh Cheng 
@@ -235,17 +235,17 @@ Other Qualification:
 - Certificate of Achievment, Dirad 2020
 - Dip. LTI., CEF Missouri 1984
 - Unarmed Combat Instructor, SAFTI Sch of Physical Training Institute, 1980
-- Gun Fitter Class 1, Ordnance Engineering Training Institute, 1981
+- Gun fitter Class 1, Ordnance Engineering Training Institute, 1981
 - Armourer to Gun fitter Conversion Course, SAF OETI, 1977
 - Armourer Cl 1, SAF Weapon Optical Base, 1976
 - Armourer Cl 2, SAF Weapon Optical Base, 1974
 - MOH, ART Self-Swab, Health Management International 2021
 - MOH, SRS-ESSS, HPB, Health Promotion Board 2021
 - SFA, Food Hygiene Course, supervised by Chef Henry Lin JinQian (MBS & Fullerton) 2021 
-- Executive Program, SOLTAM Systems Ltd, Haifa, Israel 1976
+- Executive Program, SOLTAM Systems, Haifa, Israel 1976
 -
 BOND
-- An award granted by the Government of the Republic of Singapore
+- an award granted by the Government of the Republic of Singapore
 - - for Course of Study granted to the Government by Tel Aviv, Israel 
 - - - with 6-years scholarship bond 
 - 
