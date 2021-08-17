@@ -33,11 +33,8 @@ CURRICULUM VITAE
 - 
 - SDFEM., Ngee Ann Polytechnic 2015
 - - Specialist Diploma Franchise Enterprise Management
-- 
-- serthongong@gmail.com
-- t0921234@u.nus.edu 
-- +65 81813136
-- 
+-
+-
 
 MOTTO
 - Read Hermeneutics and studied under Professor Bernard L. Ramm 
