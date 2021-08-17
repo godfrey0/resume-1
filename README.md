@@ -1,10 +1,14 @@
 CURRICULUM VITAE
 - Ong Ser Thong Godfrey 
 - serthongong@gmail.com | t0921234@u.nus.edu | +65 81813136
--  
+
+- 
 - NUS School of Computing, FinTech Professional Certificate in FinTech Senior Developer (Level 3) July, 21 2021.
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
+- NUS School of Computing, FinTech Professional Certificate in FinTech Senior Developer (Level 3) July, 21 2021.
+- https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - 
+-
 - NUS FinTech SG Programme
 - - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore,
 - - - in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon.
@@ -142,7 +146,7 @@ National University of Singapore
 
 National University of Singapore
 - School of Computing Professional Certificate in FinTech DEVELOPER (Level 2) 2021 
-- 
+- https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - courses completed:
 - - Developers Toolkit Part 1: Connecting the Frontend
 - - Developers Toolkit Part 2: Middleware to Backend
