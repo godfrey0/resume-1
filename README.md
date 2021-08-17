@@ -1,23 +1,27 @@
 RESUME
 - Ong Ser Thong Godfrey 
 - 
-- NUS School of Computing, FinTech Professional Certiificate in FinTech Senior Developer (Level 3) July,21 2021.
+- NUS School of Computing, FinTech Professional Certiificate in FinTech Senior Developer (Level 3) July, 21 2021.
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
-- - NUS FinTech SG Programme
+- 
+- NUS FinTech SG Programme
 - - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore 
 - - - in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon.
 - 
-- - AI SG is a national programme to synergise Singapore's AI capabilities
-- - - by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
-- 
+- AI SG is a national programme to synergise Singapore's AI capabilities
+- - by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
+
+
 - Adelaide MBA, Adelaide Business School, University of Adelaide 2001
 - - Read Economic under Professor Clifford Walsh (a noble prize nominee) 
 - - - (ranked #1 in South Australia and #2 in Australia) Australian Financial Review BOSS 2020
 - 
-- NUS FinTech Senior Developer,  2021
-- - Individual Project
-- - QuantConnect and SubmittingAlpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal
-- - - National University of Singapore, School of Computing 
+- Currebt Individual Project - NUS Soc
+- NUS FinTech SG Programme,  2021
+- - QuantConnect and SubmittingAlpha with 
+- - Professor Anand Bhojan as Instructor and 
+- - Mentor by PhD candidate Dixtant Mittal
+
 - 
 - B.Min., (Minor in Christian Eduction) TCA College 1996
 - - Theological Centre for Asia College 1996
