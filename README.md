@@ -143,9 +143,8 @@ National University of Singapore
 - 
 
 National University of Singapore
-- School of computing
-- Professional Certificate 2021
-- FinTech DEVELOPER Level 2
+- School of Computing Professional Certificate in FinTech DEVELOPER (Level 2) 2021 
+- 
 - courses completed:
 - - Developers Toolkit Part 1: Connecting the Frontend
 - - Developers Toolkit Part 2: Middleware to Backend
@@ -153,10 +152,9 @@ National University of Singapore
 -
 
 National University of Singapore
-- School of Computing
-- Professional Certificate 2021
-- FinTech ASSOCIATE Level 1
-- courses completed:
+- School of Computing Professional Certificate in FinTech ASSOCIATE (Level 1) 2021
+- https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
+- - courses completed:
 - - FinTech: Concepts, Cases and Technology
 - - Design Thinking: Creative and Strategic Business Solutions
 - - Beyond Disruptions: Digitalising Financial Services
@@ -164,9 +162,8 @@ National University of Singapore
 -
 
 National University of Singapore
-- School of Computing
-- Professional Certificate 2021
-- BUSINESS ANALYTICS and AI for FINANCE, RETAIL and SUPPLY CHAIN
+- School of Computing Professional Certificate in BUSINESS ANALYTICS and AI for FINANCE, RETAIL and SUPPLY CHAIN 2021 
+- https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - courses completed:
 - - Making Fast Decisions with Business Analytics
 - - Optimising Customers’ Experience with Fintech Strategy
@@ -175,9 +172,8 @@ National University of Singapore
 -
 
 National University of Singapore 
-- The Faculty of Arts and Social Sciences
-- Professional Certificate 2021
-- HUMAN and AUTOMATED MANAGERIAL SKILLS
+- The Faculty of Arts and Social Sciences Professional Certificate HUMAN and AUTOMATED MANAGERIAL SKILLS 2021
+- https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
 - courses completed:
 - - Meaning to Mindsets
 - - Positivity and Wellbeing
