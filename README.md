@@ -1,4 +1,4 @@
-RESUME
+CURRICULUM VITAE
 - Ong Ser Thong Godfrey 
 - 
 - NUS School of Computing, FinTech Professional Certificate in FinTech Senior Developer (Level 3) July, 21 2021.
