@@ -3,11 +3,12 @@ CURRICULUM VITAE
 - serthongong@gmail.com | t0921234@u.nus.edu | +65 81813136
 
 - 
-- NUS School of Computing, FinTech Professional Certificate in FinTech Senior Developer (Level 3) July, 21 2021.
+- NUS School of Computing, FinTech Professional Certificate in FinTech Senior Developer (Level 3)
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
-- NUS School of Computing, FinTech Professional Certificate in FinTech Senior Developer (Level 3) July, 21 2021.
+- NUS School of Computing, FinTech Professional Certificate in FinTech Developer (Level 2)
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
-- 
+- School of Computing Professional Certificate in FinTech Associate (Level 1)
+- https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256- 
 -
 - NUS FinTech SG Programme
 - - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore,
