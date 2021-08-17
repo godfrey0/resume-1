@@ -1,6 +1,7 @@
 CURRICULUM VITAE
 - Ong Ser Thong Godfrey 
-- 
+- serthongong@gmail.com | t0921234@u.nus.edu | +65 81813136
+-  
 - NUS School of Computing, FinTech Professional Certificate in FinTech Senior Developer (Level 3) July, 21 2021.
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
 - 
@@ -8,16 +9,16 @@ CURRICULUM VITAE
 - - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore,
 - - - in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon.
 - 
-- AI SG is a national programme to synergise Singapore's Artificial Intelligence capabilities,
-- - by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
-
-
+- AI SG Programme
+- - is a national programme to synergise Singapore's Artificial Intelligence capabilities,
+- - - by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
+-
 - Adelaide MBA, Adelaide Business School, University of Adelaide 2001.
 - - Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
 - - - (ranked #1 in South Australia and #2 in Australia) Australian Financial Review, AFR BOSS 2020.
 - 
-- Current SoC Individual Project
-- NUS FinTech SG Programme,  2021
+- Current SoC Individual Project 2021
+- NUS FinTech SoC Programme
 - - QuantConnect and SubmittingAlpha with 
 - - Professor Anand Bhojan as Instructor and 
 - - Mentor by PhD candidate Dixtant Mittal
