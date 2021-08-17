@@ -153,7 +153,7 @@ National University of Singapore
 
 National University of Singapore
 - School of Computing Professional Certificate in FinTech ASSOCIATE (Level 1) 2021
-- https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
+- https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
 - - courses completed:
 - - FinTech: Concepts, Cases and Technology
 - - Design Thinking: Creative and Strategic Business Solutions
@@ -254,9 +254,9 @@ Other Qualification:
 - Executive Program, SOLTAM Systems, Haifa, Israel 1976
 -
 BOND
-- an award granted by the Government of the Republic of Singapore
-- - for Course of Study granted to the Government by Tel Aviv, Israel 
-- - - with 6-years scholarship bond 
+- an award granted by the Government of the Republic of Singapore for
+- - Course of Study granted to the Government by Tel Aviv, Israel with
+- - 6-years scholarship bond 
 - 
 
 AWARDS
