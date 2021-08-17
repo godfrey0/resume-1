@@ -43,11 +43,11 @@ MOTTO
 - - Professor Bernard shared his life begins at 72!
 - 
 
-CURRENT PROJECT
+CURRENT NUS SoC PROJECT
 - Individual Project 2021~Present
 - - QuantConnect and SubmittingAlpha with 
 - - - Professor Anand Bhojan as Instructor and 
-- - - - Mentor by PhD candidate Dixtant Mittal.
+- - - Mentor by PhD candidate Dixtant Mittal.
 - 
 - Personal Project 2021~Present
 - - Introduction to PowerBI for account executive
