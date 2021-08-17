@@ -162,7 +162,7 @@ National University of Singapore
 -
 
 National University of Singapore
-- School of Computing Professional Certificate in BUSINESS ANALYTICS and AI for FINANCE, RETAIL and SUPPLY CHAIN 2021 
+- School of Computing Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain 2021 
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - courses completed:
 - - Making Fast Decisions with Business Analytics
@@ -172,7 +172,7 @@ National University of Singapore
 -
 
 National University of Singapore 
-- The Faculty of Arts and Social Sciences Professional Certificate HUMAN and AUTOMATED MANAGERIAL SKILLS 2021
+- The Faculty of Arts and Social Sciences Professional Certificate Human and Automated Manageriak Skills 2021
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
 - courses completed:
 - - Meaning to Mindsets
