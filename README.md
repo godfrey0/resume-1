@@ -1,22 +1,22 @@
 RESUME
 - Ong Ser Thong Godfrey 
 - 
-- NUS School of Computing, FinTech Professional Certiificate in FinTech Senior Developer (Level 3) July, 21 2021.
+- NUS School of Computing, FinTech Professional Certificate in FinTech Senior Developer (Level 3) July, 21 2021.
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
 - 
 - NUS FinTech SG Programme
-- - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore 
+- - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore,
 - - - in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon.
 - 
-- AI SG is a national programme to synergise Singapore's AI capabilities
+- AI SG is a national programme to synergise Singapore's Artificial Intelligence capabilities,
 - - by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
 
 
-- Adelaide MBA, Adelaide Business School, University of Adelaide 2001
-- - Read Economic under Professor Clifford Walsh (a noble prize nominee) 
-- - - (ranked #1 in South Australia and #2 in Australia) Australian Financial Review BOSS 2020
+- Adelaide MBA, Adelaide Business School, University of Adelaide 2001.
+- - Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
+- - - (ranked #1 in South Australia and #2 in Australia) Australian Financial Review, AFR BOSS 2020.
 - 
-- Currebt Individual Project - NUS Soc
+- Current SoC Individual Project
 - NUS FinTech SG Programme,  2021
 - - QuantConnect and SubmittingAlpha with 
 - - Professor Anand Bhojan as Instructor and 
@@ -134,9 +134,8 @@ EDUCATION
 -
 
 National University of Singapore
-- School of Computing
-- Professional Certificate 2021
-- FinTech SENIOR DEVELOPER Level 3
+- School of Computing Professional Certificate in FinTech SENIOR DEVELOPER (Level 3) 2021
+- https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5 
 - courses completed:
 - - DevOps: Build, Deploy and Monitor 2021
 - - Making Smart Contract and Blockchain 2021
