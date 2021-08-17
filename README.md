@@ -183,14 +183,19 @@ National University of Singapore
 - - The 5 Courses aimed at enriching both the learner’s mind and heart
 -
 
-edX
+edX MIT
 - courses completed:
-- - University Cote d’ Azur, W3Cx, JavaScript Introduction 2021
-- - Harvard University, CS50’s Computer Science for Business Professionals 2021
-- - University of Michigan, Programming for Everybody Getting Started with Python 2021
-- - Imperial College London, Creative Thinking: Techniques and Tools 2021
-- - University of Maryland, Applied Scrum for Agile Project Management 2021
--
+- University Cote d’ Azur, W3Cx, JavaScript Introduction 2021
+- - https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
+- Harvard University, CS50’s Computer Science for Business Professionals 2021
+- - https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
+- University of Michigan, Programming for Everybody Getting Started with Python 2021
+- - https://courses.edx.org/certificates/2154a7fab781457f90d9939e3bfdd170
+- Imperial College London, Creative Thinking: Techniques and Tools 2021
+- - https://courses.edx.org/certificates/9a3374812c2a44d8ae33397dd724234a
+- University of Maryland, Applied Scrum for Agile Project Management 2021
+- - https://courses.edx.org/certificates/357f61567b4147dbaf360e325734f7db
+- 
 
 National University of Singapore, School Of Computing, FinTech
 - courses completed:
