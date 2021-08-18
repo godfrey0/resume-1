@@ -21,7 +21,7 @@ CURRICULUM VITAE
 -
 - Adelaide MBA, Adelaide Business School, University of Adelaide 2001.
 - - Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
-- - - (ranked #1 in South Australia and #2 in Australia) Australian Financial Review, AFR BOSS 2020.
+- - Australian Financial Review (ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020.
 - 
 - Current SoC Individual Project 2021
 - NUS FinTech SoC Programme
@@ -44,7 +44,7 @@ CURRICULUM VITAE
 
 MOTTO
 - Read Hermeneutics and studied under Professor Bernard L. Ramm 
-- - Professor Bernard shared his life begins at 72!
+- - Professor Bernard shared life begins at 72!
 - 
 
 CURRENT NUS SoC PROJECT
@@ -62,7 +62,9 @@ EXPERIENCE
 
 SUCCESS FOREVER CONSTRUCTION 2018~2020
 - Project Manager
-- - Structural repair work for HDB and Town Council
+- - Structural repair work for
+- - - HDB and 
+- - - Town Council
 -
 
 ETANA RESOURCES 2017~2018
@@ -138,7 +140,8 @@ SAF OETI, School of Doctrine 1973~1983
 EDUCATION
 - National University of Singapore 2021~Present
 - School of Computing, 
-- - CRYSTAL Centre (Cryptocurrency, Strategy, Techniques and Algorithims)
+- - CRYSTAL Centre 
+- - (Cryptocurrency, Strategy, Techniques and Algorithims)
 -
 
 National University of Singapore
