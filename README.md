@@ -215,7 +215,8 @@ National University of Singapore, School Of Computing, FinTech
 - - APIs and RPA: Automation, Bots and Future 2021
 - https://api.accredible.com/v1/auth/invite?code=cec840b7bb6810d15d57&credential_id=5d6d96e0-8a86-4232-9411-7096a0f094fe&url=https%3A%2F%2Fcredentials.nus.edu.sg%2F5d6d96e0-8a86-4232-9411-7096a0f094fe&ident=3126475999f8178fffd62871a4ce404fdaa02dd1- 
 - - Developers Toolkit Part 2: Middleware to Backend 2021
-- - Developers Toolkit Part 1: Connecting the Frontend 2021
+- https://api.accredible.com/v1/auth/invite?code=cec840b7bb6810d15d57&credential_id=90cb2f6e-59c0-4838-ad75-bf39f86590b1&url=https%3A%2F%2Fcredentials.nus.edu.sg%2F90cb2f6e-59c0-4838-ad75-bf39f86590b1&ident=3126475999f8178fffd62871a4ce404fdaa02dd1
+- - - Developers Toolkit Part 1: Connecting the Frontend 2021
 - - Fintech: Concepts, Cases and Technology 2021
 - - Delight Customers and Protect Privacy with AI and Blockchain 2021
 - - Beyond Disruptions: Digitalising Financial Services 2021
