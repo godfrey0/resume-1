@@ -14,10 +14,10 @@ CURRICULUM VITAE
 - "NUS FinTech SG Programme"
 - - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore,
 - - - in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon.
-- 
 - "Artificial Intelligence SG Programme"
 - - is a national programme to synergise Singapore's Artificial Intelligence capabilities,
 - - - by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
+-
 -
 - Adelaide MBA, Adelaide Business School, University of Adelaide 2001.
 - - Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
@@ -28,15 +28,17 @@ CURRICULUM VITAE
 - - QuantConnect and SubmittingAlpha with 
 - - Professor Anand Bhojan as Instructor and 
 - - Mentor by PhD candidate Dixtant Mittal
-
+-
 - 
 - B.Min., (Minor in Christian Eduction) TCA College 1996
 - - Theological Centre for Asia College 1996
-- 
+
+-
 -  Dip. Th., Singapore Bible College 1987
 - - Read Hermeneutics under Professor Bernard L. Ramm 
 - - Read Curriculum under Professor Ng Peh Cheng
-- 
+
+-
 - SDFEM., Ngee Ann Polytechnic 2015
 - - Specialist Diploma Franchise Enterprise Management
 -
