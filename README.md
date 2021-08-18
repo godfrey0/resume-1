@@ -1,8 +1,9 @@
 CURRICULUM VITAE
 - Ong Ser Thong Godfrey 
 - serthongong@gmail.com | t0921234@u.nus.edu | +65 81813136
-
+- https://v2.credential.net/profile/ongserthong325210/wallet
 - 
+-  
 - NUS School of Computing, FinTech Professional Certificate in FinTech Senior Developer (Level 3)
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
 - NUS School of Computing, FinTech Professional Certificate in FinTech Developer (Level 2)
@@ -10,11 +11,11 @@ CURRICULUM VITAE
 - School of Computing Professional Certificate in FinTech Associate (Level 1)
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
 -
-- NUS FinTech SG Programme
+- "NUS FinTech SG Programme"
 - - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore,
 - - - in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon.
 - 
-- AI SG Programme
+- "Artificial Intelligence SG Programme"
 - - is a national programme to synergise Singapore's Artificial Intelligence capabilities,
 - - - by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
 -
@@ -71,39 +72,43 @@ ETANA RESOURCES 2017~2018
 
 TRADISITICS 2000~2017
 - CTO
-- - (notable programmes) AHA Extended Warranty,
-Doctor Digital,
-Data Recovery, 
-IDA NEU PC, 
-Safety 5,
-U-Save, 
+- - (notable programmes) 
+- AHA Extended Warranty,
+- Doctor Digital,
+- Data Recovery, 
+- IDA NEU PC, 
+- Safety 5,
+- U-Save, 
 
-- - (notable partners) Gain City Engineering,
-NOJIMA Courts Superstore, 
-Best Denki, 
-Harvey Norman, Australia;
-IC FRITH, New Zealand;
-NTUC Fairprice,
-Office 1,
-IDA Infocomm Media Authority of Singapore,  
-NEC Computers International, Japan;
-Packard Bell Computers, France;
-Gigabyte Computers, Taiwan.
+- - (notable partners) 
+- Gain City Engineering,
+- NOJIMA Courts Superstore, 
+- Best Denki, 
+- Harvey Norman, Australia;
+- IC Frith, New Zealand;
+- NTUC Fairprice,
+- Office 1,
+- IDA Infocomm Media Authority of Singapore,  
+- NEC Computers International, Japan;
+- Packard Bell Computers, France;
+- Gigabyte Computers, Taiwan.
 -
 
 MINUS 10 2000~2001
 - CIO
-- - eCommerce
+- - e Commerce
+- - e Auction
 -
 
 SANOFI RHONE POULENC PHARMA 1993~2001
 - Executive
-- - Consumable Drugs / Vaccines
+- - Consumable Drugs
+- - Vaccines
 -
 
 ELTEAN AGENCIES 1990~1993
 - Executive
-- - Watsons Pharmacy, Guardian Pharmacy, Apex Pharmacy, Unity Pharmacy.
+- - Watsons, Guardian, Apex, Unity, SGH, NSC Pharmacy.
 - 
 
 BETHESDA HALL AMK 1989~1990
