@@ -250,6 +250,7 @@ National University of Singapore, School Of Computing
 - 
 Singapore Business Federation Business Institute
 - courses completed:
+- - Strategic Decision Making, eCornell Course 2019
 - - Vetting and Securing a Joint venture Agreement 2019
 - - Avoiding Fraud in Trade Finance in An International Climate 2019
 - - Understanding Transfer Pricing 2019
