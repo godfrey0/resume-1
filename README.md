@@ -228,7 +228,7 @@ National University of Singapore, School Of Computing, FinTech
 - - https://bit.ly/3geTJys
 - Fintech: Concepts, Cases and Technology
 - - https://bit.ly/3iX74wX
-- - Delight Customers and Protect Privacy with AI and Blockchain 2021
+- Delight Customers and Protect Privacy with AI and Blockchain 2021
 - - 
 - Beyond Disruptions: Digitalising Financial Services 2021
 - - 
