@@ -228,7 +228,8 @@ edX MIT
 - - https://courses.edx.org/certificates/357f61567b4147dbaf360e325734f7db
 - 
 
-National University of Singapore, School Of Computing, FinTech
+National University of Singapore, School Of Computing
+- Financial Technology
 - courses completed:
 - DevOps: Build, Deploy and Monitor
 - Making Contracts Smart with Blockchain
