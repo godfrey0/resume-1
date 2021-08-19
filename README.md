@@ -123,7 +123,7 @@ BETHESDA HALL AMK 1989~1990
 BOOKWORMS CONSULTANTS 1983~1984
 - Media Manager
 - - Primary Schools
-- - Bookworms Promotional Events
+- - Organiser of On-stage Life Show
 - 
 
 SILAT II PRIMARY SCHOOL 1983~1983
@@ -134,6 +134,11 @@ SILAT II PRIMARY SCHOOL 1983~1983
 IDF
 - Live fire test weapon system program 
 - - on the Sinai Desert 1976
+-
+
+SAF
+- Live fire test weapon system support South
+- - Starlight, Taiwan 1978
 -
 
 SAF OETI, School of Doctrine 1973~1983
