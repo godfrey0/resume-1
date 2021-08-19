@@ -18,12 +18,6 @@ CURRICULUM VITAE
 - - sales executive and
 - - account executive
 - 
-- "NUS FinTech SG Programme"
-- - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore,
-- - - in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon.
-- "Artificial Intelligence SG Programme"
-- - is a national programme to synergise Singapore's Artificial Intelligence capabilities,
-- - - by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
 -
 - NUS School of Computing, Professional Certificate in FinTech Senior Developer (Level 3)
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
@@ -143,13 +137,8 @@ SAF OETI, School of Doctrine 1973~1983
 
 EDUCATION
 - National University of Singapore 2021~Present
-- School of Computing, 
-- - CRYSTAL Centre 
-- - (Cryptocurrency, Strategy, Techniques and Algorithims)
 -
-
-National University of Singapore
-- School of Computing Professional Certificate in FinTech SENIOR DEVELOPER (Level 3) 2021
+- School of Computing Professional Certificate in FinTech SENIOR DEVELOPER (Level 3)
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5 
 - courses completed:
 - DevOps: Build, Deploy and Monitor
@@ -160,8 +149,7 @@ National University of Singapore
 - - https://bit.ly/3geTJys
 - 
 -
-National University of Singapore
-- School of Computing Professional Certificate in FinTech DEVELOPER (Level 2) 2021 
+- School of Computing Professional Certificate in FinTech DEVELOPER (Level 2)
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend
@@ -172,8 +160,7 @@ National University of Singapore
 - - https://bit.ly/3z1tmU6
 -
 -
-National University of Singapore
-- School of Computing Professional Certificate in FinTech ASSOCIATE (Level 1) 2021
+- School of Computing Professional Certificate in FinTech ASSOCIATE (Level 1)
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
 - - courses completed:
 - FinTech: Concepts, Cases and Technology
@@ -186,8 +173,7 @@ National University of Singapore
 - - https://bit.ly/3D03FFW
 - 
 -
-National University of Singapore
-- School of Computing Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain 2021 
+- School of Computing Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - courses completed:
 - Making Fast Decisions with Business Analytics
@@ -200,8 +186,7 @@ National University of Singapore
 - - https://bit.ly/3z0tlQ1
 -
 -
-National University of Singapore 
-- The Faculty of Arts and Social Sciences Professional Certificate Human and Automated Manageriak Skills 2021
+- The Faculty of Arts and Social Sciences Professional Certificate Human and Automated Manageriak Skills
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
 - courses completed:
 - - Meaning to Mindsets
@@ -213,43 +198,44 @@ National University of Singapore
 -
 edX MIT
 - courses completed:
-- University Cote d’ Azur, W3Cx, JavaScript Introduction 2021
+- University Cote d’ Azur, World Wide Web Consortium W3Cx, JS.Ox: JavaScript Introduction
 - - https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
-- Harvard University, CS50’s Computer Science for Business Professionals 2021
+- Harvard University, CS50’s Computer Science for Business Professionals 
 - - https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
-- University of Michigan, Programming for Everybody Getting Started with Python 2021
+- University of Michigan, Programming for Everybody Getting Started with Python 
 - - https://courses.edx.org/certificates/2154a7fab781457f90d9939e3bfdd170
-- Imperial College London, Creative Thinking: Techniques and Tools 2021
+- Imperial College London, Creative Thinking: Techniques and Tools 
 - - https://courses.edx.org/certificates/9a3374812c2a44d8ae33397dd724234a
-- University of Maryland, Applied Scrum for Agile Project Management 2021
+- University of Maryland, Applied Scrum for Agile Project Management 
 - - https://courses.edx.org/certificates/357f61567b4147dbaf360e325734f7db
 - 
 
-National University of Singapore, School Of Computing
+National University of Singapore, School of Computing
 - Financial Technology
 - courses completed:
-- DevOps: Build, Deploy and Monitor
-- Making Contracts Smart with Blockchain
-- Algo-trading, Theory and Practice
-- Developers Toolkit Part 1: Connecting the Frontend
-- Developers Toolkit Part 2: Middleware to Backend
-- APIs and RPA: Automation, Bots and Future
-- Fintech: Concepts, Cases and Technology
-- Design Thinking: Creative and Strategic Business Solutions
-- Beyond Disruptions: Digitalising Financial Services
-- Delight Customers and Protect Privacy with AI and Blockchain
-- Fundamentals of Investing Leveraging Technology
-- Using Business Analytics to Answer Business Questions
-- Optimizing Customers’ Experience with FinTech Technology
-- Making Fast Decisions with Business Analytics 
-- Meaning to Mindsets
-- Positivity and Wellbeing
-- Support and Service
-- How to Critically Reason with Data on Microsoft Excel
-- The Fundamentals of Algorithm Design and the Politics of Algorithms
+- - DevOps: Build, Deploy and Monitor
+- - Making Contracts Smart with Blockchain
+- - Algo-trading, Theory and Practice
+- - Developers Toolkit Part 1: Connecting the Frontend
+- - Developers Toolkit Part 2: Middleware to Backend
+- - APIs and RPA: Automation, Bots and Future
+- - Fintech: Concepts, Cases and Technology
+- - Design Thinking: Creative and Strategic Business Solutions
+- - Beyond Disruptions: Digitalising Financial Services
+- - Delight Customers and Protect Privacy with AI and Blockchain
+- - Fundamentals of Investing Leveraging Technology
+- - Using Business Analytics to Answer Business Questions
+- - Optimizing Customers’ Experience with FinTech Technology
+- - Making Fast Decisions with Business Analytics 
+- - Meaning to Mindsets
+- - Positivity and Wellbeing
+- - Support and Service
+- - How to Critically Reason with Data on Microsoft Excel
+- - The Fundamentals of Algorithm Design and the Politics of Algorithms
 - 
 - 
-Singapore Business Federation Business Institute
+Singapore Business Federation 
+- SBF Business Institute
 - courses completed:
 - - Strategic Decision Making, eCornell Course 2019
 - - Vetting and Securing a Joint venture Agreement 2019
@@ -295,7 +281,7 @@ Other Qualification:
 BOND
 - an award granted by the Government of the Republic of Singapore for
 - - Course of Study granted to the Government by Tel Aviv, Israel with
-- - 6-years scholarship bond 
+- - 6 years scholarship bond 
 - 
 
 AWARDS
@@ -308,15 +294,10 @@ AWARDS
 
 
 URLs
-
 https://github.com/godfrey0
-
 http://iro-iro.iroirojpnrest.repl.co
-
 https://github.com/godfreyong/resume.git
-
 https://godfrey0.github.io/IroIroJapaneseRestaurant
-
 https://v2.credential.net/profile/ongserthong325210/wallet
 
 https://courses.edx.org/certificates/9a3374812c2a44d8ae33397dd724234a
@@ -325,5 +306,12 @@ https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
 https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
 https://courses.edx.org/certificates/357f61567b4147dbaf360e325734f7db
 
-
-End of Statement
+FINANCIAL TECHNOLOGY
+- "NUS FinTech SG Programme"
+- - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore,
+- - - in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon.
+- "Artificial Intelligence SG Programme"
+- - is a national programme to synergise Singapore's Artificial Intelligence capabilities,
+- - - by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
+- 
+- End of Statement
