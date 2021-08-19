@@ -157,7 +157,7 @@ National University of Singapore
 - courses completed:
 - DevOps: Build, Deploy and Monitor
 - - https://bit.ly/3821wLj
-- Making Smart Contract and Blockchain 
+- Making Smart Contracts and Blockchain 
 - - https://bit.ly/37ScN0Z
 - Algo-trading: Theory and Practice
 - - https://bit.ly/3geTJys
@@ -194,7 +194,7 @@ National University of Singapore
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - courses completed:
 - Making Fast Decisions with Business Analytics
-- - https://bit.ly/37ScN0Z
+- - https://bit.ly/2UzwEPs
 - Optimizing Customers’ Experience with Fintech Strategy
 - - https://bit.ly/3k6t6wJ
 - Using Business Analytics to Answer Business Questions
