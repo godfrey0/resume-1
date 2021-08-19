@@ -219,8 +219,16 @@ National University of Singapore, School Of Computing, FinTech
 - Developers Toolkit Part 1: Connecting the Frontend 2021
 - - https://bit.ly/3k86egd
 - Fintech: Concepts, Cases and Technology 2021
-- -
-- Delight Customers and Protect Privacy with AI and Blockchain 2021
+- - https://bit.ly/3iX74wX
+- DevOps: build, Deploy and Monitor
+- - https://bit.ly/3821wLj
+- Making Contracts Smart with Blockchain
+- - https://bit.ly/37ScN0Z
+- Algo-trading, Theory and Practice
+- - https://bit.ly/3geTJys
+- Fintech: Concepts, Cases and Technology
+- - https://bit.ly/3iX74wX
+- - Delight Customers and Protect Privacy with AI and Blockchain 2021
 - - 
 - Beyond Disruptions: Digitalising Financial Services 2021
 - - 
