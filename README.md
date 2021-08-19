@@ -2,8 +2,28 @@ CURRICULUM VITAE
 - Ong Ser Thong Godfrey 
 - serthongong@gmail.com | t0921234@u.nus.edu | +65 81813136
 - https://v2.credential.net/profile/ongserthong325210/wallet
+-
+- Current NUS FinTech Project 2021~Present
+- NUS School of Computing 
+- Individual Project:
+- - QuantConnect and SubmittingAlpha with 
+- - Professor Anand Bhojan as Instructor and 
+- - Mentor by PhD candidate Dixtant Mittal 
+-
+- Current PRIVATE Project 2021~Present
+- in collaboration with Nogawa Sentosa
+- Personal Project:
+- - PowerBI for
+- - sales executive and
+- - account executive
 - 
--  
+- "NUS FinTech SG Programme"
+- - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore,
+- - - in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon.
+- "Artificial Intelligence SG Programme"
+- - is a national programme to synergise Singapore's Artificial Intelligence capabilities,
+- - - by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
+-
 - NUS School of Computing, Professional Certificate in FinTech Senior Developer (Level 3)
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
 - NUS School of Computing, Professional Certificate in FinTech Developer (Level 2)
@@ -16,33 +36,20 @@ CURRICULUM VITAE
 - The Faculty of Arts and Social Sciences Professional Certificate Human and Automated Manageriak Skills 
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
 -
-- "NUS FinTech SG Programme"
-- - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore,
-- - - in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon.
-- "Artificial Intelligence SG Programme"
-- - is a national programme to synergise Singapore's Artificial Intelligence capabilities,
-- - - by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
--
 -
 - Adelaide MBA, Adelaide Business School, University of Adelaide 2001.
 - - Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
 - - Australian Financial Review (ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020.
-- 
-- Current SoC Individual Project 2021
-- NUS FinTech SoC Programme
-- - QuantConnect and SubmittingAlpha with 
-- - Professor Anand Bhojan as Instructor and 
-- - Mentor by PhD candidate Dixtant Mittal
 -
 - 
 - B.Min., (Minor in Christian Eduction) TCA College 1996
 - - Theological Centre for Asia College 1996
-
+-
 -
 -  Dip. Th., Singapore Bible College 1987
 - - Read Hermeneutics under Professor Bernard L. Ramm 
 - - Read Curriculum under Professor Ng Peh Cheng
-
+-
 -
 - SDFEM., Ngee Ann Polytechnic 2015
 - - Specialist Diploma Franchise Enterprise Management
@@ -53,17 +60,6 @@ MOTTO
 - Read Hermeneutics and studied under Professor Bernard L. Ramm 
 - - Professor Bernard shared life begins at 72!
 - 
-
-CURRENT NUS SoC PROJECT
-- Individual Project 2021~Present
-- - QuantConnect and SubmittingAlpha with 
-- - - Professor Anand Bhojan as Instructor and 
-- - - Mentor by PhD candidate Dixtant Mittal.
-- 
-- Personal Project 2021~Present
-- - Introduction to PowerBI for account executive
-- - - in collaboration with Nogawa Sentosa.
--
  
 EXPERIENCE
 
