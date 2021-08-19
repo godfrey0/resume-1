@@ -73,12 +73,15 @@ ETANA RESOURCES 2017~2018
 TRADISITICS 2000~2017
 - CTO
 - - (notable programmes) 
-- AHA Extended Warranty,
-- Doctor Digital,
-- Data Recovery, 
-- IDA NEU PC, 
-- Safety 5,
-- U-Save, 
+- AIG American Home Assurance,
+- AHA Extended Warranty, Gain City
+- AHA Extended warranty, Harvey Norman
+- AHA Extended Warranty, Courts
+- Doctor Digital, Courts
+- Data Recovery, Best Denki
+- IDA NEU PC, Fair Price
+- Safety 5, Best d]Denki
+- U-Save, Fair Price
 
 - - (notable partners) 
 - Gain City Engineering,
@@ -114,12 +117,14 @@ ELTEAN AGENCIES 1990~1993
 BETHESDA HALL AMK 1989~1990
 - Chief Instructor
 - - Queensland Mailbox Bible Correspondence Course
--
+- - Cassette tapes Program
+- 
 
 BOOKWORMS CONSULTANTS 1983~1984
 - Media Manager
 - - Primary Schools
--
+- - Bookworms Promotional Events
+- 
 
 SILAT II PRIMARY SCHOOL 1983~1983
 - Relief Teacher
@@ -127,7 +132,8 @@ SILAT II PRIMARY SCHOOL 1983~1983
 - 
 
 IDF
-- Live fire test weapon system program on the Sinai Desert 1976
+- Live fire test weapon system program 
+- - on the Sinai Desert 1976
 -
 
 SAF OETI, School of Doctrine 1973~1983
@@ -269,8 +275,11 @@ Other Qualification:
 - Certificate of Achievment, Dirad 2020
 - Dip. LTI., CEF Missouri 1984
 - Unarmed Combat Instructor, SAFTI Sch of Physical Training Institute, 1980
-- Gun fitter Class 1, Ordnance Engineering Training Institute, 1981
-- Armourer to Gun fitter Conversion Course, SAF OETI, 1977
+- Armament Tech Class 1, Ordnance Engineering Training Institute, 1981
+- - Heavy Arms, Small Arms, Turret Mech,
+- Armourer to Gunfitter Conversion Course, SAF OETI, 1977
+- Gunfitter to Armourer Conversion Course, SAF OETI, 1977
+- Gunfitter to Turret Mech Conversion Course, SAF OETI, 1977
 - Armourer Cl 1, SAF Weapon Optical Base, 1976
 - Armourer Cl 2, SAF Weapon Optical Base, 1974
 - MOH, ART Self-Swab, Health Management International 2021
@@ -289,7 +298,7 @@ AWARDS
 - Singapore Quality Class Awards nominee 2011
 - SAF Good Service Medal 1977
 - SAF Logistics Small Arms Competition 1975
-- - Gold for Falling Plates Championship Match
+- - Gold medal for Team Falling Plates Championship Match
 -
 
 
