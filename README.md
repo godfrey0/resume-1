@@ -10,6 +10,11 @@ CURRICULUM VITAE
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - NUS School of Computing, Professional Certificate in FinTech Associate (Level 1)
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
+- 
+- School of Computing Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain
+- https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
+- The Faculty of Arts and Social Sciences Professional Certificate Human and Automated Manageriak Skills 
+- https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
 -
 - "NUS FinTech SG Programme"
 - - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore,
@@ -150,40 +155,54 @@ National University of Singapore
 - School of Computing Professional Certificate in FinTech SENIOR DEVELOPER (Level 3) 2021
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5 
 - courses completed:
-- - DevOps: Build, Deploy and Monitor 2021
-- - Making Smart Contract and Blockchain 2021
-- - Algotrading: Theory and Practice 2021
+- DevOps: Build, Deploy and Monitor
+- - https://bit.ly/3821wLj
+- Making Smart Contract and Blockchain 
+- - https://bit.ly/37ScN0Z
+- Algo-trading: Theory and Practice
+- - https://bit.ly/3geTJys
 - 
-
+-
 National University of Singapore
 - School of Computing Professional Certificate in FinTech DEVELOPER (Level 2) 2021 
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - courses completed:
-- - Developers Toolkit Part 1: Connecting the Frontend
-- - Developers Toolkit Part 2: Middleware to Backend
-- - APIs and RPA: Automation, Bots and Future
+- Developers Toolkit Part 1: Connecting the Frontend
+- - https://bit.ly/3k86egd
+- Developers Toolkit Part 2: Middleware to Backend
+- - https://bit.ly/2WaOxER
+- APIs and RPA: Automation, Bots and Future
+- - https://bit.ly/3z1tmU6
 -
-
+-
 National University of Singapore
 - School of Computing Professional Certificate in FinTech ASSOCIATE (Level 1) 2021
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
 - - courses completed:
-- - FinTech: Concepts, Cases and Technology
-- - Design Thinking: Creative and Strategic Business Solutions
-- - Beyond Disruptions: Digitalising Financial Services
-- - Delight Customers and Protect Privacy with AI and Blockchain
+- FinTech: Concepts, Cases and Technology
+- - https://bit.ly/3iX74wX
+- Design Thinking: Creative and Strategic Business Solutions
+- - https://bit.ly/2W681up
+- Beyond Disruptions: Digitalising Financial Services
+- - https://bit.ly/3xXiyox
+- Delight Customers and Protect Privacy with AI and Blockchain
+- - https://bit.ly/3D03FFW
+- 
 -
-
 National University of Singapore
 - School of Computing Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain 2021 
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - courses completed:
-- - Making Fast Decisions with Business Analytics
-- - Optimising Customers’ Experience with Fintech Strategy
-- - Using Business Analytics to Answer Business Questions
-- - Fundamental of Investing Leveraging Technology
+- Making Fast Decisions with Business Analytics
+- - https://bit.ly/37ScN0Z
+- Optimizing Customers’ Experience with Fintech Strategy
+- - https://bit.ly/3k6t6wJ
+- Using Business Analytics to Answer Business Questions
+- - https://bit.ly/3geOX47
+- Fundamental of Investing Leveraging Technology
+- - https://bit.ly/3z0tlQ1
 -
-
+-
 National University of Singapore 
 - The Faculty of Arts and Social Sciences Professional Certificate Human and Automated Manageriak Skills 2021
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
@@ -193,9 +212,8 @@ National University of Singapore
 - - Support and Service
 - - How to Critically Reason with Data on Microsoft Excel
 - - The Fundamentals of Algorithm Design and the Politics of Algorithms
-- - The 5 Courses aimed at enriching both the learner’s mind and heart
 -
-
+-
 edX MIT
 - courses completed:
 - University Cote d’ Azur, W3Cx, JavaScript Introduction 2021
@@ -212,46 +230,25 @@ edX MIT
 
 National University of Singapore, School Of Computing, FinTech
 - courses completed:
-- APIs and RPA: Automation, Bots and Future 2021
-- - https://bit.ly/3z1tmU6
-- Developers Toolkit Part 2: Middleware to Backend 2021
-- - https://bit.ly/2WaOxER
-- Developers Toolkit Part 1: Connecting the Frontend 2021
-- - https://bit.ly/3k86egd
-- Fintech: Concepts, Cases and Technology 2021
-- - https://bit.ly/3iX74wX
-- DevOps: build, Deploy and Monitor
-- - https://bit.ly/3821wLj
+- DevOps: Build, Deploy and Monitor
 - Making Contracts Smart with Blockchain
-- - https://bit.ly/37ScN0Z
 - Algo-trading, Theory and Practice
-- - https://bit.ly/3geTJys
+- Developers Toolkit Part 1: Connecting the Frontend
+- Developers Toolkit Part 2: Middleware to Backend
+- APIs and RPA: Automation, Bots and Future
 - Fintech: Concepts, Cases and Technology
-- - https://bit.ly/3iX74wX
-- Delight Customers and Protect Privacy with AI and Blockchain 2021
-- - 
-- Beyond Disruptions: Digitalising Financial Services 2021
-- - 
-- Design Thinking: Creative and Strategic Business Solutions 2021
-- - 
-- Fundamentals of Investing Leveraging Technology 2021
-- - 
-- Using Business Analytics to Answer Business Questions 2021
-- - 
-- Optimizing Customers’ Experience with FinTech Technology 2021
-- - 
-- Making Fast Decisions with Business Analytics 2021
-- - 
+- Design Thinking: Creative and Strategic Business Solutions
+- Beyond Disruptions: Digitalising Financial Services
+- Delight Customers and Protect Privacy with AI and Blockchain
+- Fundamentals of Investing Leveraging Technology
+- Using Business Analytics to Answer Business Questions
+- Optimizing Customers’ Experience with FinTech Technology
+- Making Fast Decisions with Business Analytics 
 - Meaning to Mindsets
-- - 
 - Positivity and Wellbeing
-- - 
 - Support and Service
-- - 
 - How to Critically Reason with Data on Microsoft Excel
-- - 
 - The Fundamentals of Algorithm Design and the Politics of Algorithms
-- -
 - 
 - 
 Singapore Business Federation Business Institute
