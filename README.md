@@ -153,7 +153,7 @@ SAF OETI, School of Doctrine 1973~1983
 EDUCATION
 - National University of Singapore 2021
 -
-- School of Computing Professional Certificate in FinTech SENIOR DEVELOPER (Level 3)
+- School of Computing Professional Certificate in FinTech Senior Developer (Level 3)
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5 
 - courses completed:
 - DevOps: Build, Deploy and Monitor
@@ -164,7 +164,7 @@ EDUCATION
 - - https://bit.ly/3geTJys
 - 
 -
-- School of Computing Professional Certificate in FinTech DEVELOPER (Level 2)
+- School of Computing Professional Certificate in FinTech Developer (Level 2)
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend
@@ -175,7 +175,7 @@ EDUCATION
 - - https://bit.ly/3z1tmU6
 -
 -
-- School of Computing Professional Certificate in FinTech ASSOCIATE (Level 1)
+- School of Computing Professional Certificate in FinTech Associate (Level 1)
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
 - - courses completed:
 - FinTech: Concepts, Cases and Technology
@@ -212,7 +212,7 @@ EDUCATION
 -
 -
 edX MIT
-- Core Elective Modules NUS
+- NUS SoC, Core Elective Modules
 - courses completed:
 - University Cote d’ Azur, World Wide Web Consortium W3Cx, JS.Ox: JavaScript Introduction
 - - https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
