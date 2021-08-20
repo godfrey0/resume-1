@@ -15,14 +15,14 @@ Current NUS FinTech Project 2021~Present
 - - Professor Anand Bhojan as Instructor and 
 - - Mentor by PhD candidate Dixtant Mittal 
 -
-Current PRIVATE Project 2021~Present
+Current Education Programme Project 2021~Present
 - in collaboration with Nogawa Sentosa
 - Personal Project:
 - - PowerBI for
 - - sales executive and
 - - account executive
 - 
--
+NUS SGUS Programme in International Financial Technology
 - NUS School of Computing, Professional Certificate in FinTech Senior Developer (Level 3)
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
 - NUS School of Computing, Professional Certificate in FinTech Developer (Level 2)
@@ -36,16 +36,19 @@ Current PRIVATE Project 2021~Present
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
 -
 -
-- Adelaide MBA, Adelaide Business School, University of Adelaide 2001.
+- Adelaide MBA., Adelaide Business School, University of Adelaide 2001.
+- Master of Business Administration
 - - Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
 - - Australian Financial Review (ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020.
 -
 - 
-- B.Min., (Minor in Christian Eduction) TCA College 1996
+- B. Min., (Minor in Christian Eduction) TCA College 1996
+- Bachelor of Ministry
 - - Theological Centre for Asia College 1996
 -
 -
 -  Dip. Th., Singapore Bible College 1987
+-  Diploma of Theology
 - - Read Hermeneutics under Professor Bernard L. Ramm 
 - - Read Curriculum under Professor Ng Peh Cheng
 -
@@ -148,7 +151,7 @@ SAF OETI, School of Doctrine 1973~1983
 -
 
 EDUCATION
-- National University of Singapore 2021~Present
+- National University of Singapore 2021
 -
 - School of Computing Professional Certificate in FinTech SENIOR DEVELOPER (Level 3)
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5 
@@ -209,6 +212,7 @@ EDUCATION
 -
 -
 edX MIT
+- Core Elective Modules NUS
 - courses completed:
 - University Cote d’ Azur, World Wide Web Consortium W3Cx, JS.Ox: JavaScript Introduction
 - - https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
@@ -223,7 +227,7 @@ edX MIT
 - 
 
 National University of Singapore, School of Computing
-- Financial Technology
+- FinTech (International Financial Technology)
 - courses completed:
 - - DevOps: Build, Deploy and Monitor
 - - Making Contracts Smart with Blockchain
