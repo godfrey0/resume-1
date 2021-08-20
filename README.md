@@ -4,14 +4,18 @@ CURRICULUM VITAE
 - serthongong@gmail.com | t0921234@u.nus.edu | +65 81813136
 - https://v2.credential.net/profile/ongserthong325210/wallet
 -
-- Current NUS FinTech Project 2021~Present
+MOTTO
+- Professor Bernard L. Ramm shared life begins at 72!
+-
+-
+Current NUS FinTech Project 2021~Present
 - NUS School of Computing 
 - Individual Project:
 - - QuantConnect and SubmittingAlpha with 
 - - Professor Anand Bhojan as Instructor and 
 - - Mentor by PhD candidate Dixtant Mittal 
 -
-- Current PRIVATE Project 2021~Present
+Current PRIVATE Project 2021~Present
 - in collaboration with Nogawa Sentosa
 - Personal Project:
 - - PowerBI for
@@ -51,10 +55,7 @@ CURRICULUM VITAE
 -
 -
 
-MOTTO
-- Read Hermeneutics and studied under Professor Bernard L. Ramm 
-- - Professor Bernard shared life begins at 72!
-- 
+
  
 EXPERIENCE
 
