@@ -1,6 +1,6 @@
 CURRICULUM VITAE
 - Ong Ser Thong Godfrey 
-- www.linkedin.com/in/OngSerThong
+- www.linkedin.com/in/Godfrey0
 - serthongong@gmail.com | t0921234@u.nus.edu | +65 81813136
 - https://v2.credential.net/profile/ongserthong325210/wallet
 -
