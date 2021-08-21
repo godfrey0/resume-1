@@ -14,7 +14,7 @@ MOTTO
 - - Professor Anand Bhojan as Instructor and 
 - - Mentor by PhD candidate Dixtant Mittal 
 -
-"Current" Education software or educational programme project, 2021~Present
+"Current" Education software programme project, 2021~Present
 - in collaboration with Nogawa Sentosa
 - Personal Project:
 - - PowerBI for
@@ -56,8 +56,6 @@ NUS SGUS Programme in International Financial Technology
 -
 -
 
-
- 
 EXPERIENCE
 
 SUCCESS FOREVER CONSTRUCTION 2018~2020
