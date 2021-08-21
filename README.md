@@ -5,17 +5,16 @@ CURRICULUM VITAE
 - https://v2.credential.net/profile/ongserthong325210/wallet
 -
 MOTTO
-- Professor Bernard L. Ramm shared life begins at 72!
+- Theologian Bernard L. Ramm shared that life begins at 72!
 -
--
-Current NUS FinTech Project 2021~Present
-- NUS School of Computing 
+"Current" NUS FinTech Batch 5F solo final project, 2021~Present
+- with NUS School of Computing 
 - Individual Project:
 - - QuantConnect and SubmittingAlpha with 
 - - Professor Anand Bhojan as Instructor and 
 - - Mentor by PhD candidate Dixtant Mittal 
 -
-Current Education Programme Project 2021~Present
+"Current" Education software or educational programme project, 2021~Present
 - in collaboration with Nogawa Sentosa
 - Personal Project:
 - - PowerBI for
@@ -29,7 +28,6 @@ NUS SGUS Programme in International Financial Technology
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - NUS School of Computing, Professional Certificate in FinTech Associate (Level 1)
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
-- 
 - School of Computing Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - The Faculty of Arts and Social Sciences Professional Certificate Human and Automated Manageriak Skills 
