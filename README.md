@@ -1,5 +1,5 @@
 CURRICULUM VITAE
-- Ong Ser Thong Godfrey 
+- Ong Ser Thong Godfrey 王 赐 通
 - www.linkedin.com/in/Godfrey0
 - serthongong@gmail.com | t0921234@u.nus.edu | +65 81813136
 - https://v2.credential.net/profile/ongserthong325210/wallet
@@ -71,7 +71,7 @@ ETANA RESOURCES 2017~2018
 -
 
 TRADISITICS 2000~2017
-- CTO
+- Technical Officer
 - - (notable programmes) 
 - AIG American Home Assurance,
 - AHA Extended Warranty, Gain City
@@ -98,7 +98,7 @@ TRADISITICS 2000~2017
 -
 
 MINUS 10 2000~2001
-- CIO
+- Information Officer
 - - e Commerce
 - - e Auction
 -
