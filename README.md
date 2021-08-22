@@ -60,7 +60,8 @@ NUS School of Computing, Professional Certificate in:-
 EXPERIENCE
 
 SUCCESS FOREVER CONSTRUCTION 2018~2020
-- Project Manager
+- 
+Project Manager
 - to secure the structural work project 
 - to monitor the scope of works
 - to manage KPI with HDB
@@ -69,7 +70,8 @@ SUCCESS FOREVER CONSTRUCTION 2018~2020
 - to succeed in completing the project
 -
 ETANA RESOURCES 2017~2018
-- Senior Engineer
+- 
+Senior Engineer
 - to maintenance heavy SAF equipment
 - to service FH 2000
 - to service LWH Pegasus
@@ -78,8 +80,8 @@ ETANA RESOURCES 2017~2018
 -
 -
 TRADISITICS 2000~2017
-- Chief Technical Officer
-- - to secure new contracts
+Chief Technical Officer
+- to secure new contracts
 - - to fulfil contractual obligation 
 - - to operate the call centre
 - - to operate the service centre
