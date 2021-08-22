@@ -138,7 +138,7 @@ SAF OETI, School of Doctrine 1973~1983
 -
 -
 EDUCATION
-- National University of Singapore 2021
+- National University of Singapore 2021~Present
 -
 - School of Computing Professional Certificate in FinTech Senior Developer (Level 3)
 - - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5 
