@@ -85,26 +85,11 @@ TRADISITICS 2000~2017
 - - to operate the service centre
 - - to operate on-site service
 - - to operate storage of stocks and parts
-- - 
-- - (notable programmes) 
-- AIG American Home Assurance,
-- AHA Extended Warranty, Gain City
-- AHA Extended warranty, Harvey Norman
-- AHA Extended Warranty, Courts
-- Doctor Digital, Courts
-- Data Recovery, Best Denki
-- IDA NEU PC, Fair Price
-- Safety 5, Best d]Denki
-- U-Save, Fair Price
+- - - (notable commercialm products) 
+- - - - AIG American Home Assurance, AHA Extended Warranty, Doctor Digital, Data Recovery, IDA NEU PC, Safety 5, U-Save,
 
-- - (notable partners) 
-- Gain City Engineering,
-- NOJIMA Courts Superstore, 
-- Best Denki, 
-- Harvey Norman, Australia;
-- IC Frith, New Zealand;
-- NTUC Fairprice,
-- Office 1,
+- - - (notable partners) 
+- - - - Gain City Engineering, NOJIMA Courts Superstore, Best Denki, Harvey Norman, Australia; IC Frith, New Zealand; NTUC Fairprice, Office 1,
 - IDA Infocomm Media Authority of Singapore,  
 - NEC Computers International, Japan;
 - Packard Bell Computers, France;
