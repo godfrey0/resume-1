@@ -16,7 +16,8 @@ PERSONAL PROJECT
 - Developing an education software programme, July~December 2021
 - - Power BI for business executives in collaboration with Nogawa Sentosa
 -
-NUS FinTech Batch 5F solo final project, August~November 2021
+NUS SGUS FinTech Batch 5 FINAL PROJECT SHOWCASE
+- Batch 5F is a solo capacity final project work, August~November 2021
 - QuantConnect and SubmittingAlpha 
 - - Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal 
 -
