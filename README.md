@@ -13,7 +13,7 @@ MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
 -
 PERSONAL PROJECT
-- Developing an education software programme project, July~December 2021
+- Developing an education software programme, July~December 2021
 - - Power BI for business executives in collaboration with Nogawa Sentosa
 -
 NUS FinTech Batch 5F solo final project, August~November 2021
