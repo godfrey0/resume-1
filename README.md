@@ -76,7 +76,7 @@ ETANA RESOURCES 2017~2018
 - to service SSPH 1 Primus
 - to perform triple F testing
 -
-
+-
 TRADISITICS 2000~2017
 - Chief Technical Officer
 - - to secure new contracts
@@ -87,69 +87,57 @@ TRADISITICS 2000~2017
 - - to operate storage of stocks and parts
 - - - (notable commercialm products) 
 - - - - AIG American Home Assurance, AHA Extended Warranty, Doctor Digital, Data Recovery, IDA NEU PC, Safety 5, U-Save,
-
-- - - (notable partners) 
-- - - - Gain City Engineering, NOJIMA Courts Superstore, Best Denki, Harvey Norman, Australia; IC Frith, New Zealand; NTUC Fairprice, Office 1,
-- IDA Infocomm Media Authority of Singapore,  
-- NEC Computers International, Japan;
-- Packard Bell Computers, France;
-- Gigabyte Computers, Taiwan.
 -
-
-MINUS 10 2000~2001
-- Information Officer
+- - - (notable partners) 
+- - - - Gain City Engineering, NOJIMA Courts Superstore, Best Denki, Harvey Norman, Australia; IC Frith, New Zealand; NTUC Fairprice, Office 1, IDA Infocomm Media Authority of Singapore, NEC Computers International, Japan; Packard Bell Computers, France; Gigabyte Computers, Taiwan.
+-
+-
+MINUS 10 Challenger Technologies Limited 2000~2001
+- Chief Information Officer
 - - e Commerce
 - - e Auction
 -
-
 SANOFI RHONE POULENC PHARMA 1993~2001
 - Executive
 - - Consumable Drugs
 - - Vaccines
 -
-
 ELTEAN AGENCIES 1990~1993
 - Executive
 - - Watsons, Guardian, Apex, Unity, SGH, NSC Pharmacy.
 - 
-
 BETHESDA HALL AMK 1989~1990
 - Chief Instructor
 - - Queensland Mailbox Bible Correspondence Course
 - - Cassette tapes Program
 - 
-
 BOOKWORMS CONSULTANTS 1983~1984
 - Media Manager
 - - Primary Schools
 - - Organiser of On-stage Life Show
 - 
-
 SILAT II PRIMARY SCHOOL 1983~1983
 - Relief Teacher
 - - Mathematics
 - 
-
 IDF
 - Live fire test weapon system program 
 - - on the Sinai Desert 1976
 -
-
 SAF
 - Live fire test weapon system support South
 - - Starlight, Taiwan 1978
 -
-
 SAF OETI, School of Doctrine 1973~1983
 - Lead Invigilator
 - - Ordnance Engineering Training Institute
 -
-
+-
 EDUCATION
 - National University of Singapore 2021
 -
 - School of Computing Professional Certificate in FinTech Senior Developer (Level 3)
-- https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5 
+- - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5 
 - courses completed:
 - DevOps: Build, Deploy and Monitor
 - - https://bit.ly/3821wLj
@@ -160,7 +148,7 @@ EDUCATION
 - 
 -
 - School of Computing Professional Certificate in FinTech Developer (Level 2)
-- https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
+- - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend
 - - https://bit.ly/3k86egd
@@ -171,7 +159,7 @@ EDUCATION
 -
 -
 - School of Computing Professional Certificate in FinTech Associate (Level 1)
-- https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
+- - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
 - - courses completed:
 - FinTech: Concepts, Cases and Technology
 - - https://bit.ly/3iX74wX
@@ -184,7 +172,7 @@ EDUCATION
 - 
 -
 - School of Computing Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain
-- https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
+- - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - courses completed:
 - Making Fast Decisions with Business Analytics
 - - https://bit.ly/2UzwEPs
@@ -197,7 +185,7 @@ EDUCATION
 -
 -
 - The Faculty of Arts and Social Sciences Professional Certificate Human and Automated Managerial Skills
-- https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
+- - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
 - courses completed:
 - - Meaning to Mindsets
 - - Positivity and Wellbeing
@@ -223,7 +211,8 @@ edX MIT
 
 National University of Singapore, School of Computing
 - FinTech (International Financial Technology)
-- courses completed:
+- - https://v2.credential.net/profile/ongserthong325210/wallet
+-- courses completed:
 - - DevOps: Build, Deploy and Monitor
 - - Making Contracts Smart with Blockchain
 - - Algo-trading, Theory and Practice
@@ -325,12 +314,5 @@ https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
 https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
 https://courses.edx.org/certificates/357f61567b4147dbaf360e325734f7db
 
-FINANCIAL TECHNOLOGY
-- "NUS FinTech SG Programme"
-- - jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore,
-- - - in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon.
-- "Artificial Intelligence SG Programme"
-- - is a national programme to synergise Singapore's Artificial Intelligence capabilities,
-- - - by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
 - 
 - End of Statement
