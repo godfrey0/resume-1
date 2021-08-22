@@ -6,8 +6,8 @@ CURRICULUM VITAE
 -
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for
-- - the course of study to be granted to the Government by Tel Aviv, Israel 
-- - - an overseas scholarship with a bond of six years
+- the course of study to be granted to the Government by Tel Aviv, Israel and 
+- an overseas scholarship with a six years bond obligations.
 -
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
@@ -98,10 +98,22 @@ Chief Technical Officer 2000~2017
 - - AIG, American Home Assurance, Gain City Engineering, NOJIMA Courts Superstore, Best Denki, Harvey Norman, Australia; IC Frith, New Zealand; NTUC Fairprice, Office 1, IDA Infocomm Media Authority of Singapore, NEC Computers International, Japan; Packard Bell Computers, France; Gigabyte Computers, Taiwan.
 -
 -
-MINUS 10 Challenger Technologies Limited 2000~2001
-- Chief Information Officer
-- - e Commerce
-- - e Auction
+MINUS 10 
+-
+Chief Information Officer Challenger Technologies Limited 2000~2001
+- Multimedia Super Corridor Malaysia
+- e Commerce
+- e Auction
+- to design the flow chart
+- to operate payment gateway with banks
+- to budget and financial forecasting
+- to secure new dot com contracts
+- to fulfil contractual obligation 
+- to operate the front eoffice on-line transaction
+- to operate the web-based centric activity
+- to operate JIT stocks inventory
+- to operate back office delivery service
+- to operate storage of stocks and parts
 -
 SANOFI RHONE POULENC PHARMA 1993~2001
 - Executive
@@ -287,13 +299,12 @@ Other Qualification:
 - SFA, Food Hygiene Course, supervised by Chef Henry Lin JinQian (MBS & Fullerton) 2021 
 - Executive Program, SOLTAM Systems, Haifa, Israel 1976
 -
-BOND
-- an award granted by the Government of the Republic of Singapore for
-- - Course of Study granted to the Government by Tel Aviv, Israel with
-- - 6 years scholarship bond 
+DEED
+- Pursued an award granted by the Government of the Republic of Singapore for
+- the course of study to be granted to the Government by Tel Aviv, Israel and
+- an overseas scholarship with a six years bond obligations.
 - 
-
-AWARDS
+- - AWARDS
 - Spirit Of Enterprise Awards nominee 2012
 - Singapore Quality Class Awards nominee 2011
 - SAF Good Service Medal 1977
