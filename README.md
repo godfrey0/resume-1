@@ -4,46 +4,48 @@ CURRICULUM VITAE
 - serthongong@gmail.com | t0921234@u.nus.edu | +65 81813136
 - https://v2.credential.net/profile/ongserthong325210/wallet
 -
+DEED
+- Pursued an award granted by the Government of the Republic of Singapore for
+- - the course of study to be granted to the Government by Tel Aviv, Israel 
+- - - an overseas scholarshio with a bond of six years
+-
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
 -
-"Current" NUS FinTech Batch 5F solo final project, 2021~Present
-- with NUS School of Computing 
-- Individual Project:
-- - QuantConnect and SubmittingAlpha with 
+PERSONAL education software programme project, July~December 2021
+- Power BI for 
+- - business executives
+- - in collaboration with Nogawa Sentosa
+-
+NUS FinTech Batch 5F solo final project, August~November 2021
+- QuantConnect and SubmittingAlpha with 
 - - Professor Anand Bhojan as Instructor and 
 - - Mentor by PhD candidate Dixtant Mittal 
 -
-"Current" Education software programme project, 2021~Present
-- in collaboration with Nogawa Sentosa
-- Personal Project:
-- - PowerBI for
-- - sales executive and
-- - account executive
-- 
-NUS SGUS Programme in International Financial Technology
-- NUS School of Computing, Professional Certificate in FinTech Senior Developer (Level 3)
-- https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
-- NUS School of Computing, Professional Certificate in FinTech Developer (Level 2)
-- https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
-- NUS School of Computing, Professional Certificate in FinTech Associate (Level 1)
-- https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
-- School of Computing Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain
-- https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
-- The Faculty of Arts and Social Sciences Professional Certificate Human and Automated Manageriak Skills 
-- https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
+NUS FinTech SG is a jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. AI is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
 -
+NUS The Faculty of Arts and Social Sciences Professional Certificate in:-
+- Human and Automated Managerial Skills 
+- - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
+-
+NUS School of Computing, Professional Certificate in:-
+- FinTech (Level 3) Senior Developer
+- - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
+- FinTech (Level 2) Developer 
+- - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
+- FinTech (Level 1) Associate
+- - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
+- Business Analytics and AI for Finance, Retail and Supply Chain
+- - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 -
 - Adelaide MBA., Adelaide Business School, University of Adelaide 2001.
 - Master of Business Administration
 - - Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
 - - Australian Financial Review (ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020.
--
 - 
 - B. Min., (Minor in Christian Eduction) TCA College 1996
 - Bachelor of Ministry
 - - Theological Centre for Asia College 1996
--
 -
 -  Dip. Th., Singapore Bible College 1987
 -  Diploma of Theology
@@ -197,7 +199,7 @@ EDUCATION
 - - https://bit.ly/3z0tlQ1
 -
 -
-- The Faculty of Arts and Social Sciences Professional Certificate Human and Automated Manageriak Skills
+- The Faculty of Arts and Social Sciences Professional Certificate Human and Automated Managerial Skills
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
 - courses completed:
 - - Meaning to Mindsets
