@@ -7,20 +7,18 @@ CURRICULUM VITAE
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for
 - - the course of study to be granted to the Government by Tel Aviv, Israel 
-- - - an overseas scholarshio with a bond of six years
+- - - an overseas scholarship with a bond of six years
 -
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
 -
-PERSONAL education software programme project, July~December 2021
-- Power BI for 
-- - business executives
-- - in collaboration with Nogawa Sentosa
+PERSONAL PROJECT
+- Developing an education software programme project, July~December 2021
+- - Power BI for business executives in collaboration with Nogawa Sentosa
 -
 NUS FinTech Batch 5F solo final project, August~November 2021
 - QuantConnect and SubmittingAlpha with 
-- - Professor Anand Bhojan as Instructor and 
-- - Mentor by PhD candidate Dixtant Mittal 
+- - Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal 
 -
 NUS FinTech SG is a jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. AI is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
 -
