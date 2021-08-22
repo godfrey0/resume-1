@@ -17,7 +17,7 @@ PERSONAL PROJECT
 - - Power BI for business executives in collaboration with Nogawa Sentosa
 -
 NUS FinTech Batch 5F solo final project, August~November 2021
-- QuantConnect and SubmittingAlpha with 
+- QuantConnect and SubmittingAlpha 
 - - Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal 
 -
 NUS FinTech SG is a jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. AI is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
