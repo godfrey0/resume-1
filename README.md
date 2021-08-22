@@ -61,18 +61,31 @@ EXPERIENCE
 
 SUCCESS FOREVER CONSTRUCTION 2018~2020
 - Project Manager
-- - Structural repair work for
-- - - HDB and 
-- - - Town Council
+- to secure the structural work project 
+- to monitor the scope of works
+- to manage KPI with HDB
+- to transfer back to Town Council
+- to resolve unforeseen events
+- to succeed in completing the project
 -
-
 ETANA RESOURCES 2017~2018
 - Senior Engineer
-- - Maintenance of Heavy Equipment
+- to maintenance heavy SAF equipment
+- to service FH 2000
+- to service LWH Pegasus
+- to service SSPH 1 Primus
+- to perform triple F testing
 -
 
 TRADISITICS 2000~2017
-- Technical Officer
+- Chief Technical Officer
+- - to secure new contracts
+- - to fulfil contractual obligation 
+- - to operate the call centre
+- - to operate the service centre
+- - to operate on-site service
+- - to operate storage of stocks and parts
+- - 
 - - (notable programmes) 
 - AIG American Home Assurance,
 - AHA Extended Warranty, Gain City
