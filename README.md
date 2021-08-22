@@ -59,9 +59,9 @@ NUS School of Computing, Professional Certificate in:-
 
 EXPERIENCE
 
-SUCCESS FOREVER CONSTRUCTION 2018~2020
+SUCCESS FOREVER
 - 
-Project Manager
+Project Manager 2018~2021
 - to secure the structural work project 
 - to monitor the scope of works
 - to manage KPI with HDB
@@ -69,9 +69,9 @@ Project Manager
 - to resolve unforeseen events
 - to succeed in completing the project
 -
-ETANA RESOURCES 2017~2018
+ETANA RESOURCES
 - 
-Senior Engineer
+Senior Engineer 2017~2018
 - to maintenance heavy SAF equipment
 - to service FH 2000
 - to service LWH Pegasus
@@ -79,19 +79,21 @@ Senior Engineer
 - to perform triple F testing
 -
 -
-TRADISITICS 2000~2017
-Chief Technical Officer
-- to secure new contracts
-- - to fulfil contractual obligation 
-- - to operate the call centre
-- - to operate the service centre
-- - to operate on-site service
-- - to operate storage of stocks and parts
-- - - (notable commercialm products) 
-- - - - AIG American Home Assurance, AHA Extended Warranty, Doctor Digital, Data Recovery, IDA NEU PC, Safety 5, U-Save,
+TRADISITICS
 -
-- - - (notable partners) 
-- - - - Gain City Engineering, NOJIMA Courts Superstore, Best Denki, Harvey Norman, Australia; IC Frith, New Zealand; NTUC Fairprice, Office 1, IDA Infocomm Media Authority of Singapore, NEC Computers International, Japan; Packard Bell Computers, France; Gigabyte Computers, Taiwan.
+Chief Technical Officer 2000~2017
+- to secure new contracts
+- to fulfil contractual obligation 
+- to operate the call centre
+- to operate the service centre
+- to operate on-site service
+- to operate storage of stocks and parts
+-  
+- (local and global brand products) 
+- - AIG American Home Assurance, AHA Extended Warranty, Doctor Digital, Data Recovery, IDA NEU PC, Safety 5, U-Save,
+-
+- (local and global brand partners) 
+- - AIG, American Home Assurance, Gain City Engineering, NOJIMA Courts Superstore, Best Denki, Harvey Norman, Australia; IC Frith, New Zealand; NTUC Fairprice, Office 1, IDA Infocomm Media Authority of Singapore, NEC Computers International, Japan; Packard Bell Computers, France; Gigabyte Computers, Taiwan.
 -
 -
 MINUS 10 Challenger Technologies Limited 2000~2001
