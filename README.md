@@ -62,6 +62,7 @@ EXPERIENCE
 SUCCESS FOREVER
 - 
 Project Manager 2018~2021
+- to budget and financial forecasting
 - to secure the structural work project 
 - to monitor the scope of works
 - to manage KPI with HDB
@@ -82,6 +83,7 @@ Senior Engineer 2017~2018
 TRADISITICS
 -
 Chief Technical Officer 2000~2017
+- to budget and financial forecasting
 - to secure new contracts
 - to fulfil contractual obligation 
 - to operate the call centre
@@ -199,7 +201,7 @@ EDUCATION
 -
 -
 edX MIT
-- NUS SoC, Core Elective Modules
+- NUS, Elective Module
 - courses completed:
 - University Cote d’ Azur, World Wide Web Consortium W3Cx, JS.Ox: JavaScript Introduction
 - - https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
