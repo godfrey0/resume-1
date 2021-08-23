@@ -6,8 +6,8 @@ CURRICULUM VITAE
 -
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for
-- the course of study to be granted to the Government by Tel Aviv, Israel with
-- an overseas scholarship of six years bond obligations.
+- the course of study to be granted to the Government by Tel Aviv, Israel with a
+- six years overseas scholarship of bond obligations.
 -
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
@@ -63,6 +63,7 @@ SUCCESS FOREVER
 - 
 Project Manager 2018~2021
 - to budget and financial forecasting
+- to factoring
 - to secure the structural work project 
 - to monitor the scope of works
 - to manage KPI with HDB
@@ -84,6 +85,8 @@ TRADISITICS
 -
 Chief Technical Officer 2000~2017
 - to budget and financial forecasting
+- to factoring 
+- to supply chain financing
 - to secure new contracts
 - to fulfil contractual obligation 
 - to operate the call centre
@@ -107,6 +110,8 @@ Chief Information Officer Challenger Technologies Limited 2000~2001
 - to design the flow chart
 - to operate payment gateway with banks
 - to budget and financial forecasting
+- to factoring
+- to supply chain financing
 - to secure new dot com contracts
 - to fulfil contractual obligation 
 - to operate the front eoffice on-line transaction
