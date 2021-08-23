@@ -6,8 +6,8 @@ CURRICULUM VITAE
 -
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for
-- the course of study to be granted to the Government by Tel Aviv, Israel and 
-- an overseas scholarship with a six years bond obligations.
+- the course of study to be granted to the Government by Tel Aviv, Israel with
+- an overseas scholarship of six years bond obligations.
 -
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
