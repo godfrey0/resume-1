@@ -30,18 +30,14 @@ NUS School of Computing, Professional Certificate in FinTech Senior Developer (L
 NUS The Faculty of Arts and Social Sciences Professional Certificate in Human and Automated Managerial Skills 
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
 - 
-- 
 NUS School of Computing Professional Certificate in Analytics and AI for Finance, Retail and Supply Chain
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
-
 - 
-
 -
 Adelaide MBA., Adelaide Business School, University of Adelaide 2001
 - Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
 - Australian Financial Review (ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020.
 - 
-
 -
 Dip. Th., Singapore Bible College 1987
 - Read Hermeneutics under Professor Bernard L. Ramm 
@@ -50,8 +46,6 @@ Dip. Th., Singapore Bible College 1987
 SDFEM., Ngee Ann Polytechnic 2015
 - Specialist Diploma Franchise Enterprise Management
 -
--
-
 EXPERIENCE
 
 SUCCESS FOREVER
