@@ -168,7 +168,7 @@ School of Computing Professional Certificate in FinTech Senior Developer (Level 
 -
 - School of Computing Professional Certificate in FinTech Associate (Level 1)
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
-- - ncourses completed:
+- - courses completed:
 - FinTech: Concepts, Cases and Technology
 - https://bit.ly/3iX74wX
 - Design Thinking: Creative and Strategic Business Solutions
