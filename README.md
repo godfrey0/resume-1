@@ -22,9 +22,6 @@ Harvard University's Course-Work, CSS JavaScript HTML Node.js Python on Github a
 - https://godfrey0.github.io/IroIroJapaneseRestaurant
 - 
 - 
-FinTech SG Programme is jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. Artificial Intelligence is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
-- 
-- 
 NUS School of Computing, Professional Certificate in FinTech Senior Developer (Level 3), Developer (Level 2), Associate (level 1).
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
@@ -35,6 +32,10 @@ NUS The Faculty of Arts and Social Sciences Professional Certificate in Human an
 -
 NUS School of Computing Professional Certificate in Analytics and AI for Finance, Retail and Supply Chain
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
+
+- 
+FinTech SG Programme is jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. Artificial Intelligence is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
+- 
 -
 Adelaide MBA., Adelaide Business School, University of Adelaide 2001
 - Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
