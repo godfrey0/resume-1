@@ -43,7 +43,7 @@ Dip. Th., Singapore Bible College 1987
 - Read Hermeneutics under Professor Bernard L. Ramm 
 - Read Curriculum under Professor Ng Peh Cheng
 -
-SB Min minor in Chrisitian Education Theological Centre for Asia College 1996
+B. Min., minor in Chrisitian Education Theological Centre for Asia College 1996
 -
 -
 SDFEM., Ngee Ann Polytechnic 2015
