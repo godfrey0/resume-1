@@ -24,26 +24,24 @@ Harvard University's Course-Work, HTTPS JavaScript CSS Node.js Python on Github 
 - NUS FinTech SG Programme is jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. Artificial Intelligence is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
 - -
 - 
-NUS School of Computing, Professional Certificate in FinTech Senior Developer (Level 3)
+NUS School of Computing, Professional Certificate in FinTech Senior Developer (Level 3), Developer (Level 2), Associate (level 1)
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
-FinTech (Level 2) Developer 
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
-FinTech (Level 1) Associate
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
 - 
 NUS The Faculty of Arts and Social Sciences Professional Certificate in Human and Automated Managerial Skills 
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
+-
 NUS School of Computing Professional Certificate in Analytics and AI for Finance, Retail and Supply Chain
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 -
-- Adelaide MBA., Adelaide Business School, University of Adelaide 2001.
-- Master of Business Administration
-- - Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
-- - Australian Financial Review (ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020.
+Adelaide MBA., Adelaide Business School, University of Adelaide 2001
+- Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
+- Australian Financial Review (ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020.
 - 
-- B. Min., (Minor in Christian Education) TCA College 1996
+B. Min., (Minor in Christian Education) TCA College 1996
 - Bachelor of Ministry
-- - Theological Centre for Asia College 1996
+- Theological Centre for Asia College 1996
 -
 -  Dip. Th., Singapore Bible College 1987
 -  Diploma of Theology
