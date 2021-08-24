@@ -21,7 +21,12 @@ NUS SGUS FinTech Batch 5 FINAL PROJECT SHOWCASE
 - Batch 5F is a solo capacity final project work, August~November 2021
 - QuantConnect and SubmittingAlpha 
 - - Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal 
--
+- 
+HARVARD X Web-based Project with Replit teams for education
+- http://iro-iro.iroirojpnrest.repl.co/
+Harvard University, CS50’s Computer Science for Business Professionals 
+- - https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
+- 
 NUS FinTech SG Programme is jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. AI is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
 -
 NUS The Faculty of Arts and Social Sciences Professional Certificate in:-
