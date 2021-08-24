@@ -20,8 +20,7 @@ NUS SGUS FinTech Batch 5F Final Project Showcase a solo capacity work, August~No
 Harvard University's Course-Work, CSS JavaScript HTML Node.js Python on Github and Replit
 - http://iro-iro.iroirojpnrest.repl.co/
 - https://godfrey0.github.io/IroIroJapaneseRestaurant
-
--
+- 
 NUS FinTech SG Programme is jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. Artificial Intelligence is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
 - 
 - 
