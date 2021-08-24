@@ -43,7 +43,7 @@ NUS School of Computing, Professional Certificate in:-
 - - Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
 - - Australian Financial Review (ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020.
 - 
-- B. Min., (Minor in Christian Eduction) TCA College 1996
+- B. Min., (Minor in Christian Education) TCA College 1996
 - Bachelor of Ministry
 - - Theological Centre for Asia College 1996
 -
