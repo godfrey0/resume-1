@@ -38,6 +38,8 @@ NUS School of Computing Professional Certificate in Analytics and AI for Finance
 B. Min., (Minor in Christian Education) Theological Centre for Asia College 1996
 - 
 -
+A B.Min., (Minor in Chrisitian Education) Theological Centre for Asia College 1996
+-
 Adelaide MBA., Adelaide Business School, University of Adelaide 2001
 - Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
 - Australian Financial Review (ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020.
