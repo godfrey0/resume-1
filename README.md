@@ -11,7 +11,7 @@ DEED
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
 -
-PERSONAL PROJECT to develop an education software programme, July~December 2021
+PERSONAL PROJECT to develop an education software programme, September~December 2021
 - Power BI for business executives in collaboration with Nogawa Sentosa
 -
 NUS SGUS FinTech Batch 5F Final Project Showcase a solo capacity work, August~November 2021
