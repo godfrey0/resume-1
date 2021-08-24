@@ -1,5 +1,5 @@
 CURRICULUM VITAE
-- Ong Ser Thong Godfrey 王 赐 通
+- Ong Serthong Godfrey 王 赐 通
 - www.linkedin.com/in/Godfrey0
 - https://www.researchgate.net/profile/Ong-Godfrey
 - serthongong@gmail.com | t0921234@u.nus.edu | +65 81813136 |
