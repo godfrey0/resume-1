@@ -29,21 +29,20 @@ NUS School of Computing, Professional Certificate in FinTech Senior Developer (L
 - 
 NUS The Faculty of Arts and Social Sciences Professional Certificate in Human and Automated Managerial Skills 
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
-- - 
-FinTech SG Programme is jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. Artificial Intelligence is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
+- 
 - 
 NUS School of Computing Professional Certificate in Analytics and AI for Finance, Retail and Supply Chain
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 
 - 
-FinTech SG Programme is jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. Artificial Intelligence is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
+B. Min., (Minor in Christian Education) Theological Centre for Asia College 1996
 - 
 -
 Adelaide MBA., Adelaide Business School, University of Adelaide 2001
 - Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
 - Australian Financial Review (ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020.
 - 
-B. Min., (Minor in Christian Education) Theological Centre for Asia College 1996
+
 -
 Dip. Th., Singapore Bible College 1987
 - Read Hermeneutics under Professor Bernard L. Ramm 
