@@ -40,7 +40,7 @@ Dip. Th., Singapore Bible College 1987
 - Read Hermeneutics under Professor Bernard L. Ramm 
 - Read Curriculum under Professor Ng Peh Cheng
 -
-B. Min. (Hons), Theological Centre for Asia College 1996
+B. Min., Theological Centre for Asia College 1996
 - Minor in Chrisitian Education
 -
 SDFEM., Ngee Ann Polytechnic 2015
@@ -261,11 +261,8 @@ Singapore Business Federation
 Other Qualification:
 -
 MBA, Adelaide Business School, University of Adelaide 2001
-- Read Economic under Professor Clifford Walsh (a nobel prize nominee)
 - B.Min. (Hons); (Minor in Christian Education) Theological Centre for Asia College 1996
-- Dip. Th., Singapore Bible College 1987
-- - Read Hermeneutics under Prof Bernard L. Ramm
-- - Read Curriculum under Professor Ng Peh Cheng 
+- Dip. Th., Singapore Bible College 1987 
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2015
 - QMR., SAPI, Singapore Pharmaceutical Industries 1994
 - BCA, Certified Installer Air-Conditioning Structure, 2014
@@ -275,7 +272,6 @@ MBA, Adelaide Business School, University of Adelaide 2001
 - Dip. LTI., CEF Missouri 1984
 - Unarmed Combat Instructor, SAFTI Sch of Physical Training Institute, 1980
 - Armament Tech Class 1, Ordnance Engineering Training Institute, 1981
-- - Heavy Arms, Small Arms, Turret Mech,
 - Armourer to Gunfitter Conversion Course, SAF OETI, 1977
 - Gunfitter to Armourer Conversion Course, SAF OETI, 1977
 - Gunfitter to Turret Mech Conversion Course, SAF OETI, 1977
@@ -286,12 +282,7 @@ MBA, Adelaide Business School, University of Adelaide 2001
 - SFA, Food Hygiene Course, supervised by Chef Henry Lin JinQian (MBS & Fullerton) 2021 
 - Executive Program, SOLTAM Systems, Haifa, Israel 1976
 -
-DEED
-- Pursued an award granted by the Government of the Republic of Singapore for
-- the course of study to be granted to the Government by Tel Aviv, Israel and
-- an overseas scholarship with a six years bond obligations.
-- 
-- - AWARDS
+- AWARDS
 - Spirit Of Enterprise Awards nominee 2012
 - Singapore Quality Class Awards nominee 2011
 - SAF Good Service Medal 1977
