@@ -21,7 +21,7 @@ Harvard University's Course-Work, HTTPS JavaScript CSS Node.js Python on Github 
 - http://iro-iro.iroirojpnrest.repl.co/
 - https://godfrey0.github.io/IroIroJapaneseRestaurant
 - 
-- NUS FinTech SG Programme is jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. AI is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
+- NUS FinTech SG Programme is jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. AI is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
 -
 NUS The Faculty of Arts and Social Sciences Professional Certificate in Human and Automated Managerial Skills 
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
