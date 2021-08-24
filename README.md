@@ -11,25 +11,19 @@ DEED
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
 -
-PERSONAL PROJECT
-- Developing an education software programme, July~December 2021
-- - Power BI for business executives in collaboration with Nogawa Sentosa
+PERSONAL PROJECT developing an education software programme, July~December 2021
+- Power BI for business executives in collaboration with Nogawa Sentosa
 -
-NUS SGUS FinTech Batch 5 FINAL PROJECT SHOWCASE
-- Batch 5F is a solo capacity final project work, August~November 2021
-- QuantConnect and SubmittingAlpha 
-- - Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal 
+NUS SGUS FinTech Batch 5 FINAL PROJECT SHOWCASE is a solo capacity final project work, August~November 2021
+- QuantConnect cum SubmittingAlpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal 
 - 
-HARVARD X Web-based Project with Replit teams for education
+Harvard University CS50, HTTPS JavaScript CSS Node.js Python's Replit web-based for education
 - http://iro-iro.iroirojpnrest.repl.co/
-Harvard University, CS50’s Computer Science for Business Professionals 
-- - https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
 - 
 NUS FinTech SG Programme is jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, in consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. AI is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
 -
-NUS The Faculty of Arts and Social Sciences Professional Certificate in:-
-- Human and Automated Managerial Skills 
-- - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
+NUS The Faculty of Arts and Social Sciences Professional Certificate in Human and Automated Managerial Skills 
+- https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
 -
 NUS School of Computing, Professional Certificate in:-
 - FinTech (Level 3) Senior Developer
