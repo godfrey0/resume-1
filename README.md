@@ -41,7 +41,7 @@ Dip. Th., Singapore Bible College 1987
 - Read Curriculum under Professor Ng Peh Cheng
 -
 B. Min., Theological Centre for Asia College 1996
-- Minor in Chrisitian Education
+- Minor in Christian Education
 -
 SDFEM., Ngee Ann Polytechnic 2015
 - Specialist Diploma Franchise Enterprise Management
@@ -268,7 +268,7 @@ MBA, Adelaide Business School, University of Adelaide 2001
 - BCA, Certified Installer Air-Conditioning Structure, 2014
 - MOM, Certified Biz Safe Level 1,2 & 3 Risk Management 2016
 - GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
-- Certificate of Achievment, Dirad 2020
+- Certificate of Achievement, Dirad 2020
 - Dip. LTI., CEF Missouri 1984
 - Unarmed Combat Instructor, SAFTI Sch of Physical Training Institute, 1980
 - Armament Tech Class 1, Ordnance Engineering Training Institute, 1981
@@ -279,7 +279,7 @@ MBA, Adelaide Business School, University of Adelaide 2001
 - Armourer Cl 2, SAF Weapon Optical Base, 1974
 - MOH, ART Self-Swab, Health Management International 2021
 - MOH, SRS-ESSS, HPB, Health Promotion Board 2021
-- SFA, Food Hygiene Course, supervised by Chef Henry Lin JinQian (MBS & Fullerton) 2021 
+- SFA, Food Hygiene Course by Chef Henry Lin JinQian (MBS & Fullerton) 2021 
 - Executive Program, SOLTAM Systems, Haifa, Israel 1976
 -
 - AWARDS
