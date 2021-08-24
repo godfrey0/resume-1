@@ -24,19 +24,12 @@ Harvard University's Course-Work, HTTPS JavaScript CSS Node.js Python on Github 
 - NUS FinTech SG Programme is jointly developed by NUS, NUS School of Computing, Artificial Intelligence Singapore, consultation with UBS Bank, RIPPLE, World Economic Forum, Bank of New York Mellon. Artificial Intelligence is a national programme to synergise Singapore's Artificial Intelligence capabilities, by a partnership between NRF, SNDGO, EDB, IMDA, IHIS.
 - -
 - 
-NUS School of Computing, Professional Certificate in FinTech
--
-- 
+NUS School of Computing, Professional Certificate in FinTech Senior Developer (Level 3)
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
 FinTech (Level 2) Developer 
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 FinTech (Level 1) Associate
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
-
--
-FinTech (Level 1) Associate
--
-- -
 - 
 NUS The Faculty of Arts and Social Sciences Professional Certificate in Human and Automated Managerial Skills 
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
