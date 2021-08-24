@@ -44,7 +44,7 @@ Dip. Th., Singapore Bible College 1987
 - Read Curriculum under Professor Ng Peh Cheng
 -
 -
-B. Min., Theological Centre for Asia College 1996
+B. Min.(Hons), Theological Centre for Asia College 1996
 - Minor in Chrisitian Education
 -
 -
