@@ -5,6 +5,9 @@ CURRICULUM VITAE
 - serthongong@gmail.com | t0921234@u.nus.edu | +65 81813136 |
 - https://v2.credential.net/profile/ongserthong325210/wallet
 -
+ASPIRE
+User Interface Designer
+https://user-images.githubusercontent.com/88383785/130728881-bff8bf27-d1f5-4566-8442-5136c35a37eb.png
 -
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for the course of study to be granted to the Government by Tel Aviv, Israel with a six-year overseas scholarship bond obligations.
