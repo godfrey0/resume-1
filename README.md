@@ -51,6 +51,7 @@ B. Min., Theological Centre for Asia College 1996
 SDFEM., Ngee Ann Polytechnic 2015
 - Specialist Diploma Franchise Enterprise Management
 -
+-
 EXPERIENCE
 -
 SUCCESS FOREVER
