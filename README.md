@@ -20,8 +20,10 @@ PERSONAL PROJECT to develop an education software programme, September~February 
 FINAL PROJECT showcase NUS SGUS FinTech Batch 5F solo capacity, August~November 2021
 - QuantConnect cum SubmittingAlpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal 
 - 
-COMPLETED PROJECT Harvard University CS50 edX course of study with CSS JavaScript HTML Node.js Python on Github and Replit, May~June 2021
-- http://iro-iro.iroirojpnrest.repl.co/
+COMPLETED PROJECT Harvard University CS50 edX course of study, May~June 2021
+- HTML CSS JavaScript Node.js Python collaboration Github and Replit IDEs
+- https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
+- http://iro-iro.iroirojpnrest.repl.co
 - https://godfrey0.github.io/IroIroJapaneseRestaurant
 - 
 NUS School of Computing, Professional Certificate in FinTech Associate (level 1), Developer (level 2) and Senior Developer (level 3).
@@ -29,7 +31,7 @@ NUS School of Computing, Professional Certificate in FinTech Associate (level 1)
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
 - 
-NUS The Faculty of Arts and Social Sciences Professional Certificate in Human and Automated Managerial Skills 
+NUS Faculty of Arts and Social Sciences Professional Certificate in Human and Automated Managerial Skills 
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
 - 
 NUS School of Computing Professional Certificate in Analytics and AI for Finance, Retail and Supply Chain
