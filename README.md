@@ -274,10 +274,8 @@ Singapore Business Federation
 - Introduction to Business Culture Protocol & Communications with SEA Market 2018
 - Steps to Build A Cyber-Security Strategy for the International Market 2018
 -
-
 Other Qualification:
--
-MBA, Adelaide Business School, University of Adelaide 2001
+- MBA, Adelaide Business School, University of Adelaide 2001
 - B.Min. (Hons); (Minor in Christian Education) Theological Centre for Asia College 1996
 - Dip. Th., Singapore Bible College 1987 
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2015
