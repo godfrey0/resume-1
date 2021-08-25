@@ -2,7 +2,7 @@ CURRICULUM VITAE
 - Ong Serthong Godfrey 王 赐 通
 - www.linkedin.com/in/Godfrey0
 - https://www.researchgate.net/profile/Ong-Godfrey
-- serthongong@gmail.com | t0921234@u.nus.edu | +65 81813136 |
+- serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - https://v2.credential.net/profile/ongserthong325210/wallet
 -
 ASPIRE
