@@ -13,20 +13,20 @@ DEED
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
 -
-PERSONAL PROJECT to develop an education software programme, September~December 2021
+PERSONAL PROJECT to develop an education software programme, September~February 2022
 - Power BI for business executives in collaboration with Nogawa Sentosa
 -
-NUS SGUS FinTech Batch 5F Final Project Showcase a solo capacity work, August~November 2021
+FINAL PROJECT showcase NUS SGUS FinTech Batch 5F solo capacity, August~November 2021
 - QuantConnect cum SubmittingAlpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal 
 - 
-Harvard University's Course-Work, CSS JavaScript HTML Node.js Python on Github and Replit
+COMPLETED PROJECT Harvard University course of study with CSS JavaScript HTML Node.js Python on Github and Replit. May~June 2021
 - http://iro-iro.iroirojpnrest.repl.co/
 - https://godfrey0.github.io/IroIroJapaneseRestaurant
 - 
-NUS School of Computing, Professional Certificate in FinTech Senior Developer (Level 3), Developer (Level 2), Associate (level 1).
-- https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
-- https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
+NUS School of Computing, Professional Certificate in FinTech Associate (level 1), Developer (level 2) and Senior Developer (level 3).
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
+- https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
+- https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
 - 
 NUS The Faculty of Arts and Social Sciences Professional Certificate in Human and Automated Managerial Skills 
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
@@ -35,7 +35,7 @@ NUS School of Computing Professional Certificate in Analytics and AI for Finance
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - 
 Adelaide MBA., Adelaide Business School, University of Adelaide 2001
-- Read Economic under Professor Clifford Walsh (a Nobel prize nominee) 
+- Read Economic under Professor Clifford Walsh (Nobel prize nominee) 
 - Australian Financial Review (ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020.
 - 
 Dip. Th., Singapore Bible College 1987
@@ -53,36 +53,40 @@ EXPERIENCE
 SUCCESS FOREVER
 - 
 Project Manager 2018~2021
-- to budget and financial forecasting
-- to factoring
-- to secure the structural work project 
-- to monitor the scope of works
-- to manage KPI with HDB
-- to transfer back to Town Council
-- to resolve unforeseen events
-- to succeed in completing the project
+- Dedicated to
+- budget and financial forecasting
+- factoring
+- secure the structural work project 
+- monitor the scope of works
+- manage KPI with HDB
+- transfer back to Town Council
+- resolve unforeseen events
+- succeed in completing the project
 -
 ETANA RESOURCES
 - 
 Senior Engineer 2017~2018
-- to maintenance heavy SAF equipment
-- to service FH 2000
-- to service LWH Pegasus
-- to service SSPH 1 Primus
-- to perform triple F testing
+- Assigned to 
+- maintenance of heavy SAF equipment
+- service FH 2000
+- service LWH Pegasus
+- service SSPH 1 Primus
+- perform triple F testing
 -
 TRADISITICS
 -
 Chief Technical Officer 2000~2017
-- to budget and financial forecasting
-- to factoring 
-- to supply chain financing
-- to secure new contracts
-- to fulfil contractual obligation 
-- to operate the call centre
-- to operate the service centre
-- to operate on-site service
-- to operate storage of stocks and parts
+- Managed to
+- budget and financial forecasting
+- reverse factoring
+- factoring 
+- supply chain financing
+- secure new contracts
+- fulfil contractual obligation 
+- operate the call centre
+- operate the service centre
+- operate on-site service
+- operate storage of stocks and parts
 -  
 (local and global brand products) 
 - AIG American Home Assurance, AHA Extended Warranty, Doctor Digital, Data Recovery, IDA NEU PC, Safety 5, U-Save,
@@ -93,21 +97,23 @@ Chief Technical Officer 2000~2017
 MINUS 10 
 -
 Chief Information Officer Challenger Technologies Limited 2000~2001
-- Multimedia Super Corridor Malaysia
+- Mandated to
+- lobby multimedia super corridor Malaysia
 - e Commerce
 - e Auction
-- to design the flow chart
-- to operate payment gateway with banks
-- to budget and financial forecasting
-- to factoring
-- to supply chain financing
-- to secure new dot com contracts
-- to fulfil contractual obligation 
-- to operate the front eoffice on-line transaction
-- to operate the web-based centric activity
-- to operate JIT stocks inventory
-- to operate back office delivery service
-- to operate storage of stocks and parts
+- chart business development
+- design the flow plans
+- operate payment gateway with banks
+- budget and financial forecasting
+- factoring
+- supply chain financing
+- secure new dot com contracts
+- fulfil contractual obligation 
+- operate the front eoffice on-line transaction
+- operate the web-based centric activity
+- operate JIT stocks inventory
+- operate back office delivery service
+- operate storage of stocks and parts
 -
 SANOFI RHONE POULENC PHARMA 1993~2001
 - Executive
@@ -293,23 +299,4 @@ MBA, Adelaide Business School, University of Adelaide 2001
 -
 
 
-URLs
-
-https://github.com/godfrey0
-
-http://iro-iro.iroirojpnrest.repl.co
-
-https://github.com/godfreyong/resume.git
-
-https://godfrey0.github.io/IroIroJapaneseRestaurant
-
-https://v2.credential.net/profile/ongserthong325210/wallet
-
-https://courses.edx.org/certificates/9a3374812c2a44d8ae33397dd724234a
-https://courses.edx.org/certificates/2154a7fab781457f90d9939e3bfdd170
-https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
-https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
-https://courses.edx.org/certificates/357f61567b4147dbaf360e325734f7db
-
-- 
 - End of Statement
