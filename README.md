@@ -53,8 +53,7 @@ SDFEM., Ngee Ann Polytechnic 2015
 -
 -
 EXPERIENCE
--
-- NUS FinTech Batch 5F February~November 2021
+- NUS FinTech School of Computing Batch 5, February~November 2021
 -
 SUCCESS FOREVER
 - Project Manager 2018~2021
