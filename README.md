@@ -6,10 +6,7 @@ CURRICULUM VITAE
 - https://v2.credential.net/profile/ongserthong325210/wallet
 -
 ASPIRE
-User Interface Designer
--
-DASPIRE
--
+- User Interface Designer
 -
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for the course of study to be granted to the Government by Tel Aviv, Israel with a six-year overseas scholarship bond obligations.
