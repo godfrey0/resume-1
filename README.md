@@ -8,6 +8,9 @@ CURRICULUM VITAE
 ASPIRE
 User Interface Designer
 -
+DASPIRE
+-
+-
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for the course of study to be granted to the Government by Tel Aviv, Israel with a six-year overseas scholarship bond obligations.
 -
