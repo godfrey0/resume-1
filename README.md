@@ -33,10 +33,8 @@ NUS School of Computing, Professional Certificate in FinTech Associate, FinTech 
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
-- 
 NUS Faculty of Arts and Social Sciences Professional Certificate in Human and Automated Managerial Skills 
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
-- 
 NUS School of Computing Professional Certificate in Analytics and AI for Finance, Retail and Supply Chain
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - 
@@ -165,7 +163,7 @@ SAF OETI, School of Doctrine 1973~1983
 EDUCATION
 - National University of Singapore 2021~Present
 -
-School of Computing Professional Certificate in FinTech Senior Developer (Level 3)
+NUS School of Computing Professional Certificate in FinTech Senior Developer (Level 3)
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5 
 - - courses completed:
 - DevOps: Build, Deploy and Monitor
@@ -175,7 +173,7 @@ School of Computing Professional Certificate in FinTech Senior Developer (Level 
 - Algo-trading: Theory and Practice
 - https://bit.ly/3geTJys
 -
-- School of Computing Professional Certificate in FinTech Developer (Level 2)
+- NUS School of Computing Professional Certificate in FinTech Developer (Level 2)
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend
@@ -185,7 +183,7 @@ School of Computing Professional Certificate in FinTech Senior Developer (Level 
 - APIs and RPA: Automation, Bots and Future
 - https://bit.ly/3z1tmU6
 -
-- School of Computing Professional Certificate in FinTech Associate (Level 1)
+- NUS School of Computing Professional Certificate in FinTech Associate (Level 1)
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
 - - courses completed:
 - FinTech: Concepts, Cases and Technology
@@ -197,7 +195,7 @@ School of Computing Professional Certificate in FinTech Senior Developer (Level 
 - Delight Customers and Protect Privacy with AI and Blockchain
 - https://bit.ly/3D03FFW
 - 
-- School of Computing Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain
+- NUS School of Computing Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain
 - -https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - - courses completed:
 - Making Fast Decisions with Business Analytics
@@ -209,7 +207,7 @@ School of Computing Professional Certificate in FinTech Senior Developer (Level 
 - Fundamental of Investing Leveraging Technology
 - https://bit.ly/3z0tlQ1
 -
-- The Faculty of Arts and Social Sciences Professional Certificate Human and Automated Managerial Skills
+- NUS Faculty of Arts and Social Sciences Professional Certificate Human and Automated Managerial Skills
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
 - - courses completed:
 - Meaning to Mindsets
@@ -257,8 +255,7 @@ National University of Singapore, School of Computing
 - How to Critically Reason with Data on Microsoft Excel
 - The Fundamentals of Algorithm Design and the Politics of Algorithms
 - 
-Singapore Business Federation 
-- SBF Business Institute
+Singapore Business Federation, SBF Business Institute
 - - courses completed:
 - Strategic Decision Making, eCornell Course 2019
 - Vetting and Securing a Joint venture Agreement 2019
@@ -276,7 +273,7 @@ Singapore Business Federation
 - Introduction to Business Culture Protocol & Communications with SEA Market 2018
 - Steps to Build A Cyber-Security Strategy for the International Market 2018
 -
-Other Qualification:
+OTHERS
 - MBA, Adelaide Business School, University of Adelaide 2001
 - B.Min. (Hons); (Minor in Christian Education) Theological Centre for Asia College 1996
 - Dip. Th., Singapore Bible College 1987 
@@ -299,7 +296,7 @@ Other Qualification:
 - SFA, Food Hygiene Course by Chef Henry Lin JinQian (MBS & Fullerton) 2021 
 - Executive Program, SOLTAM Systems, Haifa, Israel 1976
 -
-- AWARDS
+AWARDS
 - Spirit Of Enterprise Awards nominee 2012
 - Singapore Quality Class Awards nominee 2011
 - SAF Good Service Medal 1977
