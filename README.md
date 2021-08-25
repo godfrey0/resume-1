@@ -14,19 +14,22 @@ DEED
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
 -
-PERSONAL PROJECT to develop an education software programme, September~February 2022
+PERSONAL PROJECT 
+- Develop an education software programme, September ~ February 2022
 - Power BI for business executives in collaboration with Nogawa Sentosa
 -
-FINAL PROJECT showcase NUS SGUS FinTech Batch 5F solo capacity, August~November 2021
-- QuantConnect cum SubmittingAlpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal 
+FINAL PROJECT 
+- Showcase NUS SGUS FinTech Batch 5F solo capacity, August ~ November 2021
+- Quant Connect Submitting Alpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal 
 - 
-COMPLETED PROJECT Harvard University CS50 edX course of study, May~June 2021
-- HTML CSS JavaScript Node.js Python collaboration Github and Replit IDEs
+COMPLETED PROJECT 
+- Harvard University CS50 edX course of study, May ~ June 2021
+- HTML CSS JavaScript Node.js Python collaboration IDE with Github and Replit
 - https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
 - http://iro-iro.iroirojpnrest.repl.co
 - https://godfrey0.github.io/IroIroJapaneseRestaurant
 - 
-NUS School of Computing, Professional Certificate in FinTech Associate (level 1), Developer (level 2) and Senior Developer (level 3).
+NUS School of Computing, Professional Certificate in FinTech Associate, FinTech Developer and FinTech Senior Developer (level 3).
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
@@ -53,13 +56,14 @@ SDFEM., Ngee Ann Polytechnic 2015
 -
 -
 EXPERIENCE
-- NUS FinTech School of Computing Batch 5, February~November 2021
+- NUS FinTech School of Computing Batch 5, February ~ November 2021
 -
 SUCCESS FOREVER
 - Project Manager 2018~2021
 -
-- Dedicated to
-- budget and financial forecasting
+- In-charge:
+- budget 
+- financial forecasting
 - factoring
 - secure the structural work project 
 - monitor the scope of works
@@ -71,7 +75,7 @@ SUCCESS FOREVER
 ETANA RESOURCES
 - Senior Engineer 2017~2018
 - 
-- Assigned to 
+- In-charge:
 - maintenance of heavy SAF equipment
 - service FH 2000
 - service LWH Pegasus
@@ -79,10 +83,11 @@ ETANA RESOURCES
 - perform triple F testing
 -
 TRADISITICS
-- Chief Technical Officer 2000~2017
+- Technical Officer 2000~2017
 - 
-- Managed to
-- budget and financial forecasting
+- In-charge:
+- budget 
+- financial forecasting
 - reverse factoring
 - factoring 
 - supply chain financing
@@ -100,16 +105,17 @@ TRADISITICS
 - AIG, American Home Assurance, Gain City Engineering, NOJIMA Courts Superstore, Best Denki, Harvey Norman, Australia; IC Frith, New Zealand; NTUC Fairprice, Office 1, IDA Infocomm Media Authority of Singapore, NEC Computers International, Japan; Packard Bell Computers, France; Gigabyte Computers, Taiwan.
 -
 MINUS 10 Challenger Technologies Limited
-- Chief Information Officer 2000~2001
+- Information Officer 2000~2001
 - 
-- Mandated to
+- In-charge:
 - lobby multimedia super corridor Malaysia
 - e Commerce
 - e Auction
 - chart business development
 - design the flow plans
 - operate payment gateway with banks
-- budget and financial forecasting
+- budget 
+- financial forecasting
 - factoring
 - supply chain financing
 - secure new dot com contracts
@@ -122,43 +128,37 @@ MINUS 10 Challenger Technologies Limited
 -
 SANOFI RHONE POULENC PHARMA 1993~2001
 - Executive
-- 
 - Consumable Drugs
-- - Vaccines
+- Vaccines
 -
 ELTEAN AGENCIES 1990~1993
 - Executive
-- 
-- - Watsons, Guardian, Apex, Unity, SGH, NSC Pharmacy.
+- Watsons, Guardian, Apex, Unity, SGH, NSC, Clinics and Polyclinics.
 - 
 BETHESDA HALL AMK 1989~1990
-- Chief Instructor
-- 
+- Lead Instructor
 - Queensland Mailbox Bible Correspondence Course
-- - Cassette tapes Program
+- Cassette tapes Program
 - 
 BOOKWORMS CONSULTANTS 1983~1984
 - Media Manager
-- 
 - Primary Schools
-- - Organiser of On-stage Life Show
+- Organiser of On-stage Life Show
 - 
 SILAT II PRIMARY SCHOOL 1983~1983
 - Relief Teacher
-- 
 - Mathematics
 - 
 IDF
 - Live fire test weapon system program 
-- - on the Sinai Desert 1976
+- Sinai Desert, Egypt 1976
 -
 SAF
 - Live fire test weapon system support South
-- - Starlight, Taiwan 1978
+- Starlight, Taiwan 1978
 -
 SAF OETI, School of Doctrine 1973~1983
 - Lead Invigilator
-- 
 - Ordnance Engineering Training Institute
 -
 -
