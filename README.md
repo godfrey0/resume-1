@@ -53,7 +53,7 @@ SDFEM., Ngee Ann Polytechnic 2015
 -
 -
 EXPERIENCE
--
+- .
 SUCCESS FOREVER
 - Project Manager 2018~2021
 -
