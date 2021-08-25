@@ -20,7 +20,7 @@ PERSONAL PROJECT to develop an education software programme, September~February 
 FINAL PROJECT showcase NUS SGUS FinTech Batch 5F solo capacity, August~November 2021
 - QuantConnect cum SubmittingAlpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal 
 - 
-COMPLETED PROJECT Harvard University course of study with CSS JavaScript HTML Node.js Python on Github and Replit. May~June 2021
+COMPLETED PROJECT Harvard University CS50 edX course of study with CSS JavaScript HTML Node.js Python on Github and Replit, May~June 2021
 - http://iro-iro.iroirojpnrest.repl.co/
 - https://godfrey0.github.io/IroIroJapaneseRestaurant
 - 
@@ -50,10 +50,10 @@ SDFEM., Ngee Ann Polytechnic 2015
 - Specialist Diploma Franchise Enterprise Management
 -
 EXPERIENCE
-
+-
 SUCCESS FOREVER
-- 
-Project Manager 2018~2021
+- Project Manager 2018~2021
+-
 - Dedicated to
 - budget and financial forecasting
 - factoring
@@ -65,8 +65,8 @@ Project Manager 2018~2021
 - succeed in completing the project
 -
 ETANA RESOURCES
+- Senior Engineer 2017~2018
 - 
-Senior Engineer 2017~2018
 - Assigned to 
 - maintenance of heavy SAF equipment
 - service FH 2000
@@ -75,8 +75,8 @@ Senior Engineer 2017~2018
 - perform triple F testing
 -
 TRADISITICS
--
-Chief Technical Officer 2000~2017
+- Chief Technical Officer 2000~2017
+- 
 - Managed to
 - budget and financial forecasting
 - reverse factoring
@@ -95,9 +95,9 @@ Chief Technical Officer 2000~2017
 (local and global brand partners) 
 - AIG, American Home Assurance, Gain City Engineering, NOJIMA Courts Superstore, Best Denki, Harvey Norman, Australia; IC Frith, New Zealand; NTUC Fairprice, Office 1, IDA Infocomm Media Authority of Singapore, NEC Computers International, Japan; Packard Bell Computers, France; Gigabyte Computers, Taiwan.
 -
-MINUS 10 
--
-Chief Information Officer Challenger Technologies Limited 2000~2001
+MINUS 10 Challenger Technologies Limited
+- Chief Information Officer 2000~2001
+- 
 - Mandated to
 - lobby multimedia super corridor Malaysia
 - e Commerce
@@ -118,26 +118,31 @@ Chief Information Officer Challenger Technologies Limited 2000~2001
 -
 SANOFI RHONE POULENC PHARMA 1993~2001
 - Executive
-- - Consumable Drugs
+- 
+- Consumable Drugs
 - - Vaccines
 -
 ELTEAN AGENCIES 1990~1993
 - Executive
+- 
 - - Watsons, Guardian, Apex, Unity, SGH, NSC Pharmacy.
 - 
 BETHESDA HALL AMK 1989~1990
 - Chief Instructor
-- - Queensland Mailbox Bible Correspondence Course
+- 
+- Queensland Mailbox Bible Correspondence Course
 - - Cassette tapes Program
 - 
 BOOKWORMS CONSULTANTS 1983~1984
 - Media Manager
-- - Primary Schools
+- 
+- Primary Schools
 - - Organiser of On-stage Life Show
 - 
 SILAT II PRIMARY SCHOOL 1983~1983
 - Relief Teacher
-- - Mathematics
+- 
+- Mathematics
 - 
 IDF
 - Live fire test weapon system program 
@@ -149,7 +154,8 @@ SAF
 -
 SAF OETI, School of Doctrine 1973~1983
 - Lead Invigilator
-- - Ordnance Engineering Training Institute
+- 
+- Ordnance Engineering Training Institute
 -
 -
 EDUCATION
