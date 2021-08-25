@@ -148,12 +148,10 @@ SILAT II PRIMARY SCHOOL 1983~1983
 - Mathematics
 - 
 IDF
-- Live fire test weapon system program 
-- Sinai Desert, Egypt 1976
+- Live fire test M72 armament system on Sinai Desert, Egypt 1976
 -
 SAF
-- Live fire test weapon system support South
-- Starlight, Taiwan 1978
+- Live fire test M114 and M68 armament system support South Starlight, Taiwan 1978
 -
 SAF OETI, School of Doctrine 1973~1983
 - Lead Invigilator
