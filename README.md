@@ -302,6 +302,7 @@ AWARDS
 - SAF Logistics Small Arms Competition 1975
 - Gold medal for Team Falling Plates Championship Match
 -
-
+QUOTE
+- Knowledge defined acquisition of data and information. Wisdom defined the use of knowledge to create value. Wisdom is gained through learning and practice, not just memorization. 15 May 2021 Russell Ackoff
 
 - End of Statement
