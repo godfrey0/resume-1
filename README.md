@@ -3,11 +3,11 @@ CURRICULUM VITAE
 - www.linkedin.com/in/Godfrey0
 - https://github.com/godfreyong/resume.git
 - https://www.researchgate.net/profile/Ong-Godfrey
-- serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - https://v2.credential.net/profile/ongserthong325210/wallet
--
+- serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
+- 
 ASPIRE
-- User Interface Designer
+- Mid career switch trained by NUS FinTech for User Interface designer
 -
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for the course of study to be granted to the Government by Tel Aviv, Israel with a six-year overseas scholarship bond obligations.
@@ -27,8 +27,8 @@ COMPLETED PROJECT
 - Harvard University CS50 edX course of study, May ~ June 2021
 - HTML CSS JavaScript Node.js Python collaboration IDE with Github and Replit
 - https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
-- http://iro-iro.iroirojpnrest.repl.co
 - https://godfrey0.github.io/IroIroJapaneseRestaurant
+- http://iro-iro.iroirojpnrest.repl.co
 - 
 NUS School of Computing, Professional Certificate in FinTech Associate, FinTech Developer and FinTech Senior Developer (level 3).
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
@@ -58,7 +58,7 @@ EXPERIENCE
 - NUS FinTech School of Computing Batch 5, February ~ November 2021
 -
 SUCCESS FOREVER
-- Project Manager 2018~2021
+- Project Manager 2018~2020
 -
 - In-charge:
 - budget 
@@ -195,7 +195,7 @@ NUS School of Computing Professional Certificate in FinTech Senior Developer (Le
 - https://bit.ly/3D03FFW
 - 
 - NUS School of Computing Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain
-- -https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
+- https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - - courses completed:
 - Making Fast Decisions with Business Analytics
 - https://bit.ly/2UzwEPs
@@ -276,23 +276,23 @@ OTHERS
 - MBA, Adelaide Business School, University of Adelaide 2001
 - B.Min. (Hons); (Minor in Christian Education) Theological Centre for Asia College 1996
 - Dip. Th., Singapore Bible College 1987 
+- Dip. LTI., CEF Missouri, USA 1984
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2015
 - QMR., SAPI, Singapore Pharmaceutical Industries 1994
 - BCA, Certified Installer Air-Conditioning Structure, 2014
 - MOM, Certified Biz Safe Level 1,2 & 3 Risk Management 2016
 - GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
-- Certificate of Achievement, Dirad 2020
-- Dip. LTI., CEF Missouri 1984
 - Unarmed Combat Instructor, SAFTI Sch of Physical Training Institute, 1980
 - Armament Tech Class 1, Ordnance Engineering Training Institute, 1981
 - Armourer to Gunfitter Conversion Course, SAF OETI, 1977
 - Gunfitter to Armourer Conversion Course, SAF OETI, 1977
 - Gunfitter to Turret Mech Conversion Course, SAF OETI, 1977
-- Armourer Cl 1, SAF Weapon Optical Base, 1976
-- Armourer Cl 2, SAF Weapon Optical Base, 1974
+- Armourer Cl 1, SAF WOB, 1976
+- Armourer Cl 2, SAF WOB, 1974
 - MOH, ART Self-Swab, Health Management International 2021
 - MOH, SRS-ESSS, HPB, Health Promotion Board 2021
-- SFA, Food Hygiene Course by Chef Henry Lin JinQian (MBS & Fullerton) 2021 
+- SFA, Food Hygiene Course by Chef Henry Lin JinQian ex-MBS & Fullerton 2021 
+- Certificate of Achievement, Dirad 2020
 - Executive Program, SOLTAM Systems, Haifa, Israel 1976
 -
 AWARDS
@@ -300,7 +300,7 @@ AWARDS
 - Singapore Quality Class Awards nominee 2011
 - SAF Good Service Medal 1977
 - SAF Logistics Small Arms Competition 1975
-- - Gold medal for Team Falling Plates Championship Match
+- Gold medal for Team Falling Plates Championship Match
 -
 
 
