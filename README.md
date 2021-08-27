@@ -215,7 +215,7 @@ NUS School of Computing Professional Certificate in FinTech Senior Developer (Le
 - How to Critically Reason with Data on Microsoft Excel
 - The Fundamentals of Algorithm Design and the Politics of Algorithms
 -
-edX MIT
+edX by Harvard and MIT
 - NUS, Elective Module
 - - courses completed:
 - University Cote d’ Azur, World Wide Web Consortium W3Cx, JS.Ox: JavaScript Introduction
