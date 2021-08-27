@@ -7,7 +7,7 @@ CURRICULUM VITAE
 - serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - 
 ASPIRE
-- Mid career switch trained by NUS School of Computing FinTech Senior Developer (level 3)  for User Interface designer
+- Mid career switch, trained by NUS School of Computing, certified in FinTech Senior Developer on Frontend, Middleware and Backend programming!
 -
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for the course of study to be granted to the Government by Tel Aviv, Israel with a six-year overseas scholarship bond obligations.
@@ -24,7 +24,7 @@ FINAL PROJECT
 - Quant Connect Submitting Alpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal 
 - 
 COMPLETED PROJECT 
-- Harvard University CS50 edX course of study, May ~ June 2021
+- Harvard University CS50 edX course of study by Harvard and MIT, May ~ June 2021
 - HTML CSS JavaScript Node.js Python collaboration IDE with Github and Replit
 - https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
 - https://godfrey0.github.io/IroIroJapaneseRestaurant
