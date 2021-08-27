@@ -7,7 +7,7 @@ CURRICULUM VITAE
 - serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - 
 ASPIRE
-- Mid career switch, trained by NUS School of Computing, certified in FinTech Senior Developer on Frontend, Middleware and Backend programming!
+- UI/UX designer! Mid career switch, trained by NUS School of Computing, certified in FinTech Senior Developer on Frontend, Middleware and Backend programming.
 -
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for the course of study to be granted to the Government by Tel Aviv, Israel with a six-year overseas scholarship bond obligations.
