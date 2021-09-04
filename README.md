@@ -8,14 +8,28 @@ CURRICULUM VITAE
 - serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - 
 ASPIRE
-- Mid-career switch seeker in FinTech connecting the frontend, middleware to backend, automation and development operations. 
+- FinTech senior developer in connecting the frontend, middleware, backend and the internet of things through mid-career switch.
+- 
+EXPERIENCE
+- Acquainted with Supply chain, Finance, Dotcom, GPS, Skype, Construction, Hardware, Software, Education, Service provider and others related industry.
 - 
 SKILLS
-- Fintech concepts and technology. Developers toolkit in connecting the Frontend, Middleware to Backend, Automation, API and RPA. Development Operations (DevOps) Build, Deploy, Monitor, AI, ML, Algo-trading, Blockchain. In addition Design, Python, JavaScript, HMTL, CSS, Node.js, Python, Github, Replit, Algorithms, Scrum, agile and others. 
+- Fintech concepts and technology. Developers toolkit in connecting the Frontend, Middleware to Backend, Automation, API and RPA. DevOps: Build, Deploy, Monitor, AI, ML, Algo-trading, Blockchain. In addition Design, Python, JavaScript, HMTL, CSS, Node.js, Python, Github, Replit, Algorithms, Scrum, agile and others. 
 - 
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for the course of study to be granted to the Government by Tel Aviv, Israel with a six-year overseas scholarship bond obligations.
 -
+ACCOLADES
+- Spirit Of Enterprise Awards
+- Singapore Quality Class Awards
+- Workplace Safety and Health Council BizSAFE Level 3
+- Letter of Commendation FairPrice Office 1
+- Letter of Commendation NTUC Club Pasir Ris
+- Letter of Commendation DHL Supply Chain (Malaysia)
+- Letter of Commendation AIG South East Asia (Singapore)
+- SAF Overseas Course of Study Scholarhip (6-years bond)
+- SAF Good Service Medal
+- 
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
 -
@@ -299,13 +313,18 @@ OTHERS
 - Certificate of Achievement, Dirad 2020
 - Executive Program, SOLTAM Systems, Haifa, Israel 1976
 -
-AWARDS
-- Spirit Of Enterprise Awards nominee 2012
-- Singapore Quality Class Awards nominee 2011
-- SAF Good Service Medal 1977
-- SAF Logistics Small Arms Competition 1975
-- Gold medal for Team Falling Plates Championship Match
--
+ACCOLADES
+- Spirit Of Enterprise Awards 2012
+- Singapore Quality Class Awards 2012
+- Workplace Safety and Health Council BizSAFE Level 3 20
+- Letter of Commendation FairPrice Office 1
+- Letter of Commendation NTUC Club Pasir Ris
+- Letter of Commendation DHL Supply Chain (Malaysia)
+- Letter of Commendation AIG South East Asia (Singapore)
+- SAF Gold Medal for Falling Plates Team Championship Meet
+- SAF Overseas Course of Study Scholarhip (6-years bond)
+- SAF Good Service Medal
+- 
 QUOTE
 - Knowledge defined acquisition of data and information. Wisdom defined the use of knowledge to create value. Wisdom is gained through learning and practice, not just memorization. 15 May 2021 Russell Ackoff
 
