@@ -8,10 +8,12 @@ CURRICULUM VITAE
 - serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - 
 ASPIRE
-- Effective FinTech developer in connecting the frontend, middleware to backend, automation and the internet of things.
+- FinTech developer in connecting the frontend, middleware to backend, automation and the internet of things.
 - 
 SKILLS
-- Fintech concepts and technology. Developers toolkit in connecting the Frontend, Middleware to Backend, Automation, API and RPA. DevOps: Build, Deploy, Monitor, AI, ML, Algo-trading, Blockchain. Design thinking, Python, JavaScript, HMTL, CSS, Node.js, Python, Github, Replit, Algorithms, Scrum, Agile and others. 
+- Fintech concepts and technology. Developers toolkit in connecting the Frontend, Middleware to Backend, Automation, API, RPA, Bots and Future. 
+- DevOps: Build, Deploy, Monitor, AI, ML, Algo-trading, Blockchain and Algorithms
+- EdX: Design thinking, Python, JavaScript, HMTL, CSS, Node.js, Python, Github, Replit, Scrum and Agile. 
 - 
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for the course of study to be granted to the Government by Tel Aviv, Israel with a six-year overseas scholarship bond obligations.
