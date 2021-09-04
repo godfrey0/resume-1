@@ -1,5 +1,5 @@
 CURRICULUM VITAE
-- Ong Serthong Godfrey 王 赐 通
+- Ong Ser Thong Godfrey 王 赐 通
 - MBA, B Min, NUS FinTech Senior Developer, OMR, SDFEM.
 - www.linkedin.com/in/Godfrey0
 - https://github.com/godfreyong/resume.git
@@ -11,7 +11,7 @@ ASPIRE
 - FinTech developer in connecting the frontend, middleware to backend, automation and the internet of things.
 - 
 SKILLS
-- Fintech concepts and technology. Developers toolkit in connecting the Frontend, Middleware to Backend, Automation, API, RPA, Bots and Future. 
+- FinTech concepts and technology. Developers toolkit in connecting the Frontend, Middleware to Backend, Automation, API, RPA, Bots and Future. 
 - DevOps: Build, Deploy, Monitor, AI, ML, Algo-trading, Blockchain and Algorithms
 - EdX: Design thinking, Python, JavaScript, HMTL, CSS, Node.js, Python, Github, Replit, Scrum and Agile. 
 - 
