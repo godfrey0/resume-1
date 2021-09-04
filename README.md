@@ -148,7 +148,7 @@ BETHESDA HALL AMK 1989~1990
 BOOKWORMS CONSULTANTS 1983~1984
 - Media Manager
 - Primary Schools
-- Organiser of On-stage Life Show
+- Organised on-stage Life Show
 - 
 SILAT II PRIMARY SCHOOL 1983~1983
 - Relief Teacher
