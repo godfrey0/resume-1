@@ -8,10 +8,10 @@ CURRICULUM VITAE
 - serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - 
 ASPIRE
-- Mid-career switch seeker in FinTech connecting the frontend, middleware to backend, automation and development operations. 
+- Effective FinTech developer in connecting the frontend, middleware to backend, automation and the internet of things.
 - 
 SKILLS
-- Fintech concepts and technology. Developers toolkit in connecting the Frontend, Middleware to Backend, Automation, API and RPA. Development Operations (DevOps) Build, Deploy, Monitor, AI, ML, Algo-trading, Blockchain. In addition Design, Python, JavaScript, HMTL, CSS, Node.js, Python, Github, Replit, Algorithms, Scrum, agile and others. 
+- Fintech concepts and technology. Developers toolkit in connecting the Frontend, Middleware to Backend, Automation, API and RPA. DevOps: Build, Deploy, Monitor, AI, ML, Algo-trading, Blockchain. Design thinking, Python, JavaScript, HMTL, CSS, Node.js, Python, Github, Replit, Algorithms, Scrum, Agile and others. 
 - 
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for the course of study to be granted to the Government by Tel Aviv, Israel with a six-year overseas scholarship bond obligations.
@@ -299,12 +299,17 @@ OTHERS
 - Certificate of Achievement, Dirad 2020
 - Executive Program, SOLTAM Systems, Haifa, Israel 1976
 -
-AWARDS
+ACCOLADE
 - Spirit Of Enterprise Awards nominee 2012
 - Singapore Quality Class Awards nominee 2011
+- Workplace Safety Health Council BizSAFE Level 3
+- Letter of Commendation FairPrice
+- Letter of Commendation NTUC Club
+- Letter of Commendation AIG AHA SE Asia (Singapore)
+- Letter of Commendation DHL Supply Chain (Malaysia)
+- SAF Gold Medal Team Falling Plates Champion 1975
 - SAF Good Service Medal 1977
-- SAF Logistics Small Arms Competition 1975
-- Gold medal for Team Falling Plates Championship Match
+- 
 -
 QUOTE
 - Knowledge defined acquisition of data and information. Wisdom defined the use of knowledge to create value. Wisdom is gained through learning and practice, not just memorization. 15 May 2021 Russell Ackoff
