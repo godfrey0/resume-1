@@ -22,7 +22,7 @@ MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
 -
 PERSONAL PROJECT 
-- Develop an education software programme, September ~ February 2022
+- Developing an education software programme, September ~ February 2022
 - Power BI for business executives in collaboration with Nogawa Sentosa
 -
 FINAL PROJECT 
@@ -60,7 +60,7 @@ SDFEM., Ngee Ann Polytechnic 2015
 - Specialist Diploma Franchise Enterprise Management
 -
 -
-EXPERIENCE
+LEARNING EXPERIENCE
 - NUS FinTech School of Computing Batch 5, February ~ November 2021
 -
 SUCCESS FOREVER
