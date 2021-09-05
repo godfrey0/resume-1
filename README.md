@@ -58,11 +58,11 @@ B. Min., Theological Centre for Asia College 1996
 -
 SDFEM., Ngee Ann Polytechnic 2015
 - Specialist Diploma Franchise Enterprise Management
-- Franchising and Licensing Ass ociation (Singapore)
+- Franchising and Licensing Association (Singapore)
 -
 LEARNING EXPERIENCE
 - NUS FinTech School of Computing Batch 5, February ~ November 2021
-
+-
 EXPERIENCE
 -
 SUCCESS FOREVER
@@ -106,10 +106,30 @@ TRADISITICS
 - operate storage of stocks and parts
 -  
 (local and global brand products) 
-- AIG American Home Assurance, AHA Extended Warranty, Doctor Digital, Data Recovery, IDA NEU PC, Safety 5, U-Save,
+- - American Home Assurance (Extended Warranty) 
+- - Doctor Digital (Courts Megastore)
+- - Data Recovery (Best Denki Takashimaya)
+- - IDA NEU PC (Infocomm Media Authority)
+- - Best Denki Singapore (Safety 5 EW)  
+- - U-Save (NTUC Fairprice)
 -
 (local and global brand partners) 
-- AIG, American Home Assurance, Gain City Engineering, NOJIMA Courts Superstore, Best Denki, Harvey Norman, Australia; IC Frith, New Zealand; NTUC Fairprice, Office 1, IDA Infocomm Media Authority of Singapore, NEC Computers International, Japan; Packard Bell Computers, France; Gigabyte Computers, Taiwan.
+- - AIG
+- - AHA
+- - Gain City Engineering
+- - Nojima Courts Megastore
+- - Best Denki Takashimaya
+- - Challenfers Superstore
+- - Harvey Norman
+- - IC Frith
+- - NTUC Club
+- - NTUC FairPrice
+- - Office 1 
+- - IDA Infocomm Media Authority of Singapore 
+- - Packard Bell 
+- - Gigabyte (Taiwan)
+- - NEC Computers International
+- - DHL (Malaysia)
 -
 MINUS 10 Challenger Technologies Limited
 - Information Officer 2000~2001
