@@ -8,7 +8,7 @@ CURRICULUM VITAE
 - serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - 
 ASPIRE
-- FinTech developer in connecting the frontend, middleware to backend, automation and the internet of things.
+- FinTech developer in connecting the frontend, middleware to backend, Automation, Blockchain and the Internet of things.
 - 
 SKILLS
 - FinTech concepts and technology. Developers Toolkit in connecting the Frontend, Middleware to Backend, Automation, API, RPA, Bots and Future. 
