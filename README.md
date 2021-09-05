@@ -1,6 +1,6 @@
 CURRICULUM VITAE
 - Ong Ser Thong Godfrey 王 赐 通
-- MBA (Adelaide), B Min, Dip Th, NUS FinTech Senior Developer (Level 3), QMR, SDFEM.
+- MBA (Adelaide), B Min, Dip Th, NUS FinTech Senior Developer (Level 3), QMR, SDFEM (FLA).
 - www.linkedin.com/in/Godfrey0
 - https://github.com/godfreyong/resume.git
 - https://www.researchgate.net/profile/Ong-Godfrey
@@ -58,7 +58,7 @@ B. Min., Theological Centre for Asia College 1996
 -
 SDFEM., Ngee Ann Polytechnic 2015
 - Specialist Diploma Franchise Enterprise Management
--
+- Franchising and Licensing Ass ociation (Singapore)
 -
 LEARNING EXPERIENCE
 - NUS FinTech School of Computing Batch 5, February ~ November 2021
