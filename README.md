@@ -111,7 +111,7 @@ TRADISITICS
 - - Data Recovery (Best Denki Takashimaya)
 - - IDA NEU PC (Infocomm Media Authority)
 - - Best Denki Singapore (Safety 5 EW)  
-- - U-Save (NTUC Fairprice)
+- - U-Save (NTUC FairPrice)
 -
 (local and global brand partners) 
 - - AIG
@@ -124,6 +124,9 @@ TRADISITICS
 - - IC Frith
 - - NTUC Club
 - - NTUC FairPrice
+- - Cheers
+- - ESSO
+- - Mobil
 - - Office 1 
 - - IDA Infocomm Media Authority of Singapore 
 - - Packard Bell 
