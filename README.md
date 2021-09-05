@@ -8,12 +8,14 @@ CURRICULUM VITAE
 - serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - 
 ASPIRE
-- FinTech developer in connecting the frontend, middleware to backend, Automation, Blockchain and the Internet of things.
+- A wise FinTech developer with automation, block chain, supply chain and in connecting the frontend, middleware to the backend.
 - 
 SKILLS
-- FinTech concepts and technology. Developers Toolkit in connecting the Frontend, Middleware to Backend, Automation, API, RPA, Bots and Future. 
-- DevOps: Build, Deploy, Monitor, AI, ML, Algo-trading, Blockchain and Algorithms
-- ed X: Design thinking, Python, JavaScript, HMTL, CSS, Node.js, Python, Github, Replit, Scrum and Agile. 
+- Algorithm, Block chain, Supply chain, NUS money ...
+- FinTech concepts, cases, technology, AI, ML, Digitalising. 
+- Developers Toolkit: APIs, RPA, Bots and in connecting the Frontend, Middleware to Backend. 
+- DevOps: Build, Deploy, Monitor, Blockchain and Algo-trading.
+- edX: JavaScript, Design thinking, Python, HMTL, CSS, Node.js, Python, IDE, Github, Replit, Scrum and Agile. 
 - 
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for the course of study to be granted to the Government by Tel Aviv, Israel with a six-year overseas scholarship bond obligations.
@@ -64,7 +66,8 @@ LEARNING EXPERIENCE
 - NUS FinTech School of Computing Batch 5, February ~ November 2021
 -
 EXPERIENCE
--
+- Acquainted with supply chain, brown & white, project management, network, dotcom, hardware, software, biz-safe, construction, operation and finance industry.
+- 
 SUCCESS FOREVER
 - Project Manager 2018~2020
 -
@@ -285,7 +288,7 @@ National University of Singapore, School of Computing
 - How to Critically Reason with Data on Microsoft Excel
 - The Fundamentals of Algorithm Design and the Politics of Algorithms
 - 
-Singapore Business Federation, SBF Business Institute
+Singapore Business Federation SBF BUSINESS INSTITUTE
 - - courses completed:
 - Strategic Decision Making, eCornell Course 2019
 - Vetting and Securing a Joint venture Agreement 2019
