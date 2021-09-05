@@ -8,7 +8,7 @@ CURRICULUM VITAE
 - serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - 
 ASPIRE
-- A wise FinTech developer with automation, block chain, supply chain and in connecting the frontend, middleware to the backend.
+- As a wise FinTech developer in connecting the frontend, middleware to the backend, block chain, supply chain and automation.
 - 
 SKILLS
 - Algorithm, Block chain, Supply chain, NUS money ...
