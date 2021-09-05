@@ -1,6 +1,6 @@
 CURRICULUM VITAE
 - Ong Ser Thong Godfrey 王 赐 通
-- MBA, B Min, NUS FinTech Senior Developer, OMR, SDFEM.
+- MBA, B Min, Dip Th, NUS FinTech Senior Developer, OMR, SDFEM.
 - www.linkedin.com/in/Godfrey0
 - https://github.com/godfreyong/resume.git
 - https://www.researchgate.net/profile/Ong-Godfrey
@@ -11,9 +11,9 @@ ASPIRE
 - FinTech developer in connecting the frontend, middleware to backend, automation and the internet of things.
 - 
 SKILLS
-- FinTech concepts and technology. Developers toolkit in connecting the Frontend, Middleware to Backend, Automation, API, RPA, Bots and Future. 
+- FinTech concepts and technology. Developers Toolkit in connecting the Frontend, Middleware to Backend, Automation, API, RPA, Bots and Future. 
 - DevOps: Build, Deploy, Monitor, AI, ML, Algo-trading, Blockchain and Algorithms
-- EdX: Design thinking, Python, JavaScript, HMTL, CSS, Node.js, Python, Github, Replit, Scrum and Agile. 
+- ed X: Design thinking, Python, JavaScript, HMTL, CSS, Node.js, Python, Github, Replit, Scrum and Agile. 
 - 
 DEED
 - Pursued an award granted by the Government of the Republic of Singapore for the course of study to be granted to the Government by Tel Aviv, Israel with a six-year overseas scholarship bond obligations.
@@ -27,27 +27,27 @@ PERSONAL PROJECT
 -
 FINAL PROJECT 
 - Showcase NUS SGUS FinTech Batch 5F solo capacity, August ~ November 2021
-- Quant Connect Submitting Alpha with Professor Anand Bhojan as Instructor and Mentor by PhD candidate Dixtant Mittal 
+- Quant Connect Submitting Alpha with Professor Anand Bhojan the Instructor and Mentor by PhD candidate Dixtant Mittal 
 - 
 COMPLETED PROJECT 
-- Harvard University CS50 edX course of study by Harvard and MIT, May ~ June 2021
+- Harvard University CS50 ed X course of study by Harvard and MIT, May ~ June 2021
 - HTML CSS JavaScript Node.js Python collaboration IDE with Github and Replit
 - https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
 - https://godfrey0.github.io/IroIroJapaneseRestaurant
 - http://iro-iro.iroirojpnrest.repl.co
 - 
-NUS School of Computing, Professional Certificate in FinTech Associate, FinTech Developer and FinTech Senior Developer (level 3).
+NUS School of Computing, Professional Certificate in FinTech Associate (Level 1), Developer (Level 2) and Senior Developer (Level 3).
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
-NUS Faculty of Arts and Social Sciences Professional Certificate in Human and Automated Managerial Skills 
+NUS Faculty of Arts and Social Sciences, Professional Certificate in Human and Automated Managerial Skills 
 - https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
-NUS School of Computing Professional Certificate in Analytics and AI for Finance, Retail and Supply Chain
+NUS School of Computing, Professional Certificate in Analytics and AI for Finance, Retail and Supply Chain
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - 
 Adelaide MBA., Adelaide Business School, University of Adelaide 2001
 - Read Economic under Professor Clifford Walsh (Nobel prize nominee) 
-- Australian Financial Review (ranked #1 in South Australia and #2 in Australia) AFR BOSS 2020.
+- Ranked #1 in South Australia and #2 in Australia, AFR BOSS 2020.
 - 
 Dip. Th., Singapore Bible College 1987
 - Read Hermeneutics under Professor Bernard L. Ramm 
