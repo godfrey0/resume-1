@@ -1,6 +1,6 @@
 CURRICULUM VITAE
 - Ong Ser Thong Godfrey 王 赐 通
-- MBA (Adelaide), B Min, Dip Th, NUS FinTech Senior Developer (Level 3), QMR, SDFEM (FLA).
+- MBA (Adelaide), B Min, Dip Th, NUS School of Computing, FinTech Senior Developer (Level 3), QMR, SDFEM (FLA).
 - www.linkedin.com/in/Godfrey0
 - https://github.com/godfreyong/resume.git
 - https://www.researchgate.net/profile/Ong-Godfrey
@@ -62,6 +62,8 @@ SDFEM., Ngee Ann Polytechnic 2015
 -
 LEARNING EXPERIENCE
 - NUS FinTech School of Computing Batch 5, February ~ November 2021
+
+EXPERIENCE
 -
 SUCCESS FOREVER
 - Project Manager 2018~2020
@@ -288,7 +290,7 @@ OTHERS
 - BCA, Certified Installer Air-Conditioning Structure, 2014
 - MOM, Certified Biz Safe Level 1,2 & 3 Risk Management 2016
 - GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
-- Unarmed Combat Instructor, SAFTI Sch of Physical Training Institute, 1980
+- Unarmed Combat Instructor, SAFTI School of Physical Training Institute, 1980
 - Armament Tech Class 1, Ordnance Engineering Training Institute, 1981
 - Armourer to Gunfitter Conversion Course, SAF OETI, 1977
 - Gunfitter to Armourer Conversion Course, SAF OETI, 1977
