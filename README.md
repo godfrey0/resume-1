@@ -1,6 +1,6 @@
 CURRICULUM VITAE
 - Ong Ser Thong Godfrey 王 赐 通
-- MBA, B Min, Dip Th, NUS FinTech Senior Developer, OMR, SDFEM.
+- MBA, B Min, Dip Th, QMR, SDFEM, NUS FinTech Senior Developer (Level 3).
 - www.linkedin.com/in/Godfrey0
 - https://github.com/godfreyong/resume.git
 - https://www.researchgate.net/profile/Ong-Godfrey
