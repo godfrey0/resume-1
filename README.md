@@ -24,7 +24,7 @@ SKILLS
 - edX by Harvard and MIT: JavaScript, Design, Python, HMTL, CSS, Node.js, Python, IDE, Github, Replit, Scrum and Agile. 
 - 
 DEED
-- At 19 was awardedan overseas course of study by the Government of Singapore, with six-year overseas bond obligations.
+- At 19 was awarded an overseas course of study by the Government of Singapore, with six-year overseas bond obligations.
 -
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
@@ -34,7 +34,7 @@ FINAL PROJECT
 - Quant Connect Submitting Alpha with Professor Anand Bhojan the Instructor and Mentor by PhD candidate Dixtant Mittal 
 - 
 COMPLETED PROJECT 
-- Harvard University CS50 ed X course of study by Harvard and MIT, May ~ June 2021
+- CS50 edX course of study by Harvard and MIT, May ~ June 2021
 - HTML CSS JavaScript Node.js Python collaboration IDE with Github and Replit
 - https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
 - https://godfrey0.github.io/IroIroJapaneseRestaurant
@@ -74,41 +74,19 @@ SUCCESS FOREVER
 - Project Manager 2018~2020
 -
 - In-charge:
-- budget 
-- financial forecasting
-- factoring
-- secure the structural work project 
-- monitor the scope of works
-- manage KPI with HDB
-- transfer back to Town Council
-- resolve unforeseen events
-- succeed in completing the project
+- budget, financial forecasting, factoring, project, KPI with HDB, succeed in completing the project
 -
 ETANA RESOURCES
 - Senior Engineer 2017~2018
 - 
 - In-charge:
-- maintenance of heavy SAF equipment
-- service FH 2000
-- service LWH Pegasus
-- service SSPH 1 Primus
-- perform triple F testing
+- maintenance of heavy SAF equipment, FH 2000, LWH Pegasus, SSPH 1 Primus, triple F testing
 -
 TRADISITICS
 - Technical Officer 2000~2017
 - 
 - In-charge:
-- budget 
-- financial forecasting
-- reverse factoring
-- factoring 
-- supply chain financing
-- secure new contracts
-- fulfil contractual obligation 
-- operate the call centre
-- operate the service centre
-- operate on-site service
-- operate storage of stocks and parts
+- budget, financial forecasting, factoring, supply chain financing, contractual obligation, call centre, service centre
 -  
 (local and global brand products) 
 - - American Home Assurance (Extended Warranty) 
@@ -143,23 +121,7 @@ MINUS 10 Challenger Technologies Limited
 - Information Officer 2000~2001
 - 
 - In-charge:
-- lobby multimedia super corridor Malaysia
-- e Commerce
-- e Auction
-- chart business development
-- design the flow plans
-- operate payment gateway with banks
-- budget 
-- financial forecasting
-- factoring
-- supply chain financing
-- secure new dot com contracts
-- fulfil contractual obligation 
-- operate the front eoffice on-line transaction
-- operate the web-based centric activity
-- operate JIT stocks inventory
-- operate back office delivery service
-- operate storage of stocks and parts
+- lobby multimedia super corridor Malaysia, e-Commerce, payment gateway with banks, supply chain financing, dot com contracts, web-based centric activity, JIT stocks inventory
 -
 SANOFI RHONE POULENC PHARMA 1993~2001
 - Executive
@@ -196,9 +158,9 @@ SAF OETI, School of Doctrine 1973~1983
 -
 -
 EDUCATION
-- National University of Singapore 2021~Present
+- National University of Singapore, SoC 2021~Present
 -
-NUS School of Computing Professional Certificate in FinTech Senior Developer (Level 3)
+NUS SoC, Professional Certificate in FinTech Senior Developer (Level 3)
 - https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5 
 - - courses completed:
 - DevOps: Build, Deploy and Monitor
@@ -208,7 +170,7 @@ NUS School of Computing Professional Certificate in FinTech Senior Developer (Le
 - Algo-trading: Theory and Practice
 - https://bit.ly/3geTJys
 -
-- NUS School of Computing Professional Certificate in FinTech Developer (Level 2)
+- NUS SoC, Professional Certificate in FinTech Developer (Level 2)
 - https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend
@@ -218,7 +180,7 @@ NUS School of Computing Professional Certificate in FinTech Senior Developer (Le
 - APIs and RPA: Automation, Bots and Future
 - https://bit.ly/3z1tmU6
 -
-- NUS School of Computing Professional Certificate in FinTech Associate (Level 1)
+- NUS SoC, Professional Certificate in FinTech Associate (Level 1)
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
 - - courses completed:
 - FinTech: Concepts, Cases and Technology
@@ -230,7 +192,7 @@ NUS School of Computing Professional Certificate in FinTech Senior Developer (Le
 - Delight Customers and Protect Privacy with AI and Blockchain
 - https://bit.ly/3D03FFW
 - 
-- NUS School of Computing Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain
+- NUS SoC, Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - - courses completed:
 - Making Fast Decisions with Business Analytics
@@ -251,8 +213,8 @@ NUS School of Computing Professional Certificate in FinTech Senior Developer (Le
 - How to Critically Reason with Data on Microsoft Excel
 - The Fundamentals of Algorithm Design and the Politics of Algorithms
 -
-edX by Harvard and MIT
-- NUS, Elective Module
+edX course by Harvard and MIT
+- NUS, Core Elective Module
 - - courses completed:
 - University Cote d’ Azur, World Wide Web Consortium W3Cx, JS.Ox: JavaScript Introduction
 - https://courses.edx.org/certificates/8cbfb4ea8135443faeb10af5876f1fba
