@@ -10,7 +10,7 @@ CAREER SUMMARY
 crossover through mid-career switch from Information to Financial technology. Dare to seek employment in the FinTech,
 by counting on the fresh capacity building skills from NUS and in conjunction with my unique set of experience from the
 supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to
-comprehension the concepts from the helicopter view, able to think critically and to iron out the rough patches.
+comprehen the concepts from the helicopter view, able to think critically and to iron out the rough patches.
 Currently working on a SG United Skills project in quant connect cum submitting Alpha, with python.
 -
 ASPIRE
