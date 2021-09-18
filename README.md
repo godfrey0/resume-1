@@ -6,25 +6,29 @@ CURRICULUM VITAE
 - www.linkedin.com/in/Godfrey0 | https://www.researchgate.net/profile/Ong-Godfrey
 - serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - 
+CAREER SUMMARY
+- Many years of experience from the Engineering to Life science to Information Technology to Supply Chain. Making
+crossover through mid-career switch from Information to Financial technology. Dare to seek employment in the FinTech,
+by counting on the fresh capacity building skills from NUS and in conjunction with my unique set of experience from the
+supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to
+comprehension the concepts from the helicopter view, able to think critically and to iron out the rough patches.
+Currently working on a SG United Skills project in quant connect cum submitting Alpha, with python.
+-
 ASPIRE
-- As a wise FinTech developer in connecting the frontend, middleware to the backend, block chain, supply chain and automation.
+- In preparation to join as the developer in connecting FinTech.
 - 
 SKILLS
 - Algorithm, Block chain, Supply chain, NUS money ...
 - FinTech concepts, cases, technology, AI, ML, Digitalising. 
-- Developers Toolkit: APIs, RPA, Bots and in connecting the Frontend, Middleware to Backend. 
 - DevOps: Build, Deploy, Monitor, Blockchain and Algo-trading.
-- edX: JavaScript, Design thinking, Python, HMTL, CSS, Node.js, Python, IDE, Github, Replit, Scrum and Agile. 
+- Developers Toolkit: APIs, RPA, Bots and in connecting the Frontend, Middleware to Backend. 
+- edX by Harvard and MIT: JavaScript, Design, Python, HMTL, CSS, Node.js, Python, IDE, Github, Replit, Scrum and Agile. 
 - 
 DEED
-- Pursued an award granted by the Government of the Republic of Singapore for the course of study to be granted to the Government by Tel Aviv, Israel with a six-year overseas scholarship bond obligations.
+- At 19 was awardedan overseas course of study by the Government of Singapore, with six-year overseas bond obligations.
 -
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
--
-PERSONAL PROJECT 
-- Developing an education software programme, September ~ February 2022
-- Power BI for business executives in collaboration with Nogawa Sentosa
 -
 FINAL PROJECT 
 - Showcase NUS SGUS FinTech Batch 5F solo capacity, August ~ November 2021
