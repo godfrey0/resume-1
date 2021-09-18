@@ -6,12 +6,7 @@ CURRICULUM VITAE
 - www.linkedin.com/in/Godfrey0 | https://www.researchgate.net/profile/Ong-Godfrey | serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - 
 CAREER SUMMARY
-- Many years of experience from the Engineering to Life science to Information Technology to Supply Chain. Making
-crossover through mid-career switch from Information to Financial technology. Dare to seek employment in the FinTech,
-by counting on the fresh capacity building skills from NUS and in conjunction with my unique set of experience from the
-supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to
-comprehen the concepts from the helicopter view, able to think critically and to iron out the rough patches.
-Currently working on a SG United Skills project in quant connect cum submitting Alpha, with python.
+- Many years of experience from the Engineering to Life science to Information Technology to Supply Chain. Making crossover through mid-career switch from Information technology to FinTech. Dare to seek employment in the Financial Technology, by counting on the fresh capacity building skills from NUS and in conjunction with unique set of experience from the supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to comprehend the concepts from helicopter view, to think critically and to iron out the rough patches. Currently working on a SG United Skills project in quant connect cum submitting Alpha, with python.
 -
 ASPIRE
 - In preparation to join as the developer in connecting FinTech.
