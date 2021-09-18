@@ -1,10 +1,9 @@
 CURRICULUM VITAE
 - Ong Ser Thong Godfrey 王 赐 通
-- MBA (Minor in Finance), B Min (Minor in CE), Dip Th, QMR (SAPI), SDFEM (FLA, NP), NUS SoC FinTech Senior Developer (Level 3).
-- www.linkedin.com/in/Godfrey0
+- MBA (Minor in Finance), Dip Th, BA Min (Minor in CE), QMR (SAPI), SDFEM (FLA, NP), NUS SoC FinTech Senior Developer (Level 3).
 - https://github.com/godfreyong/resume.git
-- https://www.researchgate.net/profile/Ong-Godfrey
 - https://v2.credential.net/profile/ongserthong325210/wallet
+- www.linkedin.com/in/Godfrey0 | https://www.researchgate.net/profile/Ong-Godfrey
 - serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - 
 ASPIRE
