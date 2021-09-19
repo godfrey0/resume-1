@@ -44,7 +44,7 @@ NUS Faculty of Arts and Social Sciences, Professional Certificate in Human and A
 NUS School of Computing, Professional Certificate in Analytics and AI for Finance, Retail and Supply Chain
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - 
-Adelaide MBA., Adelaide Business School, University of Adelaide 2001
+MBA., Adelaide Business School, University of Adelaide 2001
 - Read Economic under Professor Clifford Walsh (Nobel prize nominee) 
 - Ranked #1 in South Australia and #2 in Australia, AFR BOSS 2020.
 - 
@@ -52,9 +52,12 @@ Dip. Th., Singapore Bible College 1987
 - Read Hermeneutics under Professor Bernard L. Ramm 
 - Read Curriculum under Professor Ng Peh Cheng
 -
-B. Min., Theological Centre for Asia College 1996
+BA. Min., Theological Centre for Asia College 1996
 - Minor in Christian Education
 -
+QMR, Singapore Association Pharmaceutical Industries 1994
+- Qualified Medical Representative
+- 
 SDFEM., Ngee Ann Polytechnic 2015
 - Specialist Diploma Franchise Enterprise Management
 - Franchising and Licensing Association (Singapore)
@@ -227,7 +230,7 @@ Singapore Business Federation SBF BUSINESS INSTITUTE
 -
 OTHERS
 - MBA, Adelaide Business School, University of Adelaide 2001
-- B.Min. (Hons); (Minor in Christian Education) Theological Centre for Asia College 1996
+- BA Min. (Minor in Christian Education), Theological Centre for Asia College 1996
 - Dip. Th., Singapore Bible College 1987 
 - Dip. LTI., CEF Missouri, USA 1984
 - SDFEM., Franchise Enterprise Management, Ngee Ann Polytechnic 2015
