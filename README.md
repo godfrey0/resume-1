@@ -92,11 +92,9 @@ TRADISITICS
 - - U-Save (NTUC FairPrice)
 -
 (local and global brand partners) 
-- - AIG | AHA | Gain City Engineering | Nojima Courts Megastore | Best Denki Takashimaya | Challenfers Superstore | Harvey Norman | 
-- - IC Frith | NTUC Club | NTUC FairPrice | Cheers | ESSO |Mobil | Office 1 | Packard Bell | Gigabyte (Taiwan) |
-- - IDA Infocomm Media Authority of Singapore 
-- - NEC Computers International
-- - DHL (Malaysia)
+- - AIG | AHA | Gain City Engineering | Nojima Courts Megastore | Harvey Norman | Best Denki Takashimaya | Challengers Superstore | 
+- - IC Frith | NTUC Club | NTUC FairPrice | Cheers | ESSO |Mobil | Office 1 | Packard Bell | Gigabyte (Taiwan) | DHL (Malaysia) |
+- - NEC computers International | IDA Infocomm Media Authority of Singapore 
 -
 MINUS 10 Challenger Technologies Limited
 - Information Officer 2000~2001
