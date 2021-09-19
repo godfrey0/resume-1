@@ -93,10 +93,8 @@ TRADISITICS
 -
 (local and global brand partners) 
 - - AIG | AHA | Gain City Engineering | Nojima Courts Megastore | Best Denki Takashimaya | Challenfers Superstore | Harvey Norman | 
-- - IC Frith | NTUC Club | NTUC FairPrice | Cheers | ESSO |Mobil | Office 1 
+- - IC Frith | NTUC Club | NTUC FairPrice | Cheers | ESSO |Mobil | Office 1 | Packard Bell | Gigabyte (Taiwan) |
 - - IDA Infocomm Media Authority of Singapore 
-- - Packard Bell 
-- - Gigabyte (Taiwan)
 - - NEC Computers International
 - - DHL (Malaysia)
 -
