@@ -33,7 +33,7 @@ COMPLETED PROJECT
 - HTML CSS JavaScript Node.js Python collaboration IDE with Github and Replit
 - https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
 - https://godfrey0.github.io/IroIroJapaneseRestaurant
-- http://iro-iro.iroirojpnrest.repl.co
+- https://iro-iro.iroirojpnrest.repl.co
 - 
 NUS School of Computing, Professional Certificate in FinTech Associate (Level 1), Developer (Level 2) and Senior Developer (Level 3).
 - https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
