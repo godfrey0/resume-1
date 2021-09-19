@@ -92,8 +92,8 @@ TRADISITICS
 - - U-Save (NTUC FairPrice)
 -
 (local and global brand partners) 
-- - AIG | AHA | Gain City Engineering | Nojima Courts Megastore | Best Denki Takashimaya | Challenfers Superstore
-- - Harvey Norman | IC Frith | NTUC Club | NTUC FairPrice | Cheers | ESSO |Mobil | Office 1 
+- - AIG | AHA | Gain City Engineering | Nojima Courts Megastore | Best Denki Takashimaya | Challenfers Superstore | Harvey Norman | 
+- - IC Frith | NTUC Club | NTUC FairPrice | Cheers | ESSO |Mobil | Office 1 
 - - IDA Infocomm Media Authority of Singapore 
 - - Packard Bell 
 - - Gigabyte (Taiwan)
