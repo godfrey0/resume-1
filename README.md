@@ -1,12 +1,12 @@
 CURRICULUM VITAE
 - Ong Ser Thong Godfrey 王 赐 通
-- NUS SoC FinTech Senior Developer (Level 3), QMR (SAPI), SDFEM (NP), Dip Th, MBA (Minor in Finance), BA Min (Minor in CE).
+- NUS SoC FinTech Senior Developer, QMR (SAPI), SDFEM (NP), Dip Th, BA Min (Minor in CE), MBA (Adelaide) 
 - https://github.com/godfreyong/resume.git |
 - https://v2.credential.net/profile/ongserthong325210/wallet |
 - www.linkedin.com/in/godfrey0 | https://www.researchgate.net/profile/ong-godfrey | serthongong@gmail.com | +65 81813136 | t0921234@u.nus.edu |  
 - 
 CAREER SUMMARY
-- Many years of experience from the Engineering to Life science to Information Technology to Supply Chain. Making crossover through mid-career switch from Information technology to FinTech. Dare to seek employment in the Financial Technology, by counting on the fresh capacity building skills from NUS and in conjunction with unique set of experience from the supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to comprehend the concepts from helicopter view, to think critically and to iron out the rough patches. Currently working on a SG United Skills project in quant connect cum submitting Alpha, with python.
+- Earlier in career, was award an overseas course of study by the Government of Singapore. Upon completion of the six-year bond obligations, I moved from Engineering to Life Sciences. Many years of experience from the Engineering to Life science to Information Technology to Supply Chain. Making crossover through mid-career switch from Information technology to FinTech. Dare to seek employment in the International Financial Technology, by counting on the fresh capacity building skills from NUS and in conjunction with unique set of experience from the supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to comprehend the concepts from helicopter view, to think critically and to iron out the rough patches. Currently working on a SG United Skills project in quant connect cum submitting Alpha, with python.
 -
 ASPIRE
 - In preparation to join as the developer in connecting FinTech.
